@@ -1,0 +1,6 @@
+Map Description Guide:
+- Identify major changes between the two maps.
+- Describe additions, removals, and redevelopments.
+- Use location phrases (to the north, next to, in the center).
+- Use passive voice for transformations (was converted into, was replaced by).
+- Focus on overall transformation, not minor details.

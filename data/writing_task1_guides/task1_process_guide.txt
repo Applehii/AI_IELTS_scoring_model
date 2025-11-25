@@ -1,0 +1,7 @@
+Process Diagram Guide:
+- Identify the first and last stages clearly.
+- Describe each stage in logical order.
+- Use passive voice (is produced, is heated, is transported).
+- Use sequencing connectors (first, next, following this, finally).
+- Group stages if they share a similar function.
+- No comparisons — describe steps only.

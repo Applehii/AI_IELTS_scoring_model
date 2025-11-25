@@ -1,0 +1,5 @@
+Table Guide:
+- Look for the highest and lowest values in each row or column.
+- Identify consistent patterns or outliers.
+- Compare categories by grouping similar figures.
+- Avoid listing every number; summarize trends.

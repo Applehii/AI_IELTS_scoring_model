@@ -1,0 +1,11 @@
+Common key features to describe in Task 1:
+- Highest and lowest values
+- Major increases or decreases
+- Notable similarities or differences
+- Sudden spikes or drops
+- Stability or no change
+- Start and end points in time-series data
+- Key stages in a process
+- Major regions or areas in maps
+
+Examiners expect clear attention to these features.

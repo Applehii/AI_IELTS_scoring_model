@@ -1,0 +1,4 @@
+Coherence & Cohesion Band 4:
+- Ideas are not logically organized.
+- Very limited use of cohesive devices.
+- Hard to follow due to lack of clarity.

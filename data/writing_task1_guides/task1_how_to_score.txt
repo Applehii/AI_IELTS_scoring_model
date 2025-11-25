@@ -1,0 +1,10 @@
+How Task 1 is evaluated:
+- TR (Task Achievement): Whether the candidate summarized key features, trends, changes, and comparisons.
+- CC (Coherence & Cohesion): Whether ideas are logically structured, with proper paragraphing and linking.
+- LR (Lexical Resource): Use of appropriate academic vocabulary, comparisons, quantifiers, and variation.
+- GRA (Grammar Range & Accuracy): Accurate use of tenses, comparatives, complex sentences, and passive forms.
+
+Common requirements:
+- Identify the most significant trends or categories.
+- Describe changes over time using appropriate tenses.
+- Avoid unnecessary details unless they support key patterns.

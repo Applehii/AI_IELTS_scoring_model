@@ -1,0 +1,9 @@
+Main IELTS Task 2 question types:
+1. Opinion (Agree/Disagree)
+2. Discussion (Discuss both views)
+3. Advantages/Disadvantages
+4. Problem/Solution
+5. Cause/Effect
+6. Two-part question
+
+Each type has specific expectations in structure and development.

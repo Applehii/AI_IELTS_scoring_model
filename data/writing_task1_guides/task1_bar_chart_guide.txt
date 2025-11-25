@@ -1,0 +1,6 @@
+Bar Chart Guide:
+- Identify which category is highest and lowest.
+- Compare values across groups.
+- Look for categories with similar heights.
+- Use comparative structures (X was much higher than Y).
+- Group information instead of listing each value individually.
