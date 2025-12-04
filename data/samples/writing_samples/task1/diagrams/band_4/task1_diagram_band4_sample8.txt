@@ -1,0 +1,19 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample8","topics": ["paper","finished","diagram","process","stages","making"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the stages of making paper.
+
+[SUMMARY]
+The process show paper make. Wood cut and crush.
+
+[SAMPLE_ANSWER]
+Band 4
+The process show paper make. Wood cut and crush. Then mix with water. Later dry and roll to big sheet. Finished paper go to pack.
+
+[OVERVIEW]
+Wood turn to paper.
+
+[RATIONALE]
+• Missing technical stages  
+• Very low detail  
+• Grammar mistakes

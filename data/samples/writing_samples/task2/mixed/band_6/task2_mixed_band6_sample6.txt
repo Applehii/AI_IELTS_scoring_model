@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample6","topics": ["online","they","learning","courses","effective","people"],"rag_ready": true}
+
+[QUESTION]
+Many people choose online courses for learning new skills. Why is this happening? Do you think online learning is effective?
+
+[SUMMARY]
+People choose online courses because they are flexible and usually cheaper than traditional classes. They can study whenever they have free time, which is useful for adults with busy schedules.
+
+[SAMPLE_ANSWER]
+Band 6
+People choose online courses because they are flexible and usually cheaper than traditional classes. They can study whenever they have free time, which is useful for adults with busy schedules. Online learning is effective for theoretical subjects, but it may not work well for practical skills that require hands-on experience. Overall, I think online courses are a good option, but they should be combined with offline practice when necessary.
+
+[OVERVIEW]
+Shows reasonable evaluation of both sides.
+
+[RATIONALE]
+• Adequate explanation
+• Mostly clear argument
+• Limited examples
+• Grammar errors but meaning clear

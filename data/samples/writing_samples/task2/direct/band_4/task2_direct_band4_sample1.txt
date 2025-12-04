@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample1","topics": ["because","famous","want","they","positive","negative"],"rag_ready": true}
+
+[QUESTION]
+Why do many young people want to become famous? Is this a positive or negative trend?
+
+[SUMMARY]
+Many young people want famous because they think it make life easy. They see celebrities on internet and want same life.
+
+[SAMPLE_ANSWER]
+Band 4
+Many young people want famous because they think it make life easy. They see celebrities on internet and want same life. It is positive because they get more money. But also negative because famous is stress. I think it depends.
+
+[OVERVIEW]
+Simple ideas, no explanation.
+
+[RATIONALE]
+• Incorrect grammar (want famous, make life easy)
+• No development of ideas
+• Very short, no examples
+• Weak vocabulary

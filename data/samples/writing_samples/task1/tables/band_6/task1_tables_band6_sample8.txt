@@ -1,0 +1,29 @@
+{"band": 6,"task": "task1_tables","sample_id": "task1_tables_band6_sample8","topics": ["expenditure","urban","rural","households","household","table"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of household expenditure on different items in urban and rural areas.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table elucidates substantial differences in household expenditure allocation between urban and rural populations. The most striking disparity concerns food expenditure, where rural households allocate 40% compared to urban households' 30%, reflecting food's greater economic burden in agricultural communities despite lower living costs.
+
+[SAMPLE_ANSWER]
+Band 6
+The table elucidates substantial differences in household expenditure allocation between urban and rural populations. The most striking disparity concerns food expenditure, where rural households allocate 40% compared to urban households' 30%, reflecting food's greater economic burden in agricultural communities despite lower living costs. Conversely, housing and transportation exhibit inverse patterns, with urban residents spending considerably more: 25% on housing versus 15% rural, and 20% on transportation versus 10% rural.
+
+These allocation differences reflect fundamental socioeconomic distinctions between urban and rural lifestyles. Rural populations, despite lower absolute incomes, dedicate a larger proportion to food acquisition, suggesting either lower agricultural self-sufficiency than assumed or price disparities between urban and rural markets. The substantial urban expenditure on housing and transportation reflects both higher property values and infrastructural necessities of urban living. Urban residents face commuting demands and housing market pressures absent in rural areas where agricultural land costs differ fundamentally.
+
+The data illuminates how economic structures shape consumption patterns independently of income levels. Policy implications include reconsidering rural development strategies to improve agricultural productivity and market access, potentially reducing the food expenditure burden. Urban planning should address transportation costs through infrastructure development. These expenditure patterns suggest that improving quality of life requires geographically targeted interventions addressing distinct economic realities rather than uniform national policies. Understanding these regional variations is essential for equitable socioeconomic development and poverty reduction initiatives.
+
+[OVERVIEW]
+Sophisticated analysis of urban-rural economic differences. Links to policy implications. Well-reasoned and comprehensive treatment.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (elucidates, disparities, illuminates)
+- Explains underlying socioeconomic causes
+- Discusses policy implications thoughtfully
+- Analyzes complex relationships between variables
+- Clear, logical organization with depth
+- Strong analytical and critical thinking
+- Excellent task achievement

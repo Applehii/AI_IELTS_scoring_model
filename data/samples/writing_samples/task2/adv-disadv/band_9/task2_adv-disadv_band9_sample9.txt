@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample9","topics": ["travel","careers","may","disadvantages","relationships","adaptability"],"rag_ready": true}
+
+[QUESTION]
+More people are choosing careers that allow travel. What are the advantages and disadvantages?
+
+[SUMMARY]
+Travel-oriented careers broaden individuals’ worldviews and cultivate adaptability. Working in diverse environments enhances professional competence and cultural intelligence.
+
+[SAMPLE_ANSWER]
+Band 9
+Travel-oriented careers broaden individuals’ worldviews and cultivate adaptability. Working in diverse environments enhances professional competence and cultural intelligence. However, frequent travel disrupts personal relationships and may cause long-term health issues such as fatigue or irregular sleep patterns. Career stability may also decline due to constant relocation. Thus, while travel enriches personal and professional growth, it demands significant personal sacrifice.
+
+[OVERVIEW]
+Broadens worldview but strains relationships and stability.
+
+[RATIONALE]
+• Excellent lexical control (cultural intelligence, adaptability)
+• Complex, balanced arguments
+• Mature insight

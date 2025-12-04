@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample3","topics": ["small","village","houses","into","town","area"],"rag_ready": true}
+
+[QUESTION]
+The maps show how a village developed into a small town.
+
+[SUMMARY]
+The village transformed into a small town during the given period. Initially, the area consisted of a few houses along a narrow road.
+
+[SAMPLE_ANSWER]
+Band 6
+The village transformed into a small town during the given period. Initially, the area consisted of a few houses along a narrow road. Later, additional roads were constructed, forming a simple grid layout. More houses were built, and a school appeared in the centre. On the north side, the previous farmland was replaced by modern housing blocks. A small shopping area was also added near the main intersection.
+
+[OVERVIEW]
+More buildings, more roads, and new public facilities were introduced.
+
+[RATIONALE]
+• Good clarity; logical flow
+• Limited detail about exact positions
+• Some incorrect assumptions
+• Vocabulary adequate but not advanced

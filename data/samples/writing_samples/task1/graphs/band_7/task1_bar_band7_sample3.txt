@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_bar_band7_sample3","topics": ["income","households","spending","groups","across","significantly"],"rag_ready": true}
+
+[QUESTION]
+The bar chart compares the average monthly spending of households in four income groups.
+
+[SUMMARY]
+Spending patterns varied noticeably across income levels. Low-income households spent the most on food (about $500), while high-income households paid significantly more for entertainment (around $600).
+
+[SAMPLE_ANSWER]
+Band 7
+Spending patterns varied noticeably across income levels. Low-income households spent the most on food (about $500), while high-income households paid significantly more for entertainment (around $600). Housing costs were relatively similar across groups, ranging from $700 to $900. Transport spending rose steadily with income, from roughly $200 to $450.
+
+[OVERVIEW]
+Higher-income households spent more on leisure and transport, while lower-income families prioritised essentials.
+
+[RATIONALE]
+• Balanced comparisons
+• Clear grouping of data
+• Occasional lack of detail prevents Band 8+

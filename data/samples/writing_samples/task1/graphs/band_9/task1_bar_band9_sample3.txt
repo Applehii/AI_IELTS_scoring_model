@@ -1,0 +1,21 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_bar_band9_sample3","topics": ["countries","coffee","compares","european","country","chart"],"rag_ready": true}
+
+[QUESTION]
+The bar chart compares average daily coffee consumption in four European countries.
+
+[SUMMARY]
+The chart compares coffee intake among four European nations. Country A stands out significantly, with adults consuming around 350 ml of coffee per day—substantially more than the 250 ml recorded in Country B.
+
+[SAMPLE_ANSWER]
+Band 9
+The chart compares coffee intake among four European nations. Country A stands out significantly, with adults consuming around 350 ml of coffee per day—substantially more than the 250 ml recorded in Country B. Countries C and D consume notably less at roughly 180 ml and 150 ml respectively.
+
+The stark contrast between the top two consumers and the remaining countries suggests strong cultural differences in coffee-drinking habits.
+
+[OVERVIEW]
+Country A was by far the heaviest consumer, while Countries C and D drank considerably less.
+
+[RATIONALE]
+• Highly concise yet rich in meaning
+• Clear, analytical comparison
+• Mature academic tone

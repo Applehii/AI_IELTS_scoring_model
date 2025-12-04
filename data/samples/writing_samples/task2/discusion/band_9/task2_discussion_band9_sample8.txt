@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_discusion","sample_id": "task2_discussion_band9_sample8","topics": ["environmental","individuals","governments","protection","believe","actions"],"rag_ready": true}
+
+[QUESTION]
+Some people think environmental protection is the responsibility of individuals, while others believe governments must take the lead. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some argue that individuals play the most important role in environmental protection because daily actions—recycling, reducing waste, and using public transport—collectively create meaningful change.
+
+[SAMPLE_ANSWER]
+Band 9
+Some argue that individuals play the most important role in environmental protection because daily actions—recycling, reducing waste, and using public transport—collectively create meaningful change. However, others believe governments should take the lead by implementing strict regulations and investing in renewable energy. Without large-scale policies, individual actions may not be enough to address climate change. I believe both sides must work together, but strong governmental leadership is essential for long-term impact.
+
+[OVERVIEW]
+Balanced, high-level reasoning showing interdependence between citizens and state.
+
+[RATIONALE]
+• Excellent logical structure
+• Advanced vocabulary and complex grammar
+• Fully developed arguments
+• Highly coherent

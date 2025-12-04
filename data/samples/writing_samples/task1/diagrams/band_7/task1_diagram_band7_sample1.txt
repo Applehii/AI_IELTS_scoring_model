@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample1","topics": ["into","diagram","instant","noodles","process","flour"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how instant noodles are manufactured.
+
+[SUMMARY]
+The diagram illustrates the production process of instant noodles, from raw flour to packaged cups ready for sale. Overall, it is a linear process involving preparation, cooking, drying, and packaging.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram illustrates the production process of instant noodles, from raw flour to packaged cups ready for sale. Overall, it is a linear process involving preparation, cooking, drying, and packaging.
+
+First, flour is stored in large silos before being mixed with water and oil. The dough is then rolled into sheets and cut into strips, which are formed into noodle discs. These discs are cooked in oil and then dried. Finally, vegetables, seasoning and the noodles are placed into cups, which are sealed and labeled before distribution.
+
+[OVERVIEW]
+A linear process that starts with dough preparation and ends with cup packaging.
+
+[RATIONALE]
+• Clear steps, mostly accurate
+• Some good sequencing words
+• Minor lack of detail
+• Some repetition

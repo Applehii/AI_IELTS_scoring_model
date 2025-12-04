@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample9","topics": ["solar","house","electricity","sunlight","inverter","diagram"],"rag_ready": true}
+
+[QUESTION]
+The diagram illustrates how solar panels produce electricity for a house.
+
+[SUMMARY]
+The diagram describes a home solar panel system. Overall, sunlight is converted into electricity and then supplied to the house through an inverter and control panel.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram describes a home solar panel system. Overall, sunlight is converted into electricity and then supplied to the house through an inverter and control panel.
+
+Solar panels capture sunlight and generate DC current. The inverter converts it to AC power, which is sent to a meter and then distributed throughout the house. Excess energy is returned to the grid.
+
+[OVERVIEW]
+From sunlight capture to household distribution.
+
+[RATIONALE]
+• Mostly accurate
+• Simple vocabulary
+• Missing some technical explanation
+• Good logical flow

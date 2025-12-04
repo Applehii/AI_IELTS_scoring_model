@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_pie_band9_sample8","topics": ["agriculture","energy","manufacturing","distribution","respectively","contributor"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the distribution of greenhouse gas emissions by sector.
+
+[SUMMARY]
+Agriculture is the single largest contributor at 28%, followed closely by energy production at 25%. Transport accounts for 20%, while manufacturing and residential sectors contribute 15% and 12% respectively.
+
+[SAMPLE_ANSWER]
+Band 9
+Agriculture is the single largest contributor at 28%, followed closely by energy production at 25%. Transport accounts for 20%, while manufacturing and residential sectors contribute 15% and 12% respectively. The dominance of agriculture and energy underscores the need for systemic reform rather than isolated measures.
+
+[OVERVIEW]
+Most emissions originated from agriculture and energy.
+
+[RATIONALE]
+• High-level commentary ("systemic reform")
+• Exceptionally concise but rich style
+• Accurate and cohesive

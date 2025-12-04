@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_discusion","sample_id": "task2_discussion_band5_sample6","topics": ["people","social","media","think","others","helps"],"rag_ready": true}
+
+[QUESTION]
+Some believe social media creates more problems than benefits, while others think it helps connect people. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people say social media is bad because people spend too much time on it and get addicted. They also say there is fake news.
+
+[SAMPLE_ANSWER]
+Band 5
+Many people say social media is bad because people spend too much time on it and get addicted. They also say there is fake news. But others think it helps people talk to friends far away and share information quickly. I think social media is useful but people should use it carefully.
+
+[OVERVIEW]
+Shows balance but lacks depth.
+
+[RATIONALE]
+• Weak development
+• Repetitive ideas
+• Grammar still inconsistent
+• No deeper analysis

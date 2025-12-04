@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample10","topics": ["coastal","town","significantly","reconfigured","residential","circulation"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes to a coastal town between 1990 and 2020.
+
+[SUMMARY]
+The coastal town developed significantly. Residential housing expanded northward, replacing unused land.
+
+[SAMPLE_ANSWER]
+Band 9
+The coastal town developed significantly. Residential housing expanded northward, replacing unused land. The marina to the south was enlarged and integrated with a new waterfront shopping arcade. The central road network was reconfigured into a grid layout, greatly improving circulation. The original lighthouse was preserved as a heritage site but surrounded by landscaped paths. To the west, a new business district with office towers replaced low-density shops.
+
+[OVERVIEW]
+The town modernised in every aspect—transport, commerce, housing, and tourism.
+
+[RATIONALE]
+• Flawless spatial description
+• Highly refined academic tone
+• Advanced insight & cohesion

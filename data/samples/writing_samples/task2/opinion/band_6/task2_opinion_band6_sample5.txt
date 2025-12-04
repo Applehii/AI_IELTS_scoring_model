@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_opinion","sample_id": "task2_opinion_band6_sample5","topics": ["health","fast","food","problems","people","contributes"],"rag_ready": true}
+
+[QUESTION]
+Some people think fast food is the main reason for health problems today. Do you agree or disagree?
+
+[SUMMARY]
+Fast food definitely contributes to health problems because it contains high levels of fat and sugar. Many people eat it several times a week due to convenience.
+
+[SAMPLE_ANSWER]
+Band 6
+Fast food definitely contributes to health problems because it contains high levels of fat and sugar. Many people eat it several times a week due to convenience. However, lack of exercise and stress also play important roles. So while fast food is a major factor, it is not the only cause of poor health.
+
+[OVERVIEW]
+Shows understanding but lacks complexity.
+
+[RATIONALE]
+• Clear explanation
+• Limited examples
+• Some repetitive phrasing

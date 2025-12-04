@@ -1,0 +1,21 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_pie_band7_sample2","topics": ["sources","energy","country","nuclear","chart","illustrates"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the energy sources used in a country in 2021.
+
+[SUMMARY]
+The chart illustrates the proportion of energy generated from five different sources. Fossil fuels made up the largest share, with coal at 35% and gas at 25%.
+
+[SAMPLE_ANSWER]
+Band 7
+The chart illustrates the proportion of energy generated from five different sources. Fossil fuels made up the largest share, with coal at 35% and gas at 25%. Nuclear energy accounted for 20%, while renewables represented a smaller part of the mix, with wind at 12% and solar at 8%.
+
+Overall, although the country relied heavily on traditional sources, nuclear power also contributed significantly, and renewables formed a growing minority.
+
+[OVERVIEW]
+Fossil fuels dominated the energy supply, while renewable sources remained comparatively small.
+
+[RATIONALE]
+• Accurate figures
+• Well-organised structure
+• Adequate range of vocabulary

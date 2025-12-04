@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample5","topics": ["fast","food","problems","health","agree","significantly"],"rag_ready": true}
+
+[QUESTION]
+Fast food is the main reason for modern health problems. Agree or disagree?
+
+[SUMMARY]
+I partially agree. Fast food contributes significantly to obesity and heart disease due to its high fat and sugar content.
+
+[SAMPLE_ANSWER]
+Band 8
+I partially agree. Fast food contributes significantly to obesity and heart disease due to its high fat and sugar content. However, sedentary lifestyles, long working hours, and lack of nutritional education are equally influential. Therefore, health problems stem from a combination of poor diet, limited physical activity, and insufficient awareness—not fast food alone.
+
+[OVERVIEW]
+Strong multi-factor analysis.
+
+[RATIONALE]
+• High-level reasoning
+• Accurate, complex grammar
+• Critical perspective

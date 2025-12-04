@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample8","topics": ["should","practical","subjects","schools","skills","they"],"rag_ready": true}
+
+[QUESTION]
+Some people believe schools should focus on academic subjects, while others think they should include practical skills like cooking or fixing things. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some argue that schools should mainly teach academic subjects such as maths and science because these are essential for future careers.
+
+[SAMPLE_ANSWER]
+Band 7
+Some argue that schools should mainly teach academic subjects such as maths and science because these are essential for future careers. They say practical skills can be learned at home. However, others believe practical skills are equally important because they help students handle daily tasks independently. In my view, schools should include both types of subjects to prepare students for real life and academic success.
+
+[OVERVIEW]
+Covers both views with balanced reasoning.
+
+[RATIONALE]
+• Ideas clearly explained
+• Wide range of linking words
+• Some grammar inaccuracies
+• Analysis could be more detailed

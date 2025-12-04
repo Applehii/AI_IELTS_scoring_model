@@ -1,0 +1,21 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_line_band7_sample1","topics": ["number","trains","graph","using","three","trams"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the number of commuters using three types of public transport in a city from 2000 to 2020.
+
+[SUMMARY]
+The graph compares the number of people using buses, trains, and trams over a 20-year period. Overall, all three modes saw increases, but trains experienced the most dramatic growth.
+
+[SAMPLE_ANSWER]
+Band 7
+The graph compares the number of people using buses, trains, and trams over a 20-year period. Overall, all three modes saw increases, but trains experienced the most dramatic growth.
+
+Bus usage started at around 40,000 daily users and rose slowly to about 50,000. Trams showed a steadier increase from 20,000 to 35,000. Meanwhile, train usage rose sharply from 25,000 to nearly 60,000, overtaking buses in 2010. By 2020, trains had clearly become the most popular option.
+
+[OVERVIEW]
+All transport types increased, but trains showed the fastest growth.
+
+[RATIONALE]
+• Clear comparisons and progression
+• Range of linking devices
+• Mostly precise language but not highly sophisticated

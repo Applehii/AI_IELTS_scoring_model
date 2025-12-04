@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample2","topics": ["people","fast","food","eat","reduce","they"],"rag_ready": true}
+
+[QUESTION]
+Why do people eat fast food? What can be done to reduce its consumption?
+
+[SUMMARY]
+People eat fast food because it cheap and fast. They busy so they choose it.
+
+[SAMPLE_ANSWER]
+Band 4
+People eat fast food because it cheap and fast. They busy so they choose it. To reduce it, government tell people not eat too much. Also maybe make healthy food more. That is the solution.
+
+[OVERVIEW]
+Only basic ideas, repeated words.
+
+[RATIONALE]
+• Grammar errors (it cheap, make healthy food more)
+• No clear explanation
+• Limited vocabulary
+• No linking

@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample14","topics": ["water","electricity","through","turbine","wells","hot"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how geothermal energy is used to produce electricity.
+
+[SUMMARY]
+The process begins with cold water being pumped underground through injection wells. The water moves past hot rocks, where it becomes heated.
+
+[SAMPLE_ANSWER]
+Band 6
+The process begins with cold water being pumped underground through injection wells. The water moves past hot rocks, where it becomes heated. This hot water is brought back to the surface through production wells and enters a turbine. The steam from the water drives the turbine, which activates a generator to create electricity.
+
+[OVERVIEW]
+Hot water and steam power a turbine to generate energy.
+
+[RATIONALE]
+• Clear science flow  
+• Adequate detail  
+• Missing mention of condenser

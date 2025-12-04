@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_direct","sample_id": "task2_direct_band5_sample7","topics": ["sports","watching","people","benefits","enjoy","attracting"],"rag_ready": true}
+
+[QUESTION]
+Why do many people enjoy watching sports? What benefits does this bring?
+
+[SUMMARY]
+People enjoy watching sports because it is exciting and fun. They can support their favourite team and feel part of a community.
+
+[SAMPLE_ANSWER]
+Band 5
+People enjoy watching sports because it is exciting and fun. They can support their favourite team and feel part of a community.
+Watching sports has some benefits. It helps people relax after work and brings them closer to friends and family. Big sports events also help the economy by attracting tourists.
+
+[OVERVIEW]
+Reasonably organized but simple.
+
+[RATIONALE]
+• Repetitive vocabulary
+• Not deeply developed
+• Some grammar mistakes

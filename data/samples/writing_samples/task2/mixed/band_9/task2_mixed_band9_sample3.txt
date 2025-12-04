@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_mixed","sample_id": "task2_mixed_band9_sample3","topics": ["trend","many","technologies","additionally","development","competitive"],"rag_ready": true}
+
+[QUESTION]
+Many adults change jobs multiple times in their lives. Why does this happen? Is this a positive or negative trend?
+
+[SUMMARY]
+Frequent job changes reflect rapid shifts in labour markets and the modern emphasis on personal development. Many industries adopt new technologies quickly, compelling workers to pursue roles that offer better training or more competitive salaries.
+
+[SAMPLE_ANSWER]
+Band 9
+Frequent job changes reflect rapid shifts in labour markets and the modern emphasis on personal development. Many industries adopt new technologies quickly, compelling workers to pursue roles that offer better training or more competitive salaries. Additionally, younger generations value meaningful work, prompting them to switch positions when career growth stagnates.
+This trend is overwhelmingly positive. It encourages innovation, prevents professional complacency, and allows employees to acquire diverse expertise. Although it may cause short-term instability for employers, the overall societal benefits—such as a more adaptable and skilled workforce—are considerable.
+
+[OVERVIEW]
+Clear explanation + strong judgement anchored in economic logic.
+
+[RATIONALE]
+• Deep, multi-layered reasoning
+• Excellent command of high-level vocabulary
+• Complex, natural sentence structures

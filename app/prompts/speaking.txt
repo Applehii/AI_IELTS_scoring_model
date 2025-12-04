@@ -7,3 +7,7 @@ Output ONLY valid JSON:
 "overall": x,
 "feedback": { "FC": "...", "LR": "...", "GRA": "...", "PR": "...", "summary": "..." }
 }
+Do NOT guess content that is not in the transcript. 
+Evaluate ONLY what the candidate actually said.
+Each feedback item must be 1–2 sentences.
+Use simple and examiner-like wording.

@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band6_sample10","topics": ["online","courses","also","disadvantages","flexibility","traditional"],"rag_ready": true}
+
+[QUESTION]
+Online courses are becoming common. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Online courses offer flexibility, allowing students to study at their own pace. They are also cheaper than traditional classes and accessible for people living far from schools.
+
+[SAMPLE_ANSWER]
+Band 6
+Online courses offer flexibility, allowing students to study at their own pace. They are also cheaper than traditional classes and accessible for people living far from schools. However, online learners may lack motivation because there is no direct teacher supervision. Technical problems also interrupt learning. In general, online courses have benefits but cannot replace classrooms completely.
+
+[OVERVIEW]
+Flexible and cheap but low motivation.
+
+[RATIONALE]
+• Coherent structure
+• Slightly repetitive
+• Needs deeper ideas and examples

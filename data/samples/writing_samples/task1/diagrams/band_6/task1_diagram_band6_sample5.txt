@@ -1,0 +1,21 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample5","topics": ["milk","production","factory","being","supermarkets","pasteurised"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the stages of milk production.
+
+[SUMMARY]
+Milk production begins with cows being milked by automated machines twice a day. The milk is stored in a cooling tank before being taken to a dairy factory by truck.
+
+[SAMPLE_ANSWER]
+Band 6
+Milk production begins with cows being milked by automated machines twice a day. The milk is stored in a cooling tank before being taken to a dairy factory by truck. At the factory, it is processed, pasteurised, and finally bottled. The bottles are then sent to supermarkets for sale.
+
+[OVERVIEW]
+Milk goes from cows to factories and shops through cooling and processing.
+
+No overview provided.
+
+[RATIONALE]
+• Clear  
+• Good vocabulary (pasteurised)  
+• Slightly too simple

@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_discusion","sample_id": "task2_discussion_band8_sample4","topics": ["their","should","young","believe","parents","careers"],"rag_ready": true}
+
+[QUESTION]
+Some people think young people should choose their career freely, while others believe parents should guide them. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many argue that young individuals should choose their careers independently, as this allows them to pursue their passions and remain motivated in the long term.
+
+[SAMPLE_ANSWER]
+Band 8
+Many argue that young individuals should choose their careers independently, as this allows them to pursue their passions and remain motivated in the long term. Self-chosen careers often lead to higher job satisfaction. However, others believe parental guidance is valuable because parents have more experience and can help their children avoid unrealistic or risky choices. I think young people should make their own decisions but consider their parents’ advice as a supportive reference rather than a requirement.
+
+[OVERVIEW]
+Well-balanced discussion with a nuanced personal view.
+
+[RATIONALE]
+• Mature reasoning
+• Precise vocabulary
+• Very natural flow
+• Minimal grammatical issues

@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_discusion","sample_id": "task2_discussion_band4_sample9","topics": ["animals","think","zoo","protect","some","endangered"],"rag_ready": true}
+
+[QUESTION]
+Some people think zoos are cruel and should be closed, while others believe they protect endangered animals. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some think zoo bad because animals sad in cage. Other say zoo protect animals.
+
+[SAMPLE_ANSWER]
+Band 4
+Some think zoo bad because animals sad in cage. Other say zoo protect animals. I think zoo okay if take care animals well.
+
+[OVERVIEW]
+Simple, repetitive.
+
+[RATIONALE]
+• No analysis
+• Childlike vocabulary
+• Grammar issues
+• No structure beyond basics

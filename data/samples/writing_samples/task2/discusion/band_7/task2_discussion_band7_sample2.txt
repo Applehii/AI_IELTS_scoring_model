@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample2","topics": ["teachers","doctors","entertainment","celebrities","salaries","because"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that professional workers such as doctors and teachers should be paid more than sports and entertainment celebrities. Others disagree. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people argue that professionals like doctors and teachers deserve higher salaries because they contribute directly to society’s well-being. Doctors save lives, and teachers shape the next generation.
+
+[SAMPLE_ANSWER]
+Band 7
+Many people argue that professionals like doctors and teachers deserve higher salaries because they contribute directly to society’s well-being. Doctors save lives, and teachers shape the next generation. In contrast, others claim celebrities earn high incomes because entertainment industries generate huge profits, and their salaries reflect the market demand. While both arguments are valid, I believe essential professionals should receive higher pay as their roles are more crucial to society’s long-term development.
+
+[OVERVIEW]
+Both viewpoints explored with clear comparisons and justification.
+
+[RATIONALE]
+• Strong arguments and explanations
+• Vocabulary fairly sophisticated
+• Minor awkward phrasing
+• Clear stance throughout

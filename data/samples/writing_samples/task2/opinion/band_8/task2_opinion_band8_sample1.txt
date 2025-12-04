@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample1","topics": ["homework","children","disagree","should","daily","development"],"rag_ready": true}
+
+[QUESTION]
+Children should receive homework every day. Do you agree or disagree?
+
+[SUMMARY]
+I disagree that children should be given homework on a daily basis. While homework reinforces learning, excessive daily tasks can restrict children’s free time, which is crucial for creativity and mental development.
+
+[SAMPLE_ANSWER]
+Band 8
+I disagree that children should be given homework on a daily basis. While homework reinforces learning, excessive daily tasks can restrict children’s free time, which is crucial for creativity and mental development. A more effective approach is assigning homework selectively—when it genuinely strengthens the lesson—rather than treating it as a routine requirement. This balance encourages responsibility without creating unnecessary pressure.
+
+[OVERVIEW]
+Clear, nuanced opinion with strong reasoning.
+
+[RATIONALE]
+• Precise vocabulary (reinforces, selectively, restrict)
+• Well-balanced analysis
+• Cohesive and well-structured

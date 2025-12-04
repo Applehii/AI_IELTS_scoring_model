@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample10","topics": ["centre","town","more","area","intersection","roundabout"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a town centre between 1990 and 2020.
+
+[SUMMARY]
+The town centre became more urbanised over the years. Old houses were replaced by office buildings, and the main road was expanded.
+
+[SAMPLE_ANSWER]
+Band 6
+The town centre became more urbanised over the years. Old houses were replaced by office buildings, and the main road was expanded. A roundabout was built at the central intersection. The riverside area was upgraded with walking paths and seating zones. A new shopping centre was introduced in the eastern part, making the area more commercial.
+
+[OVERVIEW]
+More offices, better infrastructure, and new public spaces.
+
+[RATIONALE]
+• Coherent and mostly accurate
+• Still lacks strong comparisons
+• Some grammar and structure issues
+• Vocabulary range acceptable but not wide

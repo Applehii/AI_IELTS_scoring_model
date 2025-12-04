@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_maps","sample_id": "task1_map_band8_sample5","topics": ["redevelopment","industrial","built","zone","road","neighbourhood"],"rag_ready": true}
+
+[QUESTION]
+The maps show the redevelopment of an industrial zone into a residential neighbourhood.
+
+[SUMMARY]
+The industrial zone was completely transformed. Initially, factories and warehouses occupied the entire area.
+
+[SAMPLE_ANSWER]
+Band 8
+The industrial zone was completely transformed. Initially, factories and warehouses occupied the entire area. After redevelopment, these were replaced by several housing blocks arranged around a newly built circular road. A central park was positioned at the core of this road system. To the east, a small shopping plaza was built, while a community centre was added in the southwest. Trees were planted along the perimeter, giving the area a more suburban character.
+
+[OVERVIEW]
+Heavy industrial buildings were removed and replaced with homes and community-oriented facilities.
+
+[RATIONALE]
+• Comprehensive description
+• Structure logical and well-organised
+• Lacks a bit of stylistic sophistication

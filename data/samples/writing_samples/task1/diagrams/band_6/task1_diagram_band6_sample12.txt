@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample12","topics": ["into","strips","blocks","cups","oil","manufactured"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how instant noodles are manufactured.
+
+[SUMMARY]
+First, flour is transported into a storage tower and then mixed with water and oil. The mixture is rolled into thin sheets, which are cut into noodle strips.
+
+[SAMPLE_ANSWER]
+Band 6
+First, flour is transported into a storage tower and then mixed with water and oil. The mixture is rolled into thin sheets, which are cut into noodle strips. These strips are shaped into blocks and cooked in oil. After drying, the blocks are placed into cups with flavoring packets. Finally, the cups are sealed and sent to stores.
+
+[OVERVIEW]
+The process includes mixing, rolling, cutting, frying and packaging.
+
+[RATIONALE]
+• Accurate description  
+• Some useful vocabulary  
+• Still lacks complex linking devices

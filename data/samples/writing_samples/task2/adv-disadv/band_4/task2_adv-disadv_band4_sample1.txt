@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample1","topics": ["abroad","studying","students","people","things","many"],"rag_ready": true}
+
+[QUESTION]
+Many young people choose to study abroad. What are the advantages and disadvantages of this trend?
+
+[SUMMARY]
+Studying abroad have some good things. Students can see new place and meet new people.
+
+[SAMPLE_ANSWER]
+Band 4
+Studying abroad have some good things. Students can see new place and meet new people. They also learn English better. But there are bad things too. It is expensive so many family cannot pay. Students also feel lonely and miss home. So studying abroad is not always good.
+
+[OVERVIEW]
+Some benefits but also money problem and homesick.
+
+[RATIONALE]
+• Grammar wrong (have, place → places)
+• Ideas repetitive and too general
+• No comparison or development
+• Weak vocabulary

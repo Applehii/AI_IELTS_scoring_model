@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample9","topics": ["exams","students","should","they","communication","understanding"],"rag_ready": true}
+
+[QUESTION]
+School exams are the best way to judge students. Do you agree or disagree?
+
+[SUMMARY]
+Exams are an effective tool for measuring academic knowledge, but they should not be the only method. Exams assess memory and problem-solving skills, yet they fail to evaluate creativity, communication, and teamwork.
+
+[SAMPLE_ANSWER]
+Band 7
+Exams are an effective tool for measuring academic knowledge, but they should not be the only method. Exams assess memory and problem-solving skills, yet they fail to evaluate creativity, communication, and teamwork. Schools should combine exams with project-based assessments to gain a more accurate understanding of students’ strengths and weaknesses.
+
+[OVERVIEW]
+Reasonable and balanced.
+
+[RATIONALE]
+• Good explanation
+• Clear structure
+• Some repetitive phrasing

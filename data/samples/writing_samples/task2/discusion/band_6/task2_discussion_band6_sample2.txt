@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample2","topics": ["should","schools","financial","parents","because","believe"],"rag_ready": true}
+
+[QUESTION]
+Some people think schools should teach financial skills, while others argue that this should be the responsibility of parents. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people think financial education should be taught in schools because students need to learn how to manage money. Schools can provide lessons on saving, budgeting, and using credit cards wisely.
+
+[SAMPLE_ANSWER]
+Band 6
+Many people think financial education should be taught in schools because students need to learn how to manage money. Schools can provide lessons on saving, budgeting, and using credit cards wisely. On the other hand, some believe parents should teach these skills because children learn from daily experience at home. I believe both sides are important, but schools should play the main role since not all parents have enough financial knowledge.
+
+[OVERVIEW]
+Clear explanation of both sides and balanced opinion.
+
+[RATIONALE]
+• Good clarity but limited depth
+• Vocabulary varies but still basic
+• Grammar mistakes occasionally
+• Missing strong examples

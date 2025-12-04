@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample20","topics": ["bottles","glass","fragments","into","recycling","collected"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the process of recycling glass bottles.
+
+[SUMMARY]
+Used glass bottles are first collected and separated by color. They are washed in a cleaning machine and then crushed into small fragments.
+
+[SAMPLE_ANSWER]
+Band 6
+Used glass bottles are first collected and separated by color. They are washed in a cleaning machine and then crushed into small fragments. These fragments are melted in a furnace and the liquid glass is poured into moulds to create new bottles. The finished bottles are inspected, packed and delivered to shops.
+
+[OVERVIEW]
+Old bottles are cleaned, melted and reshaped into new ones.
+
+[RATIONALE]
+• Clear explanation  
+• Adequate vocabulary  
+• Lacks advanced structures

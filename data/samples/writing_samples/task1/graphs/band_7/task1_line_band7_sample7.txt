@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_line_band7_sample7","topics": ["country","improvement","percentage","moderately","countries","increased"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the percentage of waste recycled in three countries between 1995 and 2020.
+
+[SUMMARY]
+Country A showed the most improvement, rising from 20% to nearly 70%. Country B increased moderately from 30% to 50%.
+
+[SAMPLE_ANSWER]
+Band 7
+Country A showed the most improvement, rising from 20% to nearly 70%. Country B increased moderately from 30% to 50%. Country C grew slowly from 15% to 30%. By the end of the period, Country A had clearly become the best performer.
+
+[OVERVIEW]
+All countries increased recycling, with the sharpest rise in Country A.
+
+[RATIONALE]
+• Clear reporting of change
+• Accurate comparisons
+• Somewhat repetitive phrasing

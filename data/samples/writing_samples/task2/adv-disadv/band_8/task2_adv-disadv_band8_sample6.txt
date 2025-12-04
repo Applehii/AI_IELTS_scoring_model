@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample6","topics": ["abroad","education","students","studying","transformative","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Some students choose to study abroad. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Studying abroad provides access to high-quality education and allows students to become more independent. Exposure to different cultures helps them develop global awareness.
+
+[SAMPLE_ANSWER]
+Band 8
+Studying abroad provides access to high-quality education and allows students to become more independent. Exposure to different cultures helps them develop global awareness. Nevertheless, overseas education can be extremely expensive, creating long-term financial burdens. Cultural shock and homesickness may also hinder academic performance. Therefore, studying abroad offers transformative benefits but comes with significant emotional and financial challenges.
+
+[OVERVIEW]
+High-quality education vs. cultural shock and high cost.
+
+[RATIONALE]
+• Well-balanced discussion
+• Advanced vocabulary (transformative, burdens)
+• Shows depth in both sides

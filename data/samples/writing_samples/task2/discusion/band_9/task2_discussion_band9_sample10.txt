@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_discusion","sample_id": "task2_discussion_band9_sample10","topics": ["censorship","believe","media","argue","misinformation","suppressing"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that media censorship is necessary, while others argue it restricts freedom of expression. Discuss both views and give your opinion.
+
+[SUMMARY]
+Supporters of censorship argue that certain content—such as violence, hate speech, or misinformation—must be controlled to protect social stability and vulnerable audiences.
+
+[SAMPLE_ANSWER]
+Band 9
+Supporters of censorship argue that certain content—such as violence, hate speech, or misinformation—must be controlled to protect social stability and vulnerable audiences. Without regulation, harmful media can easily spread. In contrast, opponents claim censorship threatens democratic values by limiting access to diverse viewpoints and suppressing criticism. They believe open discussion is essential for societal progress. In my view, some regulation is necessary, but it must be transparent and carefully balanced to avoid government overreach.
+
+[OVERVIEW]
+Comprehensive and nuanced evaluation of ethical and political concerns.
+
+[RATIONALE]
+• Exceptional clarity and sophistication
+• Excellent balance between protection and freedom
+• Complex structures used accurately
+• Fully meets task requirements

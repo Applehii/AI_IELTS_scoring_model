@@ -1,0 +1,29 @@
+{"band": 5,"task": "task1_tables","sample_id": "task1_tables_band5_sample4","topics": ["sector","average","salary","employment","sectors","table"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the average salary in different sectors of employment over a five-year period.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table presents average salaries across five employment sectors. The technology sector offers the highest remuneration at $80,000 annually, while the finance sector provides $75,000.
+
+[SAMPLE_ANSWER]
+Band 5
+The table presents average salaries across five employment sectors. The technology sector offers the highest remuneration at $80,000 annually, while the finance sector provides $75,000. Healthcare professionals earn $65,000, education workers receive $50,000, and the retail sector has the lowest average salary at $35,000.
+
+There is a clear hierarchy in salary distribution among these sectors. Technology and finance occupy the top positions, with only a $5,000 difference between them. Healthcare positions itself in the middle range. A significant gap exists between healthcare and education, representing a $15,000 difference. Retail workers earn substantially less than all other sectors, with a $15,000 difference from education and $45,000 difference from technology.
+
+The data reveals that knowledge-intensive sectors such as technology and finance offer better compensation than service-oriented sectors. Education and retail, which are traditionally lower-paying sectors, demonstrate why individuals may seek careers in higher-paying fields. This salary variation reflects the market value of different professions.
+
+[OVERVIEW]
+Well-organized with good analysis of salary hierarchy. Uses comparative structures effectively. Clear explanation of differences. Minor awkwardness in expression.
+
+[RATIONALE]
+- Good vocabulary for economic discussion
+- Clear categorization and grouping of data
+- Makes meaningful comparisons with specific figures
+- Provides some analysis of why differences exist
+- Generally good organization
+- Some repetition of ideas
+- Fulfills task requirements adequately

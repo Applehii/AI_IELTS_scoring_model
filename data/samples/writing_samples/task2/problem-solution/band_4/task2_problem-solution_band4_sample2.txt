@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band4_sample2","topics": ["plastic","people","cause","supermarket","increasing","everywhere"],"rag_ready": true}
+
+[QUESTION]
+Plastic waste is increasing. What problems does it cause and how to solve them?
+
+[SUMMARY]
+Plastic is everywhere and cause many problem. Animals eat plastic and die.
+
+[SAMPLE_ANSWER]
+Band 4
+Plastic is everywhere and cause many problem. Animals eat plastic and die. It make sea dirty. People throw plastic on ground. Solution is people stop using plastic. Government tell supermarket not give bag. But people still use because easy.
+
+[OVERVIEW]
+Plastic bad for animals and sea.
+
+[RATIONALE]
+• Very simple vocabulary
+• Repetitive ideas
+• Weak task development

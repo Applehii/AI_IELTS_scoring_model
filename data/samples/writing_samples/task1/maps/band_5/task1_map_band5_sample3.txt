@@ -1,0 +1,20 @@
+{"band": 5,"task": "task1_maps","sample_id": "task1_map_band5_sample3","topics": ["small","village","houses","there","into","town"],"rag_ready": true}
+
+[QUESTION]
+The maps show the development of a village into a small town.
+
+[SUMMARY]
+The village grew into a small town over time. At the beginning, there were only houses and one small road.
+
+[SAMPLE_ANSWER]
+Band 5
+The village grew into a small town over time. At the beginning, there were only houses and one small road. Later, more roads were added and the number of houses increased. There is also a school built in the centre and a shopping area near the main road. The farmland on the north side was replaced by housing.
+
+[OVERVIEW]
+More houses, more roads, and the addition of a school and shopping area.
+
+[RATIONALE]
+• Mostly clear ideas
+• Still lacks precise comparison phrases
+• Some errors (tense consistency, article use)
+• Descriptions are oversimplified

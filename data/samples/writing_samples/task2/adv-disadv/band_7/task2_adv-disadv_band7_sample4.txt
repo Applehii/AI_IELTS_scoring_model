@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band7_sample4","topics": ["public","transport","more","also","disadvantages","overcrowded"],"rag_ready": true}
+
+[QUESTION]
+Public transport is becoming more popular. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Public transport reduces traffic congestion and lowers pollution levels. It is also more affordable than driving a private car, making it accessible for many people.
+
+[SAMPLE_ANSWER]
+Band 7
+Public transport reduces traffic congestion and lowers pollution levels. It is also more affordable than driving a private car, making it accessible for many people. However, buses and trains are sometimes overcrowded, especially during peak hours, causing discomfort. Public transport schedules are also not always reliable. Overall, public transit is an effective solution for cities, despite certain inconveniences.
+
+[OVERVIEW]
+Eco-friendly and affordable but crowded and unreliable.
+
+[RATIONALE]
+• Good coherence
+• Strong explanation
+• Slightly generalised examples

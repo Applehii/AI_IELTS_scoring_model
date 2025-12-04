@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_graphs","sample_id": "task1_pie_band4_sample5","topics": ["teacher","biggest","school","money","show","furniture"],"rag_ready": true}
+
+[QUESTION]
+The pie charts show how a school spent its budget in 2000 and 2020.
+
+[SUMMARY]
+The chart show school money use 2000 and 2020. Teacher salary is biggest both years.
+
+[SAMPLE_ANSWER]
+Band 4
+The chart show school money use 2000 and 2020. Teacher salary is biggest both years. Furniture very small. Others change a bit. In 2020 teacher money still biggest but building cost more.
+
+[OVERVIEW]
+Teacher salary largest.
+
+[RATIONALE]
+• Lacks numbers
+• Poor vocabulary
+• Unclear detail
+• Basic structure

@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample5","topics": ["products","positive","people","buying","trend","more"],"rag_ready": true}
+
+[QUESTION]
+More people are buying used products online. Why is this happening? Is it a positive or negative development?
+
+[SUMMARY]
+Buying second-hand products is becoming more common because many websites make the process easy and safe. People can find cheaper options and reduce waste at the same time.
+
+[SAMPLE_ANSWER]
+Band 6
+Buying second-hand products is becoming more common because many websites make the process easy and safe. People can find cheaper options and reduce waste at the same time. This trend helps the environment and supports a circular economy. However, used products may not always be reliable, and buyers can sometimes be scammed. In my view, the trend is overall positive, especially if platforms improve their safety policies.
+
+[OVERVIEW]
+Explains causes and offers a balanced opinion.
+
+[RATIONALE]
+• Clear reasoning and mild analysis
+• Decent vocabulary
+• Some sentence-level errors
+• Needed more depth in negative side

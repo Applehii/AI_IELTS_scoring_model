@@ -1,0 +1,18 @@
+{"band": 6,"task": "task1_graphs","sample_id": "task1_bar_band6_sample9","topics": ["flights","airport","airports","number","three","international"],"rag_ready": true}
+
+[QUESTION]
+The bar chart shows the number of international flights departing from three airports in 2022.
+
+[SUMMARY]
+Airport A had the highest number of flights at about 9000. Airport B recorded approximately 7000, while Airport C had the fewest at around 5000.
+
+[SAMPLE_ANSWER]
+Band 6
+Airport A had the highest number of flights at about 9000. Airport B recorded approximately 7000, while Airport C had the fewest at around 5000. Although all three airports served many flights, there were noticeable differences between them.
+
+[OVERVIEW]
+Airport A handled the most flights.
+
+[RATIONALE]
+• Data reported clearly
+• Still lacks depth and cohesion

@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_maps","sample_id": "task1_map_band7_sample5","topics": ["residential","industrial","centre","zone","into","area"],"rag_ready": true}
+
+[QUESTION]
+The maps show how an industrial zone was redeveloped into a residential area.
+
+[SUMMARY]
+The industrial zone was completely transformed into a residential area. Initially, it contained several factories and warehouses.
+
+[SAMPLE_ANSWER]
+Band 7
+The industrial zone was completely transformed into a residential area. Initially, it contained several factories and warehouses. By the end of the development, these had been replaced by multiple apartment blocks arranged along a newly built circular road. In the centre of this road system, a public park was introduced. To the east, an additional shopping centre was added to meet residents’ needs.
+
+[OVERVIEW]
+Factories were removed and replaced by housing and public facilities.
+
+[RATIONALE]
+• Clear, concise, well-structured
+• Mostly accurate transformation description
+• Could mention more detail about spatial organisation

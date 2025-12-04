@@ -1,0 +1,29 @@
+{"band": 6,"task": "task1_tables","sample_id": "task1_tables_band6_sample9","topics": ["million","users","mobile","table","phone","user"],"rag_ready": true}
+
+[QUESTION]
+The following table presents the number of mobile phone users in different regions over four years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table demonstrates pronounced regional disparities in mobile phone user distribution, with Asia commanding an overwhelming majority at 1.5 billion users.
+
+[SAMPLE_ANSWER]
+Band 6
+The table demonstrates pronounced regional disparities in mobile phone user distribution, with Asia commanding an overwhelming majority at 1.5 billion users. This figure substantially exceeds combined European and American markets at 600 million and 700 million respectively, while Africa, despite substantial population base, registers the lowest penetration at 500 million users. Asia's user base represents approximately 54% of the total across these four regions.
+
+This distribution reflects complex interactions between population demographics, economic development, and technological infrastructure investment. Asia's dominance stems from its enormous population combined with rapidly expanding middle-class adoption of mobile technology, particularly in India and China. The Americas' comparatively strong position reflects higher per-capita penetration rates despite smaller total population. Europe's moderate user count reflects mature markets with near-saturated ownership levels. Africa's notably lower figures, despite possessing approximately 17% of global population, indicate significant digital inclusion gaps and infrastructure limitations constraining mobile technology access.
+
+These regional patterns carry substantial implications for digital economy development, telecommunications investment, and economic inequality. The digital divide between developed and developing regions influences access to financial services, educational resources, and market opportunities. Bridging this gap requires substantial infrastructure investment in underserved regions, particularly Africa, coupled with affordability measures and capacity building. Recognizing these disparities is essential for international development goals, corporate market expansion strategies, and equitable technology distribution policies. The trajectory of mobile adoption in emerging markets will significantly shape global economic dynamics in forthcoming decades.
+
+[OVERVIEW]
+Excellent analysis of regional disparities with development and equity implications. Sophisticated reasoning about underlying causes. Comprehensive treatment.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (disparities, penetration, equity)
+- Analyzes multiple underlying factors
+- Discusses development and inequality implications
+- Clear, well-structured organization
+- Strong analytical thinking demonstrated
+- Uses complex sentence structures effectively
+- Excellent task achievement with depth

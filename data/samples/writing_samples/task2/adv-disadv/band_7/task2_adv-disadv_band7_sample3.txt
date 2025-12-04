@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band7_sample3","topics": ["instrument","children","learning","which","also","can"],"rag_ready": true}
+
+[QUESTION]
+Many parents encourage their children to learn a musical instrument. What are the advantages and disadvantages?
+
+[SUMMARY]
+Learning an instrument helps children develop creativity and discipline. It also improves memory and concentration, which can support academic performance.
+
+[SAMPLE_ANSWER]
+Band 7
+Learning an instrument helps children develop creativity and discipline. It also improves memory and concentration, which can support academic performance. On the other hand, regular practice requires time and patience, which not all children enjoy. Additionally, music lessons and instruments can be expensive. Overall, while learning an instrument offers valuable skills, it also places pressure on families and children.
+
+[OVERVIEW]
+Improves creativity and focus but costly and time-consuming.
+
+[RATIONALE]
+• Balanced analysis
+• Some deeper insight
+• Vocabulary solid but not highly varied

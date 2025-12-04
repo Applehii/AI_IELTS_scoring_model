@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_direct","sample_id": "task2_direct_band8_sample5","topics": ["creativity","people","can","technological","satisfaction","individuals"],"rag_ready": true}
+
+[QUESTION]
+Why do people value creativity? How can creativity be developed?
+
+[SUMMARY]
+Creativity is highly valued because it drives innovation and allows individuals to solve problems in unique ways. In modern economies, creative thinking is essential for designing new products, improving services, and adapting to rapid technological changes.
+
+[SAMPLE_ANSWER]
+Band 8
+Creativity is highly valued because it drives innovation and allows individuals to solve problems in unique ways. In modern economies, creative thinking is essential for designing new products, improving services, and adapting to rapid technological changes. Furthermore, creativity contributes to personal expression and emotional satisfaction.
+To develop creativity, people can expose themselves to diverse experiences, practise brainstorming techniques, and engage in artistic activities. Collaboration with others also helps generate new ideas, as different perspectives often spark creativity. Regular reflection and experimentation are key to nurturing this skill.
+
+[OVERVIEW]
+Clear, strong, and well-developed argumentation.
+
+[RATIONALE]
+• Very coherent
+• Strong lexical range
+• Good complexity of ideas

@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_graphs","sample_id": "task1_line_band6_sample1","topics": ["million","cities","city","tourists","european","period"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the number of tourists visiting three European cities from 2000 to 2020.
+
+[SUMMARY]
+The graph compares how many tourists visited three European cities over a 20-year period. Overall, all cities experienced growth, although at different levels.
+
+[SAMPLE_ANSWER]
+Band 6
+The graph compares how many tourists visited three European cities over a 20-year period. Overall, all cities experienced growth, although at different levels. City A had the highest numbers throughout the period, increasing steadily from about 4 million in 2000 to around 7 million in 2020. City B started lower at roughly 2 million and rose more moderately to about 4 million. City C saw the slowest growth, starting at only 1 million and reaching approximately 2.5 million by the end.
+
+[OVERVIEW]
+All cities increased in tourist numbers, with City A consistently the most popular.
+
+[RATIONALE]
+• Some comparisons
+• Adequate detail but lacks sophistication
+• Simple linking words
+• Grammar mostly accurate with occasional errors

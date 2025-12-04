@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample4","topics": ["online","degrees","disadvantages","opportunities","universities","institutions"],"rag_ready": true}
+
+[QUESTION]
+Many universities offer online degrees. What are the advantages and disadvantages?
+
+[SUMMARY]
+Online degrees democratise education by removing geographic and financial barriers, enabling students from remote regions to access prestigious institutions. They allow greater flexibility, which benefits working adults.
+
+[SAMPLE_ANSWER]
+Band 9
+Online degrees democratise education by removing geographic and financial barriers, enabling students from remote regions to access prestigious institutions. They allow greater flexibility, which benefits working adults. However, online programmes may limit opportunities for hands-on research or spontaneous academic interaction—critical components of university life. Concerns also arise regarding academic integrity and recognition of online qualifications in certain industries. Therefore, while online degrees expand educational access, they cannot fully replicate the intellectual depth of traditional on-campus study.
+
+[OVERVIEW]
+Highly accessible but limited in interaction quality and recognition.
+
+[RATIONALE]
+• Complex analysis and advanced academic register
+• Supports arguments with legitimacy concerns
+• Excellent coherence and precision

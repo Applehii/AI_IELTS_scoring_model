@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample6","topics": ["megacities","infrastructure","disadvantages","increasingly","unparalleled","urbanisation"],"rag_ready": true}
+
+[QUESTION]
+Living in megacities has become increasingly common. What are the advantages and disadvantages?
+
+[SUMMARY]
+Megacities offer unparalleled economic opportunity, cultural diversity, and access to world-class services. They attract talent and foster innovation.
+
+[SAMPLE_ANSWER]
+Band 9
+Megacities offer unparalleled economic opportunity, cultural diversity, and access to world-class services. They attract talent and foster innovation. Conversely, rapid urbanisation often overwhelms infrastructure, leading to congestion, inflated housing costs, and severe social inequality. Residents may suffer from chronic stress due to noise, overcrowding, and fast-paced lifestyles. Therefore, while megacities are engines of progress, they also magnify socioeconomic disparities.
+
+[OVERVIEW]
+High opportunity but severe inequality and stress.
+
+[RATIONALE]
+• Precise, sharp evaluations
+• Sophisticated lexis (magnify, disparity, unparalleled)
+• Excellent academic control

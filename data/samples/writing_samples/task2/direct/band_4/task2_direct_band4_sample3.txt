@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample3","topics": ["people","society","because","cities","things","effect"],"rag_ready": true}
+
+[QUESTION]
+Why do many people prefer to live in cities? How does this affect society?
+
+[SUMMARY]
+People like cities because have many things. They can work and buy things easy.
+
+[SAMPLE_ANSWER]
+Band 4
+People like cities because have many things. They can work and buy things easy. The effect is some people happy, but some sad because is noisy. That is effect to society.
+
+[OVERVIEW]
+Very unclear, superficial.
+
+[RATIONALE]
+• Poor grammar (have many things, is noisy)
+• No structure
+• No real development
+• Very low lexical range

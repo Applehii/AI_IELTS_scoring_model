@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample5","topics": ["financial","people","can","management","young","what"],"rag_ready": true}
+
+[QUESTION]
+Many young people struggle with financial management. What problems does this cause and what solutions can help?
+
+[SUMMARY]
+Poor financial management can trap young people in long-term debt and prevent them from saving for important life events, such as buying a house.
+
+[SAMPLE_ANSWER]
+Band 7
+Poor financial management can trap young people in long-term debt and prevent them from saving for important life events, such as buying a house. It can also create stress and strain relationships if people overspend and cannot meet financial commitments.
+A viable solution is to introduce financial literacy classes in high school, teaching budgeting and responsible use of credit cards. Banks could also provide beginner-friendly financial tools, such as spending alerts or saving incentives. These approaches would help young adults develop healthier financial habits.
+
+[OVERVIEW]
+Poor money management leads to debt and stress; education and banking tools can help.
+
+[RATIONALE]
+• Good cohesion and clarity
+• Relevant solutions
+• Could use more advanced phrasing

@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample10","topics": ["people","transport","public","some","more","use"],"rag_ready": true}
+
+[QUESTION]
+Why do some people avoid taking public transport? How can this be changed?
+
+[SUMMARY]
+Some people not use public transport because it slow and crowded. They like car more.
+
+[SAMPLE_ANSWER]
+Band 4
+Some people not use public transport because it slow and crowded. They like car more. To change, government make bus faster and more clean. Then people maybe use.
+
+[OVERVIEW]
+Simple solutions, not explored.
+
+[RATIONALE]
+• Very low-level grammar
+• No linking words
+• Weak logical flow

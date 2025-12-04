@@ -1,0 +1,19 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample18","topics": ["cheese","produced","diagram","become","shows","stuff"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how cheese is produced.
+
+[SUMMARY]
+Milk heat. Add stuff.
+
+[SAMPLE_ANSWER]
+Band 4
+Milk heat. Add stuff. It become thick. Then cut and press. After that age for some time. Cheese ready.
+
+[OVERVIEW]
+Milk turn into cheese.
+
+[RATIONALE]
+• Missing technical precision  
+• Weak sequencing  
+• Basic vocabulary

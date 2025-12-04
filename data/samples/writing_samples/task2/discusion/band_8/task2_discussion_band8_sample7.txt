@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_discusion","sample_id": "task2_discussion_band8_sample7","topics": ["tourism","believe","understanding","cultural","tension","between"],"rag_ready": true}
+
+[QUESTION]
+Some people think international tourism creates tension between countries, while others believe it promotes understanding. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some believe tourism can cause cultural misunderstandings and environmental damage, leading to tension between local residents and visitors. Overcrowding and disrespectful behaviour may worsen relations.
+
+[SAMPLE_ANSWER]
+Band 8
+Some believe tourism can cause cultural misunderstandings and environmental damage, leading to tension between local residents and visitors. Overcrowding and disrespectful behaviour may worsen relations. On the other hand, others claim tourism encourages cultural exchange and mutual appreciation, which strengthens global understanding. I believe tourism generally brings more benefits than problems when managed responsibly, as it allows people to learn from different cultures and reduces prejudice.
+
+[OVERVIEW]
+Deep insight into cultural impact with effective examples.
+
+[RATIONALE]
+• Well-developed reasoning
+• Mature perspective
+• Smooth, accurate grammar
+• High cohesion

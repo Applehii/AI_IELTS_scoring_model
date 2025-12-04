@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_mixed","sample_id": "task2_mixed_band5_sample7","topics": ["people","renting","because","houses","buying","think"],"rag_ready": true}
+
+[QUESTION]
+Many people prefer renting houses instead of buying them. Why is this the case? Do you think it is a good choice?
+
+[SUMMARY]
+People rent houses because buying is too expensive. Young people especially cannot afford a big loan.
+
+[SAMPLE_ANSWER]
+Band 5
+People rent houses because buying is too expensive. Young people especially cannot afford a big loan. Renting also gives more flexibility because they can move easily. This is good for people who move a lot, but renting long-term can waste money. I think renting is fine when people are not ready to buy.
+
+[OVERVIEW]
+Clear reasons but limited development.
+
+[RATIONALE]
+• Coherent basic structure
+• Vocab repetitive
+• No real examples or explanation depth
+• Some grammar mistakes

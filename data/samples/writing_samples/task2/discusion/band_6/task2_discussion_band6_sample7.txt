@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample7","topics": ["art","subjects","schools","think","students","believe"],"rag_ready": true}
+
+[QUESTION]
+Some believe that art subjects are essential in schools, while others think they waste time and money. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people think art subjects like music and drawing help students become creative and express their feelings. These subjects can also reduce stress.
+
+[SAMPLE_ANSWER]
+Band 6
+Some people think art subjects like music and drawing help students become creative and express their feelings. These subjects can also reduce stress. In contrast, others believe art is unnecessary because it does not help students find jobs in the future. They say schools should focus on science and mathematics. I think art is important because it develops creativity, but schools should balance art with academic subjects.
+
+[OVERVIEW]
+Gives reasons for both views with some balance.
+
+[RATIONALE]
+• Ideas lack detail
+• Vocabulary range limited
+• Minor grammar problems
+• Needs clearer linking in body paragraphs

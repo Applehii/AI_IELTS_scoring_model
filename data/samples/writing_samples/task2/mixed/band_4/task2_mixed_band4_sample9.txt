@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample9","topics": ["new","people","think","habit","buy","bad"],"rag_ready": true}
+
+[QUESTION]
+Some people buy new phones every year. Why does this happen? Do you think this is a good or bad habit?
+
+[SUMMARY]
+People buy new phone because new model come out and look nice. But this waste money.
+
+[SAMPLE_ANSWER]
+Band 4
+People buy new phone because new model come out and look nice. But this waste money. I think bad habit.
+
+[OVERVIEW]
+Extremely basic and undeveloped.
+
+[RATIONALE]
+• Minimal explanation
+• Serious grammar issues
+• No transitions
+• Very limited ideas

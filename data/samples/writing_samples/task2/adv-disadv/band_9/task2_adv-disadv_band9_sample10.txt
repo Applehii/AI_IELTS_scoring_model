@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample10","topics": ["children","learning","parents","may","disadvantages","homeschooling"],"rag_ready": true}
+
+[QUESTION]
+Some parents choose to homeschool their children. What are the advantages and disadvantages?
+
+[SUMMARY]
+Homeschooling allows highly personalised instruction tailored to a child’s strengths and learning pace. It also provides a safer environment free from bullying or peer pressure.
+
+[SAMPLE_ANSWER]
+Band 9
+Homeschooling allows highly personalised instruction tailored to a child’s strengths and learning pace. It also provides a safer environment free from bullying or peer pressure. However, it may limit children’s social development, as they miss out on collaborative learning and diverse viewpoints. Parents without pedagogical training may struggle to deliver a comprehensive education. Therefore, homeschooling can be academically effective but socially restrictive.
+
+[OVERVIEW]
+Highly personalised yet socially limiting.
+
+[RATIONALE]
+• Nuanced educational critique
+• Excellent academic vocabulary (pedagogical, personalised)
+• Logical, polished reasoning

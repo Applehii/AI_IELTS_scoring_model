@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_mixed","sample_id": "task2_mixed_band8_sample8","topics": ["work","freelancing","positive","people","choose","collaboration"],"rag_ready": true}
+
+[QUESTION]
+Many people choose to work freelance instead of full-time jobs. Why? Is this a positive or negative development?
+
+[SUMMARY]
+Freelancing is attractive because it offers flexibility and the ability to choose projects freely. Improvements in digital tools and remote platforms make independent work easier than ever.
+
+[SAMPLE_ANSWER]
+Band 8
+Freelancing is attractive because it offers flexibility and the ability to choose projects freely. Improvements in digital tools and remote platforms make independent work easier than ever.
+Despite the lack of job security, freelancing promotes creativity, work-life balance, and global collaboration. Overall, it is a positive trend, especially for people in creative or tech-related fields.
+
+[OVERVIEW]
+Cause clearly explained + strong stance.
+
+[RATIONALE]
+• Excellent clarity
+• High lexical range
+• Well-organised and persuasive

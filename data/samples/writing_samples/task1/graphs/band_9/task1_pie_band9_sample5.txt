@@ -1,0 +1,21 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_pie_band9_sample5","topics": ["languages","while","language","chart","first","major"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the global distribution of languages spoken as a first language.
+
+[SUMMARY]
+The chart illustrates how the world’s population is distributed across major first-language groups. Mandarin dominates with 30%, while Spanish accounts for 15% and English for 10%.
+
+[SAMPLE_ANSWER]
+Band 9
+The chart illustrates how the world’s population is distributed across major first-language groups. Mandarin dominates with 30%, while Spanish accounts for 15% and English for 10%. Hindi and Arabic represent 8% and 7% respectively, while the remaining 30% is shared among numerous smaller languages.
+
+The data highlights extraordinary linguistic concentration in a few major languages, while also reflecting significant diversity in the long tail of less widely spoken tongues.
+
+[OVERVIEW]
+A handful of major languages account for the majority of speakers.
+
+[RATIONALE]
+• Sophisticated lexical resource
+• Analytical rather than merely descriptive
+• Excellent cohesion

@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_pie_band5_sample9","topics": ["cars","make","transportation","proportion","commuters","methods"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the proportion of transportation methods used by commuters in one city.
+
+[SUMMARY]
+Cars make up the largest share at 50%. Buses are 25%.
+
+[SAMPLE_ANSWER]
+Band 5
+Cars make up the largest share at 50%. Buses are 25%. Trains are 15%. Walking and cycling make up 5% each. Most people prefer cars.
+
+[OVERVIEW]
+Cars are by far the most common choice.
+
+[RATIONALE]
+• Little comparison
+• Simple vocabulary
+• Lacks depth

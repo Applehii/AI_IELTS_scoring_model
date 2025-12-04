@@ -1,0 +1,29 @@
+{"band": 6,"task": "task1_tables","sample_id": "task1_tables_band6_sample3","topics": ["population","nations","billion","table","five","approximately"],"rag_ready": true}
+
+[QUESTION]
+The following table shows the population growth in five countries from 2010 to 2020.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table illustrates significant disparities in population distribution among five major nations. China and India represent demographic giants, with populations of approximately 1.4 billion and 1.3 billion respectively, together accounting for over one-third of the global population.
+
+[SAMPLE_ANSWER]
+Band 6
+The table illustrates significant disparities in population distribution among five major nations. China and India represent demographic giants, with populations of approximately 1.4 billion and 1.3 billion respectively, together accounting for over one-third of the global population. In contrast, the United States, Indonesia, and Brazil, despite being substantial nations, appear diminished in comparison, with populations ranging from 212 to 331 million.
+
+The data reveals a pronounced Asian demographic concentration. The two most populous Asian nations substantially outpace all other countries by a significant margin. The United States, as the third-largest nation, has less than a quarter of China's population. Indonesia and Brazil, while large by most international standards, possess populations comparable to each other but substantially smaller than their Asian counterparts. This demographic reality has profound implications for economic power and geopolitical influence.
+
+Several factors contribute to these disparities, including historical population policies in China and India's large indigenous population base combined with high fertility rates. The relative stability of these rankings over the decade suggests fundamental demographic patterns rather than temporary fluctuations. Understanding these population distributions is crucial for international relations, economic forecasting, and resource management discussions at the global level.
+
+[OVERVIEW]
+Excellent analysis with sophisticated explanations. Links data to broader implications. Well-structured and comprehensive. Demonstrates deep understanding.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (disparities, demographic, geopolitical)
+- Explains underlying causes and implications
+- Makes insightful connections to global significance
+- Clear, well-organized structure
+- Demonstrates analytical depth
+- Uses varied sentence structures
+- Strong task achievement

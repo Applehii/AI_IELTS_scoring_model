@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample1","topics": ["mental","health","problems","what","relationships","experiencing"],"rag_ready": true}
+
+[QUESTION]
+Many countries are experiencing a rise in mental health issues. What problems does this create, and what solutions could be suggested?
+
+[SUMMARY]
+The increase in mental health problems has created a range of social and economic challenges. One major issue is the decline in productivity, as people suffering from anxiety or depression often struggle to perform well at work or school.
+
+[SAMPLE_ANSWER]
+Band 7
+The increase in mental health problems has created a range of social and economic challenges. One major issue is the decline in productivity, as people suffering from anxiety or depression often struggle to perform well at work or school. Additionally, untreated mental health conditions can lead to strained family relationships and even severe outcomes such as self-harm.
+To address these problems, governments should invest more in accessible mental health services, including free counselling and early-diagnosis programmes. Schools and workplaces could also introduce awareness campaigns to reduce stigma and encourage people to seek help. These measures would help society manage the issue more effectively.
+
+[OVERVIEW]
+Mental health issues reduce productivity and harm relationships; improved services and awareness can help.
+
+[RATIONALE]
+• Clear ideas with solid explanation
+• Good range of vocabulary
+• Some areas could be more deeply developed

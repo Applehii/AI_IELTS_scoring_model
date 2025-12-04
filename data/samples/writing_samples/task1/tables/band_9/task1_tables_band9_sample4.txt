@@ -1,0 +1,29 @@
+{"band": 9,"task": "task1_tables","sample_id": "task1_tables_band9_sample4","topics": ["compensation","mechanisms","market","table","stratification","institutional"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the average salary in different sectors of employment over a five-year period.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table encapsulates profound compensation stratification reflecting labor market equilibrium mechanisms operating through supply-demand dynamics, human capital theory predictions, and institutional framework constraints creating persistent...
+
+[SAMPLE_ANSWER]
+Band 9
+The table encapsulates profound compensation stratification reflecting labor market equilibrium mechanisms operating through supply-demand dynamics, human capital theory predictions, and institutional framework constraints creating persistent inequality structures resistant to conventional market-clearing mechanisms. The technology-retail compensation differential of 128% represents not superficial disparity but rather fundamental divergence in labor market valuations reflecting asymmetric supply elasticity, human capital specificity, and perceived economic value-generation capacity. This compensation hierarchy demonstrates remarkable stability suggesting structural entrenchment rather than transitory market disequilibrium amenable to conventional competitive adjustment.
+
+The compensation stratification mechanisms operate through sophisticated interactive dynamics transcending simplistic supply-demand narratives. Technology and finance sectors maintain premium compensation through: structural talent scarcity created by limited educational pipeline capacity, high barriers to entry, and international talent mobility constraints; substantial human capital specificity reducing labor substitutability; demonstrated high economic value-generation capacities justifying premium wages; and self-reinforcing advantages whereby premium compensation attracts superior talent further elevating productivity. Healthcare's intermediate positioning reflects conflicting dynamics: significant human capital requirements and specialized knowledge specificity offset by public sector employment prevalence, regulatory wage constraints, and social mandate aspects limiting commercial optimization of compensation. Education and retail sectors' constrained compensation reflects: abundant labor supply creating substitutability, minimal credentialing requirements reducing human capital barriers, limited productivity growth opportunities restricting wage-increase capacity, and demand inelasticity regarding essential service provision enabling employer monopsony power suppressing wages.
+
+These compensation structures carry profound implications for inequality perpetuation, intergenerational mobility constraints, and human capital investment patterns. The substantial compensation differentials create perverse incentive structures attracting talent disproportionately toward high-compensation sectors, potentially creating skill shortages in essential services threatening public welfare. The retail sector's depressed compensation creates workforce instability, service quality degradation, and demographic concentration of low-income workers establishing persistent poverty structures. Addressing these asymmetries requires sophisticated policy interventions acknowledging that conventional market mechanisms produce socially suboptimal outcomes: sectoral wage subsidies correcting market failures, productivity enhancement investments enabling wage-increase capacity, and institutional labor market reforms redistributing bargaining power. Understanding compensation dynamics proves essential for labor economists, policymakers, and strategists addressing persistent inequality structures embedded within sectoral labor market organization.
+
+[OVERVIEW]
+Exceptional analysis of labor market dynamics with sophisticated economic theory application and systemic inequality implications comprehensively discussed.
+
+[RATIONALE]
+- Demonstrates mastery of labor economics, human capital theory, and market equilibrium concepts
+- Analyzes labor market dynamics with exceptional sophistication and theoretical rigor
+- Discusses institutional constraints and market failures comprehensively
+- Makes nuanced observations about inequality perpetuation mechanisms
+- Clear, rigorous argumentation with exceptional logical progression
+- Exceptional analytical depth and economic literacy
+- Exemplary task achievement with sophisticated reasoning

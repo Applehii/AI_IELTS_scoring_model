@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample2","topics": ["traffic","congestion","what","environmental","increasingly","productivity"],"rag_ready": true}
+
+[QUESTION]
+Traffic congestion is becoming increasingly severe in many major cities. What problems arise, and what can be done to solve them?
+
+[SUMMARY]
+Heavy traffic causes serious economic and environmental issues. Long commuting times reduce worker productivity because employees arrive at work tired or late.
+
+[SAMPLE_ANSWER]
+Band 8
+Heavy traffic causes serious economic and environmental issues. Long commuting times reduce worker productivity because employees arrive at work tired or late. In addition, vehicles stuck in traffic release enormous amounts of emissions, contributing to air pollution and climate change.
+To mitigate congestion, governments could develop high-quality public transport systems that are faster and more convenient than private cars. Another effective solution is implementing congestion charges during peak hours, which discourages unnecessary travel. If these policies are enforced consistently, traffic in large cities can be significantly reduced.
+
+[OVERVIEW]
+Traffic harms productivity and the environment; better public transport and congestion charges help.
+
+[RATIONALE]
+• Strong cohesion and clear causality
+• High-level vocabulary
+• Well-developed, realistic solutions

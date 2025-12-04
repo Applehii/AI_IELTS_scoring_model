@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample10","topics": ["books","printed","believe","digital","readers","people"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that printed books are no longer necessary, while others think they still have value. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people say printed books are outdated because digital books are cheaper, more portable, and environmentally friendly. Readers can store thousands of books on one device.
+
+[SAMPLE_ANSWER]
+Band 7
+Many people say printed books are outdated because digital books are cheaper, more portable, and environmentally friendly. Readers can store thousands of books on one device. However, others argue printed books offer a better reading experience, as they reduce eye strain and allow readers to focus without distractions. I believe printed books still have value, but digital books will become more popular due to convenience.
+
+[OVERVIEW]
+Explores both perspectives clearly with reasonable evaluation.
+
+[RATIONALE]
+• Strong coherence and clear argument structure
+• Good vocabulary range
+• Minor grammatical issues
+• Limited use of complex ideas

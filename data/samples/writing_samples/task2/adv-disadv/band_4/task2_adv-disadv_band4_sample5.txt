@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample5","topics": ["study","students","group","sometimes","talk","but"],"rag_ready": true}
+
+[QUESTION]
+Some students prefer group study. What are the advantages and disadvantages?
+
+[SUMMARY]
+Group study help students talk together and share idea. They can finish homework faster.
+
+[SAMPLE_ANSWER]
+Band 4
+Group study help students talk together and share idea. They can finish homework faster. But sometime students only talk and not study. Also noise make hard to think. Group study is sometimes good but sometimes not.
+
+[OVERVIEW]
+Help sharing but can be noisy.
+
+[RATIONALE]
+• Basic vocabulary
+• Weak coherence
+• Repetitive ideas

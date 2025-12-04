@@ -1,0 +1,22 @@
+{"band": 8,"task": "task1_graphs","sample_id": "task1_line_band8_sample1","topics": ["countries","country","graph","three","illustrates","experienced"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the percentage of people working remotely in three countries from 2005 to 2025.
+
+[SUMMARY]
+The graph illustrates how the proportion of remote workers changed over two decades in three countries. Overall, all countries experienced a clear upward trend, with Country A showing the most pronounced rise.
+
+[SAMPLE_ANSWER]
+Band 8
+The graph illustrates how the proportion of remote workers changed over two decades in three countries. Overall, all countries experienced a clear upward trend, with Country A showing the most pronounced rise.
+
+Country A increased steadily from around 10% in 2005 to 45% in 2020, before jumping to nearly 55% in 2025. Country B followed a similar but less dramatic pattern, rising from 8% to roughly 30%. Country C had the slowest growth, starting at just 5% and reaching only 20% by the end. Although the growth rates varied, remote work became significantly more common everywhere.
+
+[OVERVIEW]
+All countries saw strong increases, with Country A consistently leading.
+
+[RATIONALE]
+• Detailed comparisons
+• Strong coherence and grouping
+• Advanced vocabulary (“pronounced rise”, “less dramatic”)
+• Clear, logical progression

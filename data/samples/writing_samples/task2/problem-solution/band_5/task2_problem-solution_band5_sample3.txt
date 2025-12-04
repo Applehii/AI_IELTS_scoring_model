@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band5_sample3","topics": ["people","stress","problems","solve","also","work"],"rag_ready": true}
+
+[QUESTION]
+Many people suffer from stress. What problems does it cause and how to solve them?
+
+[SUMMARY]
+Stress can make people unhealthy. They may get headaches and sleep problems.
+
+[SAMPLE_ANSWER]
+Band 5
+Stress can make people unhealthy. They may get headaches and sleep problems. It also affects their work quality. To solve this, people should relax more, like doing exercise. Companies can also give less work or allow flexible time. These solutions may help reduce stress.
+
+[OVERVIEW]
+Stress harms health; exercise and company support.
+
+[RATIONALE]
+• Clear but shallow points
+• Vocabulary basic
+• Lacking cohesive devices

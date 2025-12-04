@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample10","topics": ["crowded","negative","cities","think","many","more"],"rag_ready": true}
+
+[QUESTION]
+Many cities are becoming more crowded. Why is this the case? Do you think it is a positive or negative trend?
+
+[SUMMARY]
+Cities crowded because more people move for job. City have many chance.
+
+[SAMPLE_ANSWER]
+Band 4
+Cities crowded because more people move for job. City have many chance. But crowded make traffic and noise. I think negative.
+
+[OVERVIEW]
+Clear but very simple reasoning.
+
+[RATIONALE]
+• Insufficient development
+• Frequent grammar mistakes
+• Basic vocabulary
+• No complex structures

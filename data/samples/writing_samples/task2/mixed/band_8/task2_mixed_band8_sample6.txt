@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_mixed","sample_id": "task2_mixed_band8_sample6","topics": ["children","negative","target","trend","advertisements","advertisers"],"rag_ready": true}
+
+[QUESTION]
+Many advertisements target children. Why is this happening? Is this a positive or negative trend?
+
+[SUMMARY]
+Companies target children because they influence household purchases and represent future customers. Advertisers use bright visuals and appealing characters to capture children’s attention effectively.
+
+[SAMPLE_ANSWER]
+Band 8
+Companies target children because they influence household purchases and represent future customers. Advertisers use bright visuals and appealing characters to capture children’s attention effectively.
+I believe this trend is mostly negative. Advertising encourages unhealthy consumption habits, especially regarding sugary foods and digital products. It also puts pressure on parents. Although some educational ads are beneficial, stricter regulations are necessary to protect children.
+
+[OVERVIEW]
+Cause addressed clearly + strong critical evaluation.
+
+[RATIONALE]
+• Precise, controlled argumentation
+• Excellent lexical choice
+• Strong structure and clarity

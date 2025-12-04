@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band9_sample6","topics": ["housing","affordable","what","additionally","overcrowded","governments"],"rag_ready": true}
+
+[QUESTION]
+Many cities face a shortage of affordable housing. What problems does this cause, and what solutions are possible?
+
+[SUMMARY]
+A lack of affordable housing leads to financial strain and social inequality. Low-income families are often forced to live in overcrowded or unsafe areas, which affects their physical and mental well-being.
+
+[SAMPLE_ANSWER]
+Band 9
+A lack of affordable housing leads to financial strain and social inequality. Low-income families are often forced to live in overcrowded or unsafe areas, which affects their physical and mental well-being. Additionally, housing shortages push essential workers—such as teachers and nurses—far away from urban centres, making service delivery less efficient.
+Governments should invest in large-scale social housing projects and offer tax incentives to developers who build affordable units. Implementing rent-control policies can also help stabilise market prices. These measures together ensure that cities remain accessible to all social groups.
+
+[OVERVIEW]
+Housing shortages increase inequality; social housing and rent control are effective solutions.
+
+[RATIONALE]
+• Highly relevant ideas with depth
+• Excellent structure and coherence
+• Solutions fully aligned with causes

@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample17","topics": ["ethanol","mixture","stored","before","being","corn"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how ethanol fuel is produced from corn.
+
+[SUMMARY]
+Corn is first harvested and stored before being milled into smaller pieces. Water is added and the mixture is cooked for several hours.
+
+[SAMPLE_ANSWER]
+Band 6
+Corn is first harvested and stored before being milled into smaller pieces. Water is added and the mixture is cooked for several hours. Enzymes are then introduced to convert the starch into sugar. This mixture ferments for two days and is distilled to separate ethanol from other substances. The final product is purified and stored before being transported.
+
+[OVERVIEW]
+Corn is milled, cooked, fermented and distilled to create ethanol.
+
+[RATIONALE]
+• Sufficient detail  
+• Good technical verbs  
+• Slightly repetitive phrasing

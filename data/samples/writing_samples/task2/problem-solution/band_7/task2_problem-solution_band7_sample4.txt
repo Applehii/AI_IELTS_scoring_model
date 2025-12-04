@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample4","topics": ["rural","cities","areas","people","what","infrastructure"],"rag_ready": true}
+
+[QUESTION]
+A growing number of people are leaving rural areas for cities. What problems arise, and what solutions can be implemented?
+
+[SUMMARY]
+Migration from rural areas to cities creates several challenges. Firstly, cities become overcrowded, putting pressure on housing and public services.
+
+[SAMPLE_ANSWER]
+Band 7
+Migration from rural areas to cities creates several challenges. Firstly, cities become overcrowded, putting pressure on housing and public services. Secondly, rural communities decline as young people leave, resulting in labour shortages in agriculture.
+To solve this, governments could invest in rural infrastructure, such as better roads and internet access, to make these areas more attractive. Providing financial incentives for businesses to operate in rural regions would also encourage people to stay. These actions could help balance population distribution.
+
+[OVERVIEW]
+Urban migration causes overcrowding and rural decline; rural investment is an effective solution.
+
+[RATIONALE]
+• Clearly developed points
+• Logical solutions
+• Slightly general in explanation

@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_direct","sample_id": "task2_direct_band6_sample8","topics": ["can","teamwork","people","others","some","problems"],"rag_ready": true}
+
+[QUESTION]
+Why do some people prefer working in teams? What problems can teamwork cause?
+
+[SUMMARY]
+Some people prefer teamwork because they can share ideas and learn from others. Working with others can also increase creativity and produce better results.
+
+[SAMPLE_ANSWER]
+Band 6
+Some people prefer teamwork because they can share ideas and learn from others. Working with others can also increase creativity and produce better results.
+However, teamwork can cause problems. Sometimes people disagree and arguments happen. Some team members may not work hard, which makes others feel stressed. Communication issues can also slow down progress.
+
+[OVERVIEW]
+Cohesive but not advanced.
+
+[RATIONALE]
+• Good clarity but basic development
+• Vocabulary not varied enough
+• Simple sentence forms

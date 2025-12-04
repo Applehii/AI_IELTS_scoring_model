@@ -1,0 +1,20 @@
+{"band": 5,"task": "task1_maps","sample_id": "task1_map_band5_sample4","topics": ["today","park","lake","surrounding","playground","replaced"],"rag_ready": true}
+
+[QUESTION]
+The maps compare the layout of a park in 1980 and today.
+
+[SUMMARY]
+In 1980, the park had a big lake and some benches. Today the lake is smaller and there are walking paths around it.
+
+[SAMPLE_ANSWER]
+Band 5
+In 1980, the park had a big lake and some benches. Today the lake is smaller and there are walking paths around it. A café was built in the east, and a playground replaced the old sitting area. The entrance is still in the same place, but the surrounding trees changed slightly.
+
+[OVERVIEW]
+More facilities were added and the lake area changed.
+
+[RATIONALE]
+• Message understandable with basic coherence
+• Some details wrong or uncertain
+• Comparisons limited
+• Several grammar issues (articles, prepositions)

@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample5","topics": ["university","students","table","institutional","substantially","multifaceted"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the number of students enrolled in different university courses over three years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table reveals pronounced student preference hierarchies across university disciplines, reflecting multifaceted interactions between labor market signals, perceived career prospects, institutional capacity constraints, and broader...
+
+[SAMPLE_ANSWER]
+Band 7
+The table reveals pronounced student preference hierarchies across university disciplines, reflecting multifaceted interactions between labor market signals, perceived career prospects, institutional capacity constraints, and broader societal value assignments. Engineering dominates enrollment with 6,000 students, substantially exceeding science (5,000), business (4,000), arts (3,000), and notably medicine (2,000). The counterintuitive phenomenon of medicine's minimal enrollment despite exceptional prestige illuminates complex relationships between aspiration and accessibility.
+
+Engineering's preeminence reflects contemporary labor market demands for technological expertise, entrepreneurial opportunity proliferation, and perceived income generation potential. Science's substantial enrollment demonstrates sustained interest in research and specialized scientific careers. Business education attracts considerable enrollment reflecting perceived economic advancement pathways and practical career relevance. The substantial reduction in arts enrollments likely reflects declining perceptions regarding humanities' vocational relevance despite cultural value and intellectual contributions. Medicine's surprisingly limited enrollment despite exceptional social prestige presents an analytical puzzle potentially explained by stringent entry requirements, limited institutional capacity, extended educational timelines, and prohibitive associated costs creating accessibility barriers exceeding enrollment demand.
+
+This enrollment distribution carries substantial implications for future professional workforce composition, disciplinary development, and societal intellectual capital formation. The concentration in technical fields may facilitate technological advancement but potentially neglects humanistic education necessary for ethical societal development. The arts' diminished enrollment threatens humanities scholarship sustainability and cultural knowledge transmission. Policy interventions addressing these disparities might include enhanced arts funding, medicine accessibility improvements, scholarship programs, and integrated interdisciplinary curriculum development encouraging holistic education combining technical and humanities expertise. Understanding these enrollment patterns proves essential for educational planning, labor market forecasting, and maintaining balanced intellectual ecosystem development.
+
+[OVERVIEW]
+Excellent sophisticated analysis of enrollment patterns with multiple dimensions. Discusses paradoxes and policy implications thoughtfully.
+
+[RATIONALE]
+- Sophisticated vocabulary (hierarchies, perceptions, accessibility)
+- Analyzes complex paradoxes and underlying factors
+- Discusses policy implications comprehensively
+- Clear progression with nuanced reasoning
+- Demonstrates sophisticated analytical thinking
+- Strong understanding of educational and labor dynamics
+- Excellent task achievement with depth

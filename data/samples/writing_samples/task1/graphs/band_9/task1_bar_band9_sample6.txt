@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_bar_band9_sample6","topics": ["cities","city","conferences","number","hosted","infrastructure"],"rag_ready": true}
+
+[QUESTION]
+The bar chart shows the number of international conferences hosted by five cities in 2020.
+
+[SUMMARY]
+City A hosted the highest number of conferences at 52, followed closely by City B with 48. City C held 40 meetings, while Cities D and E lagged considerably behind, with only 28 and 22 respectively.
+
+[SAMPLE_ANSWER]
+Band 9
+City A hosted the highest number of conferences at 52, followed closely by City B with 48. City C held 40 meetings, while Cities D and E lagged considerably behind, with only 28 and 22 respectively. The distribution indicates a clear hierarchy among the cities, possibly reflecting differences in infrastructure or global recognition.
+
+[OVERVIEW]
+Cities A and B dominated the international conference landscape.
+
+[RATIONALE]
+• Advanced interpretation
+• Precise data reporting
+• High-level cohesion

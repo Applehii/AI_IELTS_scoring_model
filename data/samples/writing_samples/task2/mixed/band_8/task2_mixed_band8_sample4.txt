@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_mixed","sample_id": "task2_mixed_band8_sample4","topics": ["friendly","eco","environmental","positive","people","change"],"rag_ready": true}
+
+[QUESTION]
+More people are choosing eco-friendly lifestyles. Why is this happening? Is this a positive or negative development?
+
+[SUMMARY]
+The shift toward eco-friendly living is driven by increased environmental awareness and government campaigns promoting sustainability. People now recognise the consequences of climate change, such as extreme weather and pollution.
+
+[SAMPLE_ANSWER]
+Band 8
+The shift toward eco-friendly living is driven by increased environmental awareness and government campaigns promoting sustainability. People now recognise the consequences of climate change, such as extreme weather and pollution.
+This change is highly positive because it reduces waste and promotes long-term environmental protection. However, eco-friendly products are still expensive, which may exclude lower-income groups. Despite this challenge, the overall trend is beneficial for society.
+
+[OVERVIEW]
+Well-developed explanation + strong, justified opinion.
+
+[RATIONALE]
+• Good depth
+• Rich, accurate vocabulary
+• Balanced and precise arguments

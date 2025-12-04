@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_discusion","sample_id": "task2_discussion_band5_sample4","topics": ["should","students","pay","university","free","government"],"rag_ready": true}
+
+[QUESTION]
+Some people believe university education should be free, while others think students should pay for it. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people think university should be free because everyone can have the same chance to study. Poor students can go to school and change their life.
+
+[SAMPLE_ANSWER]
+Band 5
+Many people think university should be free because everyone can have the same chance to study. Poor students can go to school and change their life. But some say students should pay because university costs a lot and government cannot pay everything. In my view, it should be partly free so students pay a small amount and government supports the rest.
+
+[OVERVIEW]
+Clear but underdeveloped explanation.
+
+[RATIONALE]
+• Not enough detail
+• Repetitive wording
+• Grammar somewhat inaccurate
+• No strong linking

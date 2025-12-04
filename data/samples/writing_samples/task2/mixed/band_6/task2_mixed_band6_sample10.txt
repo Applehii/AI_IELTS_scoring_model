@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample10","topics": ["people","countries","positive","because","better","move"],"rag_ready": true}
+
+[QUESTION]
+Many people move to other countries for better opportunities. Why is this happening? Do you think this is a positive development?
+
+[SUMMARY]
+People move abroad because they want higher salaries, better education, or a safer environment. Globalisation also makes it easier to travel and work internationally.
+
+[SAMPLE_ANSWER]
+Band 6
+People move abroad because they want higher salaries, better education, or a safer environment. Globalisation also makes it easier to travel and work internationally. This can be positive because people gain new experiences and skills. However, it can also cause brain drain in developing countries. In my opinion, migration is beneficial for individuals but governments should try to keep skilled workers at home.
+
+[OVERVIEW]
+Shows meaningful insight with some limitations.
+
+[RATIONALE]
+• Good balance of pros and cons
+• Some complexity in ideas
+• Grammar mistakes still present
+• Lacks strong examples

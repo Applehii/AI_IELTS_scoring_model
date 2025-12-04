@@ -1,0 +1,29 @@
+{"band": 8,"task": "task1_tables","sample_id": "task1_tables_band8_sample8","topics": ["expenditure","urban","rural","differential","table","infrastructural"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of household expenditure on different items in urban and rural areas.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table illuminates fundamental socioeconomic structural divergence between urban and rural populations, revealing differential expenditure allocation patterns reflecting profound differences in economic organization, infrastructural requirements,...
+
+[SAMPLE_ANSWER]
+Band 8
+The table illuminates fundamental socioeconomic structural divergence between urban and rural populations, revealing differential expenditure allocation patterns reflecting profound differences in economic organization, infrastructural requirements, market structures, and consumption necessities. The food expenditure differential (40% rural versus 30% urban) constitutes the most pronounced disparity despite conventional assumptions regarding agricultural self-sufficiency in rural areas, suggesting complex market dynamics and income distribution patterns contradicting simplistic rural-agricultural narratives. Housing expenditure's 10-percentage-point urban elevation reflects fundamental real estate economics wherein urban property values substantially exceed rural counterparts due to location premiums, infrastructure concentration, and commercial density benefits. Transportation expenditure's concentration (20% urban versus 10% rural) reflects urban-specific commuting infrastructure demands, longer average commute distances, and automobile dependency characterizing metropolitan areas.
+
+The underlying causative mechanisms reveal sophisticated economic structures transcending superficial observation. Rural populations' elevated food expenditure reflects multiple interactive factors: counterintuitive limited agricultural self-sufficiency arising from commercial agriculture orientation toward export crops rather than subsistence production; transportation cost premiums for food distribution creating rural market price elevation; limited retail competition in dispersed rural settlements enabling price markup; and potential income insufficiency creating food security constraints. Urban housing elevation reflects fundamental property value economics combining location scarcity premiums, infrastructure cost incorporation into property prices, and capitalized income differentials translating superior urban employment opportunities into property valuations. Transportation concentration reflects infrastructure clustering and commuting pattern necessities absent in rural areas where activity decentralization reduces transportation dependence.
+
+These expenditure patterns carry substantial implications for regional development strategy, poverty reduction frameworks, and spatial economic optimization. Rural development interventions should emphasize: agricultural commercialization enhancement enabling improved market integration; rural infrastructure development improving food distribution efficiency; market mechanism strengthening enhancing competition and price reduction; and income augmentation enabling reduced subsistence-level expenditure proportions. Urban policy should address: housing affordability through regulatory intervention, zoning modification, and construction technology advancement; transportation efficiency through infrastructure investment and land-use planning; and consumer service accessibility ensuring equitable urban participation. The analysis demonstrates how spatial geography establishes fundamental economic structures requiring differentiated, place-sensitive policy responses rather than uniform national approaches. Understanding these mechanisms proves essential for development economists, urban planners, and policymakers addressing persistent regional inequality structures embedded within geographic and infrastructural organization principles.
+
+[OVERVIEW]
+Exceptionally sophisticated analysis of spatial economic structures with detailed development implications comprehensively discussed. Exemplary analytical sophistication.
+
+[RATIONALE]
+- Uses exceptionally sophisticated vocabulary (divergence, premiums, differentiated)
+- Analyzes complex spatial economic structures comprehensively
+- Discusses policy implications with strategic sophistication
+- Makes nuanced observations about market mechanics
+- Clear, logically rigorous argumentative structure
+- Demonstrates exceptional understanding of regional economics
+- Exemplary analytical sophistication and critical thinking

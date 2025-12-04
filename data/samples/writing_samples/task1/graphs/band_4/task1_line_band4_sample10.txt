@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_graphs","sample_id": "task1_line_band4_sample10","topics": ["countries","internet","country","graph","all","different"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows Internet users in five countries between 2005 and 2020.
+
+[SUMMARY]
+The graph show Internet using. All countries go up.
+
+[SAMPLE_ANSWER]
+Band 4
+The graph show Internet using. All countries go up. Country 1 highest. Country 5 lowest. They all increase but at different speed.
+
+[OVERVIEW]
+Internet use rises in all countries.
+
+[RATIONALE]
+• Too general
+• No data
+• Many grammar issues
+• Simple ideas

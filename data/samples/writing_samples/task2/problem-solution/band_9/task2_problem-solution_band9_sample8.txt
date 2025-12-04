@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band9_sample8","topics": ["hours","working","what","long","organisational","deteriorating"],"rag_ready": true}
+
+[QUESTION]
+Many people are working longer hours today. What problems does this lead to and what are the solutions?
+
+[SUMMARY]
+Long working hours have serious consequences on both personal well-being and organisational efficiency. Employees who consistently work overtime face burnout, which reduces creativity and increases the likelihood of mistakes.
+
+[SAMPLE_ANSWER]
+Band 9
+Long working hours have serious consequences on both personal well-being and organisational efficiency. Employees who consistently work overtime face burnout, which reduces creativity and increases the likelihood of mistakes. On a social level, long hours deprive individuals of family time, contributing to deteriorating relationships and declining birth rates.
+To address this, governments should introduce legislation limiting overtime and requiring companies to track working hours transparently. Employers can also encourage remote work and flexible scheduling. Such reforms help people maintain a healthy work–life balance.
+
+[OVERVIEW]
+Overwork leads to burnout and social decline; legislation and flexible work improve balance.
+
+[RATIONALE]
+• Advanced, nuanced ideas
+• Complex grammar with natural flow
+• Highly logical reasoning

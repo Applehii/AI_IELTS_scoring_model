@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample7","topics": ["centre","city","park","considerable","development","illustrate"],"rag_ready": true}
+
+[QUESTION]
+The maps illustrate the city centre in 1995 and 2015.
+
+[SUMMARY]
+The city centre saw considerable growth from 1995 to 2015. In 1995, the area contained a park, several offices, and a few shops.
+
+[SAMPLE_ANSWER]
+Band 6
+The city centre saw considerable growth from 1995 to 2015. In 1995, the area contained a park, several offices, and a few shops. By 2015, many high-rise buildings were added. The park was reduced in size to make space for commercial development. A bus station was built on the west side, improving public transport. The road network was also slightly expanded to handle more traffic.
+
+[OVERVIEW]
+More buildings and transportation improvements were made.
+
+[RATIONALE]
+• Covers most major changes
+• Some missing comparisons
+• Certain assumptions not backed by map
+• Language range moderate

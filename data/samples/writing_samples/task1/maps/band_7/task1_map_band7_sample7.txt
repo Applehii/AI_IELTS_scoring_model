@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_maps","sample_id": "task1_map_band7_sample7","topics": ["centre","city","improvements","illustrate","additional","urbanised"],"rag_ready": true}
+
+[QUESTION]
+The maps illustrate the city centre in 1995 and 2015.
+
+[SUMMARY]
+The city centre became more urbanised over the 20-year period. Initially, the park occupied a large area in the east, but by 2015, part of it had been replaced by high-rise office buildings.
+
+[SAMPLE_ANSWER]
+Band 7
+The city centre became more urbanised over the 20-year period. Initially, the park occupied a large area in the east, but by 2015, part of it had been replaced by high-rise office buildings. A bus station was added on the west side, enhancing public transport. The shopping street expanded with additional stores, and road improvements were made to manage increased traffic volume.
+
+[OVERVIEW]
+More buildings and transportation upgrades were introduced.
+
+[RATIONALE]
+• Clear, well-organised description
+• Missing some precise spatial info
+• Could use more advanced linking words

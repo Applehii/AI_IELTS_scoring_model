@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band9_sample3","topics": ["mental","health","issues","young","problems","people"],"rag_ready": true}
+
+[QUESTION]
+Many young people are struggling with mental health issues. What problems do these issues cause, and what can be done?
+
+[SUMMARY]
+The rise in mental health problems among young people has far-reaching consequences. On an individual level, anxiety and depression undermine academic performance and hinder social development.
+
+[SAMPLE_ANSWER]
+Band 9
+The rise in mental health problems among young people has far-reaching consequences. On an individual level, anxiety and depression undermine academic performance and hinder social development. At a broader level, widespread mental health issues reduce a nation’s long-term human capital, as young adults who fail to receive treatment are less able to contribute productively to society.
+To address this, schools should integrate mental-health education into their curricula and provide easier access to counselling services. Governments can also subsidise therapy and launch nationwide campaigns that destigmatise seeking help. By combining education, professional support, and public awareness, societies can better protect young people’s emotional well-being.
+
+[OVERVIEW]
+Mental health issues affect individuals and national productivity; education, counselling, and destigmatisation offer strong solutions.
+
+[RATIONALE]
+• High-level societal perspective
+• Excellent task fulfilment
+• Cohesion and register are near-perfect

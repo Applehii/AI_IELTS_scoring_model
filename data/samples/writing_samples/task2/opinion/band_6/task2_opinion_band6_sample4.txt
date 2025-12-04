@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_opinion","sample_id": "task2_opinion_band6_sample4","topics": ["people","social","media","communication","relationships","advantages"],"rag_ready": true}
+
+[QUESTION]
+Some people say social media makes people less social. Do you agree or disagree?
+
+[SUMMARY]
+I think social media can reduce real-life communication, but it also has advantages. Many people spend hours online instead of talking to their friends or family.
+
+[SAMPLE_ANSWER]
+Band 6
+I think social media can reduce real-life communication, but it also has advantages. Many people spend hours online instead of talking to their friends or family. This leads to weaker relationships. On the other hand, social media helps people connect with others who live far away. Overall, it depends on how people use it.
+
+[OVERVIEW]
+Ideas clear but still general.
+
+[RATIONALE]
+• Frequent basic grammar
+• Limited examples
+• Explanations not fully developed

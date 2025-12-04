@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample3","topics": ["people","because","work","home","sometimes","positive"],"rag_ready": true}
+
+[QUESTION]
+Some people work from home more often now. What are the reasons for this? Is it a positive or negative change?
+
+[SUMMARY]
+People work at home because internet better and company allow. It good because people no travel.
+
+[SAMPLE_ANSWER]
+Band 4
+People work at home because internet better and company allow. It good because people no travel. But sometimes bad because no meet people. I think mostly okay.
+
+[OVERVIEW]
+Very general ideas, limited depth.
+
+[RATIONALE]
+• Frequent grammar issues
+• Lacks detail
+• No real examples
+• Very limited linking words

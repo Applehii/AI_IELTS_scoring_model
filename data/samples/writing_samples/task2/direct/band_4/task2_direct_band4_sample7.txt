@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample7","topics": ["challenges","students","problem","abroad","study","they"],"rag_ready": true}
+
+[QUESTION]
+Why do students choose to study abroad? What challenges do they face?
+
+[SUMMARY]
+Students study abroad because want good education. They think other country school better.
+
+[SAMPLE_ANSWER]
+Band 4
+Students study abroad because want good education. They think other country school better. Challenges is language problem and homesick. Also money problem.
+
+[OVERVIEW]
+Too brief, limited detail.
+
+[RATIONALE]
+• Errors in grammar
+• Repetition (problem problem)
+• No advanced vocabulary

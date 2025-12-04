@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band5_sample7","topics": ["cities","big","people","living","move","also"],"rag_ready": true}
+
+[QUESTION]
+Many people move to big cities. What are the pros and cons?
+
+[SUMMARY]
+People move to cities because there are more job opportunities. They also have better schools and hospitals.
+
+[SAMPLE_ANSWER]
+Band 5
+People move to cities because there are more job opportunities. They also have better schools and hospitals. But life in big cities is stressful due to traffic and pollution. The cost of living is also higher. So living in a big city has both positive and negative sides.
+
+[OVERVIEW]
+Better services but high stress.
+
+[RATIONALE]
+• Basic explanation
+• Limited range of language
+• Common grammar errors

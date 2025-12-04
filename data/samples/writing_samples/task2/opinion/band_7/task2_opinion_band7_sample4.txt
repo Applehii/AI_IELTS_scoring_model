@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample4","topics": ["people","social","media","online","less","face"],"rag_ready": true}
+
+[QUESTION]
+Some people say social media makes people less social. Do you agree or disagree?
+
+[SUMMARY]
+I believe social media can reduce the quality of face-to-face interactions, but it does not necessarily make people less social.
+
+[SAMPLE_ANSWER]
+Band 7
+I believe social media can reduce the quality of face-to-face interactions, but it does not necessarily make people less social. Many individuals now prefer to communicate online, which can weaken real relationships. However, social media also connects people who live far apart and helps maintain friendships. Its impact depends on how people use it, so promoting healthy online habits is more effective than criticising the technology itself.
+
+[OVERVIEW]
+Balanced view with good depth.
+
+[RATIONALE]
+• Clear argument
+• Some higher-level expressions
+• Occasional grammar slips

@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band6_sample10","topics": ["workers","solutions","companies","reduce","jobs","also"],"rag_ready": true}
+
+[QUESTION]
+Many workers change jobs frequently. What problems and solutions?
+
+[SUMMARY]
+Changing jobs often may reduce career stability. Workers may not gain long-term skills and employers might not trust them.
+
+[SAMPLE_ANSWER]
+Band 6
+Changing jobs often may reduce career stability. Workers may not gain long-term skills and employers might not trust them. Companies also spend more money on training. One solution is for companies to offer better benefits so workers stay longer. Workers should also think carefully before quitting a job. These solutions can reduce job-hopping.
+
+[OVERVIEW]
+Frequent changes reduce stability; benefits and planning help.
+
+[RATIONALE]
+• Covers task well but shallow
+• Lacks complexity
+• Grammar fairly simple

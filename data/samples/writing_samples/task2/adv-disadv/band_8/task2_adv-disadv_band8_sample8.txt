@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample8","topics": ["countryside","people","living","disadvantages","relationships","opportunities"],"rag_ready": true}
+
+[QUESTION]
+Some people prefer living in the countryside. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+The countryside offers cleaner air, lower living costs, and a calmer lifestyle. It enables stronger community relationships and reduces daily stress.
+
+[SAMPLE_ANSWER]
+Band 8
+The countryside offers cleaner air, lower living costs, and a calmer lifestyle. It enables stronger community relationships and reduces daily stress. However, rural areas often lack professional opportunities and advanced healthcare. Young people may find it difficult to build a career or access specialised services. Thus, the countryside provides a peaceful environment but limits long-term development.
+
+[OVERVIEW]
+Relaxed living vs. lack of opportunities.
+
+[RATIONALE]
+• Mature argumentation
+• Precise vocabulary
+• Clear contrasts

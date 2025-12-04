@@ -7,3 +7,4 @@ chromadb
 requests
 pydantic
 numpy
+python-multipart

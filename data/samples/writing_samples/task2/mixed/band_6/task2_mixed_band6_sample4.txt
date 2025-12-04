@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample4","topics": ["people","change","careers","their","others","while"],"rag_ready": true}
+
+[QUESTION]
+Some people frequently change their careers, while others stay in the same field for many years. Why do people change careers? Do you think it is a good idea?
+
+[SUMMARY]
+People change careers for several reasons. Some want higher salaries or better working conditions, while others search for jobs that match their interests.
+
+[SAMPLE_ANSWER]
+Band 6
+People change careers for several reasons. Some want higher salaries or better working conditions, while others search for jobs that match their interests. Modern workplaces also change quickly, so people need new skills. Career changes can be positive because they allow individuals to explore their strengths. However, switching too often may make it difficult to build expertise. I think career changes are beneficial when they are planned carefully.
+
+[OVERVIEW]
+Covers multiple reasons with some depth.
+
+[RATIONALE]
+• Well-organised
+• Contains some complex structures
+• Still lacks specific examples
+• Grammar accuracy inconsistent

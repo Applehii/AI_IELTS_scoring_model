@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample3","topics": ["population","nations","global","table","five","fundamentally"],"rag_ready": true}
+
+[QUESTION]
+The following table shows the population growth in five countries from 2010 to 2020.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table illuminates demographic distribution patterns among five major global nations, revealing concentrated population aggregation in Asia that fundamentally shapes geopolitical and economic dynamics.
+
+[SAMPLE_ANSWER]
+Band 7
+The table illuminates demographic distribution patterns among five major global nations, revealing concentrated population aggregation in Asia that fundamentally shapes geopolitical and economic dynamics. China and India collectively represent approximately 2.7 billion individuals, comprising roughly 35-37% of global population and dwarfing all other nations examined. The remaining three nations—United States, Indonesia, and Brazil—possess substantially smaller populations, with even the United States representing less than quarter of China's demographic mass, underscoring the exceptional concentration within Asian nations.
+
+This demographic asymmetry reflects complex historical, cultural, and policy trajectories specific to each nation. China's massive population resulted from millennia of agricultural civilization supporting large settled populations, while subsequent population policies including the one-child legislation created contemporary demographic characteristics. India's comparable magnitude reflects similar historical agricultural capacity combined with higher sustained fertility rates throughout modernization. The substantially smaller populations of the Americas and Indonesia reflect colonial settlement patterns, geographic limitations, and different historical trajectories. These demographic realities establish inescapable parameters for resource consumption, environmental impact assessment, economic productivity requirements, and political influence dynamics.
+
+The stability of these rankings throughout the decade suggests fundamental demographic structures resistant to rapid alteration. China's aging population structure, resulting from past population control policies, contrasts markedly with India's substantially younger demographic profile, creating divergent future trajectories regarding economic productivity, labor availability, and pension burdens. Recognizing these demographic realities and future trajectories proves essential for international relations, resource allocation planning, environmental management, and understanding power dynamics in an increasingly multipolar world characterized by demographic concentration in specific geographic regions.
+
+[OVERVIEW]
+Highly sophisticated demographic and geopolitical analysis. Explains underlying causes and future implications comprehensively.
+
+[RATIONALE]
+- Uses advanced vocabulary (asymmetry, trajectories, multipolar)
+- Analyzes causes and future implications in depth
+- Connects demographics to geopolitical and environmental factors
+- Sophisticated understanding of complex systems
+- Clear, well-developed argumentative structure
+- Demonstrates critical analytical thinking
+- Excellent task achievement with depth

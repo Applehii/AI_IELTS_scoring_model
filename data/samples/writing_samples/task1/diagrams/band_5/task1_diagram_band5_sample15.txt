@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_diagrams","sample_id": "task1_diagram_band5_sample15","topics": ["cycle","butterfly","leaves","eggs","they","caterpillars"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the life cycle of a butterfly.
+
+[SUMMARY]
+The cycle begins with eggs on leaves. The eggs hatch into caterpillars.
+
+[SAMPLE_ANSWER]
+Band 5
+The cycle begins with eggs on leaves. The eggs hatch into caterpillars. They eat leaves and grow. Then they form a chrysalis. After some time, an adult butterfly comes out and the cycle continues.
+
+[OVERVIEW]
+Eggs develop into butterflies through several natural stages.
+
+[RATIONALE]
+• Accurate but too simple  
+• Lacks scientific vocabulary  
+• Weak overview

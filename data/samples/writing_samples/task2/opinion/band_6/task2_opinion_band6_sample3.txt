@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_opinion","sample_id": "task2_opinion_band6_sample3","topics": ["free","university","education","students","should","agree"],"rag_ready": true}
+
+[QUESTION]
+Some people think university education should be free. Do you agree or disagree?
+
+[SUMMARY]
+I agree that university should be more affordable, but making it completely free is unrealistic. Free education would allow more students to study, especially those from poor families.
+
+[SAMPLE_ANSWER]
+Band 6
+I agree that university should be more affordable, but making it completely free is unrealistic. Free education would allow more students to study, especially those from poor families. However, it would create a huge financial burden on the government. A better solution is reducing tuition fees and giving scholarships to students who need them most.
+
+[OVERVIEW]
+Reasonable balance but not very in-depth.
+
+[RATIONALE]
+• Adequate structure
+• Some complex sentences
+• Not enough analytical depth

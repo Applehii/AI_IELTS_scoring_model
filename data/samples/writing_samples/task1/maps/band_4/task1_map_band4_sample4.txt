@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_maps","sample_id": "task1_map_band4_sample4","topics": ["park","but","different","entrance","changes","public"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a public park from 1980 to today.
+
+[SUMMARY]
+The park in 1980 very simple. Now it has many thing like place to eat and maybe a lake.
+
+[SAMPLE_ANSWER]
+Band 4
+The park in 1980 very simple. Now it has many thing like place to eat and maybe a lake. The trees also change but I not sure. The entrance stay same but some path look different.
+
+[OVERVIEW]
+More facilities were added.
+
+[RATIONALE]
+• Uncertainty (“maybe”, “not sure”)
+• Missing core information
+• Weak organisation
+• Incorrect grammar and word forms

@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band6_sample2","topics": ["people","unemployment","young","many","what","lead"],"rag_ready": true}
+
+[QUESTION]
+Many young people experience unemployment. What problems does this lead to and what are possible solutions?
+
+[SUMMARY]
+Youth unemployment can create several social issues. First, young people may become depressed because they cannot find a job after studying for many years.
+
+[SAMPLE_ANSWER]
+Band 6
+Youth unemployment can create several social issues. First, young people may become depressed because they cannot find a job after studying for many years. It can also lead to higher crime rates, as some people may commit crimes to earn money. To address this, governments should invest in job training programmes that match market needs. Schools could also teach practical skills, such as communication or teamwork, to make students more employable. These steps may help reduce unemployment.
+
+[OVERVIEW]
+Unemployment causes mental issues and crime; training programs can help.
+
+[RATIONALE]
+• Contains explanations but still general
+• Structure okay but lacks strong linking
+• Vocabulary sometimes repetitive

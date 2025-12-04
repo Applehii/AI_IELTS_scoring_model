@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_opinion","sample_id": "task2_opinion_band9_sample8","topics": ["science","art","studying","agree","technological","breakthroughs"],"rag_ready": true}
+
+[QUESTION]
+Studying art is as important as studying science. Agree or disagree?
+
+[SUMMARY]
+I strongly agree that art holds equal importance to science, though they serve different purposes. Science drives technological and medical breakthroughs, while art cultivates empathy, critical reflection, and cultural identity.
+
+[SAMPLE_ANSWER]
+Band 9
+I strongly agree that art holds equal importance to science, though they serve different purposes. Science drives technological and medical breakthroughs, while art cultivates empathy, critical reflection, and cultural identity. A society that values only scientific advancement risks becoming efficient but emotionally impoverished. Therefore, a balanced curriculum that recognises the complementary nature of both disciplines is crucial for producing well-rounded citizens.
+
+[OVERVIEW]
+Elegant comparison with philosophical depth.
+
+[RATIONALE]
+• Advanced vocabulary (emotionally impoverished, complementary nature)
+• Strong, cohesive argument
+• High-level academic tone

@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_opinion","sample_id": "task2_opinion_band4_sample3","topics": ["uniform","student","school","think","agree","some"],"rag_ready": true}
+
+[QUESTION]
+Some people think students should wear school uniforms. Do you agree or disagree?
+
+[SUMMARY]
+I agree because uniform make all student same. If no uniform, some student wear bad clothes.
+
+[SAMPLE_ANSWER]
+Band 4
+I agree because uniform make all student same. If no uniform, some student wear bad clothes. Also uniform look nice. So I think uniform good for school.
+
+[OVERVIEW]
+Very short and one-sided.
+
+[RATIONALE]
+• Extremely short
+• No explanation or complexity
+• Basic vocabulary
+• Many missing linkers

@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample9","topics": ["smartphones","their","disadvantages","communication","indispensable","particularly"],"rag_ready": true}
+
+[QUESTION]
+Smartphones are widely used around the world. What are their advantages and disadvantages?
+
+[SUMMARY]
+Smartphones facilitate instant communication and provide access to educational and financial services. They are indispensable tools for modern life.
+
+[SAMPLE_ANSWER]
+Band 8
+Smartphones facilitate instant communication and provide access to educational and financial services. They are indispensable tools for modern life. However, their overuse can damage mental health by reducing attention span and increasing anxiety. Children are particularly vulnerable to screen addiction. Therefore, while smartphones are extremely useful, responsible use is essential to avoid negative consequences.
+
+[OVERVIEW]
+Highly useful yet potentially harmful to mental health.
+
+[RATIONALE]
+• Sophisticated mental-health analysis
+• Wide vocabulary (vulnerable, indispensable)
+• Strong coherence

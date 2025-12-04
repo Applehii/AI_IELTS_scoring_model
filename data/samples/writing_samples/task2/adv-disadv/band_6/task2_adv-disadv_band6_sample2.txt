@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band6_sample2","topics": ["flexible","employees","hours","work","can","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Some companies allow employees to work flexible hours. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Flexible working hours help employees balance work and personal life more easily. They can choose a schedule that matches their lifestyle, which often increases productivity.
+
+[SAMPLE_ANSWER]
+Band 6
+Flexible working hours help employees balance work and personal life more easily. They can choose a schedule that matches their lifestyle, which often increases productivity. On the downside, it may be difficult for managers to coordinate teamwork when everyone works at different times. Communication can become slower. Therefore, flexible schedules are useful but not suitable for every job.
+
+[OVERVIEW]
+Better work–life balance but weaker teamwork.
+
+[RATIONALE]
+• Clear structure
+• Reasonably developed
+• Missing deeper examples and analysis

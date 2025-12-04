@@ -1,0 +1,22 @@
+{"band": 8,"task": "task2_direct","sample_id": "task2_direct_band8_sample4","topics": ["people","languages","foreign","learn","many","more"],"rag_ready": true}
+
+[QUESTION]
+Why do many people choose to learn foreign languages? What difficulties do they face?
+
+[SUMMARY]
+People learn foreign languages to enhance their career opportunities and communicate with people from different cultures. In an increasingly globalised world, multilingual individuals are often more competitive in the job market and can build international relationships more easily.
+
+[SAMPLE_ANSWER]
+Band 8
+People learn foreign languages to enhance their career opportunities and communicate with people from different cultures. In an increasingly globalised world, multilingual individuals are often more competitive in the job market and can build international relationships more easily.
+However, learning a new language can be challenging. Many learners struggle with pronunciation and grammar differences that do not exist in their native language. Consistency is another difficulty, as maintaining motivation over a long period can be demanding. Despite these obstacles, the benefits generally outweigh the challenges.
+
+Strong points with good elaboration.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• Good balance and clarity
+• Advanced expressions
+• Fairly high grammatical accuracy

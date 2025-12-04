@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample8","topics": ["advertising","vulnerabilities","disadvantages","psychological","expectations","consequently"],"rag_ready": true}
+
+[QUESTION]
+Some people argue that advertising has more disadvantages than advantages. Discuss both sides.
+
+[SUMMARY]
+Advertising stimulates competition and finances free digital content, enabling consumers to discover innovative products. It also supports economic growth by driving demand.
+
+[SAMPLE_ANSWER]
+Band 9
+Advertising stimulates competition and finances free digital content, enabling consumers to discover innovative products. It also supports economic growth by driving demand. Yet modern advertising often manipulates psychological vulnerabilities, encouraging excessive consumption and shaping unrealistic social expectations. Furthermore, targeted ads raise privacy concerns. Consequently, advertising is indispensable to modern economies but requires strict regulation to protect consumers.
+
+[OVERVIEW]
+Economically essential but manipulative and intrusive.
+
+[RATIONALE]
+• Highly balanced
+• Academic critique of manipulation & privacy
+• Very strong vocabulary

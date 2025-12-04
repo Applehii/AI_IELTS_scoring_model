@@ -1,154 +1,107 @@
 import os
+import sys
+import json
 from pathlib import Path
+
+# ===============================
+# Add project root to sys.path
+# ===============================
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT))
 
 from app.rag_manager import RAGManager
 
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = BASE_DIR / "data"
+BASE_DIR = ROOT
+DATA_DIR = BASE_DIR / "data" / "samples"   # new standardized dataset
 
 
-def load_text_files(base_path: Path):
-    for root, dirs, files in os.walk(base_path):
+def parse_sections(content: str):
+    """Parse [QUESTION], [SUMMARY], [SAMPLE_ANSWER], [OVERVIEW], [RATIONALE]."""
+    blocks = {}
+    current = None
+
+    for line in content.split("\n"):
+        line = line.strip()
+
+        if line.startswith("[") and line.endswith("]"):
+            header = line.strip("[]").strip().upper()
+            blocks[header] = []
+            current = header
+        else:
+            if current:
+                blocks[current].append(line)
+
+    for k in blocks:
+        blocks[k] = "\n".join(blocks[k]).strip()
+
+    return blocks
+
+
+def load_all_sample_files():
+    """Yield (path, raw_text, metadata_json, parsed_sections)."""
+
+    for root, _, files in os.walk(DATA_DIR):
         for fname in files:
-            if fname.lower().endswith((".txt", ".md")):
-                full_path = Path(root) / fname
-                with open(full_path, "r", encoding="utf-8") as f:
-                    content = f.read().strip()
-                yield full_path, content
+            if not fname.endswith(".txt"):
+                continue
 
+            full_path = Path(root) / fname
+            raw = full_path.read_text(encoding="utf-8")
 
-def parse_writing_rubric_meta(file_path: Path):
-    name = file_path.stem
-    parts = name.split("_")
-    band = None
-    criterion = None
+            # Split JSON header
+            lines = raw.lstrip().split("\n", 1)
 
-    for p in parts:
-        if p.lower().startswith("band"):
-            band = p.lower().replace("band", "")
-        else:
-            criterion = p.upper()
+            try:
+                meta = json.loads(lines[0].strip())
+            except Exception as e:
+                print(f"❌ ERROR: Invalid JSON header in {fname}: {e}")
+                continue
 
-    return {
-        "type": "writing_rubric",
-        "band": band,
-        "criterion": criterion,
-    }
+            if len(lines) < 2:
+                print(f"❌ ERROR: Missing content after JSON header in {fname}")
+                continue
 
+            content = lines[1]
+            sections = parse_sections(content)
 
-def parse_writing_sample_meta(file_path: Path):
-    name = file_path.stem
-    parts = name.split("_")
-    task = None
-    band = None
+            # Ensure required sections exist
+            if "SUMMARY" not in sections:
+                print(f"⚠️ WARNING: Missing SUMMARY in {fname}")
+                sections["SUMMARY"] = ""
 
-    for p in parts:
-        if p.lower().startswith("task"):
-            task = p.lower().replace("task", "")
-        if p.lower().startswith("band"):
-            band = p.lower().replace("band", "")
-
-    return {
-        "type": "writing_sample",
-        "task": task,
-        "band": band,
-    }
-
-
-def parse_speaking_rubric_meta(file_path: Path):
-    name = file_path.stem
-    parts = name.split("_")
-    band = None
-    criterion = None
-    for p in parts:
-        if p.lower().startswith("band"):
-            band = p.lower().replace("band", "")
-        else:
-            criterion = p.upper()
-    return {
-        "type": "speaking_rubric",
-        "band": band,
-        "criterion": criterion,
-    }
-
-
-def parse_speaking_sample_meta(file_path: Path):
-    name = file_path.stem
-    parts = name.split("_")
-    part = None
-    band = None
-    for p in parts:
-        if p.lower().startswith("part"):
-            part = p.lower().replace("part", "")
-        if p.lower().startswith("band"):
-            band = p.lower().replace("band", "")
-    return {
-        "type": "speaking_sample",
-        "part": part,
-        "band": band,
-    }
+            yield full_path, raw, meta, sections
 
 
 def main():
     rag = RAGManager()
+    count = 0
 
-    # Writing rubric
-    writing_rubric_dir = DATA_DIR / "writing_rubric"
-    print(f"Indexing writing rubrics from {writing_rubric_dir}")
-    for path, text in load_text_files(writing_rubric_dir):
-        meta = parse_writing_rubric_meta(path)
-        doc_id = f"writing_rubric::{path.stem}"
-        rag.add_document(doc_id, text, meta)
+    for file_path, full_text, meta, sections in load_all_sample_files():
+        sample_id = meta.get("sample_id", file_path.stem)
+        doc_id = f"{meta['task']}::{sample_id}"
 
-    # Writing samples
-    writing_samples_dir = DATA_DIR / "writing_samples"
-    print(f"Indexing writing samples from {writing_samples_dir}")
-    for path, text in load_text_files(writing_samples_dir):
-        meta = parse_writing_sample_meta(path)
-        doc_id = f"writing_sample::{path.stem}"
-        rag.add_document(doc_id, text, meta)
+        summary = sections.get("SUMMARY", "")
+        document_text = full_text
+        
+        clean_meta = {}
+        for k, v in meta.items():
+           if isinstance(v, list):
+            clean_meta[k] = json.dumps(v)  # convert list to JSON string
+           else:
+            clean_meta[k] = v
+  
+        rag.add_document(
+            doc_id=doc_id,
+            text=document_text,
+            metadata=clean_meta,
+            embedding_text=summary
+        )
 
-    # FIXED: Speaking rubric
-    speaking_rubric_dir = DATA_DIR / "speaking_rubric"
-    print(f"Indexing speaking rubrics from {speaking_rubric_dir}")
-    for path, text in load_text_files(speaking_rubric_dir):
-        meta = parse_speaking_rubric_meta(path)
-        doc_id = f"speaking_rubric::{path.stem}"
-        rag.add_document(doc_id, text, meta)
+        print(f"📌 Indexed: {doc_id}")
+        count += 1
 
-    # Speaking samples
-    speaking_samples_dir = DATA_DIR / "speaking_samples"
-    print(f"Indexing speaking samples from {speaking_samples_dir}")
-    for path, text in load_text_files(speaking_samples_dir):
-        meta = parse_speaking_sample_meta(path)
-        doc_id = f"speaking_sample::{path.stem}"
-        rag.add_document(doc_id, text, meta)
-
-# ========== Writing guides (Task 1 & Task 2) ==========
-    # ========== Writing Task 1 Guides ==========
-    writing_task1_dir = DATA_DIR / "writing_task1_guides"
-    print(f"Indexing Task 1 guides from {writing_task1_dir}")
-    for path, text in load_text_files(writing_task1_dir):
-        doc_id = f"writing_task1_guide::{path.stem}"
-        meta = {
-            "type": "writing_task1_guide",
-            "task": "1"
-        }
-        rag.add_document(doc_id, text, meta)
-
-    # ========== Writing Task 2 Guides ==========
-    writing_task2_dir = DATA_DIR / "writing_task2_guides"
-    print(f"Indexing Task 2 guides from {writing_task2_dir}")
-    for path, text in load_text_files(writing_task2_dir):
-        doc_id = f"writing_task2_guide::{path.stem}"
-        meta = {
-            "type": "writing_task2_guide",
-            "task": "2"
-        }
-        rag.add_document(doc_id, text, meta)
-
-    print("✅ Done indexing rubrics & samples into ChromaDB.")
+    print(f"\n🎉 DONE! Indexed {count} sample files into ChromaDB.\n")
 
 
 if __name__ == "__main__":

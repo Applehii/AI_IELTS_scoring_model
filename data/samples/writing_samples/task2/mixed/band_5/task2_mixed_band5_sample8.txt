@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_mixed","sample_id": "task2_mixed_band5_sample8","topics": ["time","work","part","people","positive","negative"],"rag_ready": true}
+
+[QUESTION]
+More people are choosing to work part-time. Why is this happening? Is it a positive or negative trend?
+
+[SUMMARY]
+Part-time work is popular because people want more free time. Students also choose part-time to balance study and work.
+
+[SAMPLE_ANSWER]
+Band 5
+Part-time work is popular because people want more free time. Students also choose part-time to balance study and work. This trend is positive because it gives flexibility, but it can be negative when people cannot earn enough money. In my opinion, part-time work is useful in some situations.
+
+[OVERVIEW]
+Some development but too general.
+
+[RATIONALE]
+• Ideas understandable but shallow
+• Basic vocabulary
+• Lacks any advanced structure
+• Grammar mistakes noticeable

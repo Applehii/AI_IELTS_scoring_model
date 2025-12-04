@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band6_sample3","topics": ["problems","children","obesity","what","also","consumption"],"rag_ready": true}
+
+[QUESTION]
+Obesity is increasing among children. What problems does this cause and what are the solutions?
+
+[SUMMARY]
+Childhood obesity leads to both health and social problems. Overweight children have a higher chance of getting diseases like diabetes or heart problems.
+
+[SAMPLE_ANSWER]
+Band 6
+Childhood obesity leads to both health and social problems. Overweight children have a higher chance of getting diseases like diabetes or heart problems. They may also be bullied at school, which affects their confidence. To solve this, parents should provide healthier meals at home and reduce fast-food consumption. Schools can also encourage exercise by offering more sports activities. These solutions can help children stay healthy.
+
+[OVERVIEW]
+Obesity harms health and confidence; healthy meals and sports help.
+
+[RATIONALE]
+• Clear but simple explanation
+• Vocabulary moderate
+• Needs deeper examples for a higher band

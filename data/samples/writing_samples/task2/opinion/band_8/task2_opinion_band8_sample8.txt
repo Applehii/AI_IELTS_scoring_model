@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample8","topics": ["car","owning","essential","transport","disagree","inconvenient"],"rag_ready": true}
+
+[QUESTION]
+Owning a car is essential. Do you agree or disagree?
+
+[SUMMARY]
+I disagree that car ownership is essential for everyone. In urban areas with efficient public transport, owning a car can be more inconvenient due to traffic congestion and parking difficulties.
+
+[SAMPLE_ANSWER]
+Band 8
+I disagree that car ownership is essential for everyone. In urban areas with efficient public transport, owning a car can be more inconvenient due to traffic congestion and parking difficulties. However, in rural regions, where transport options are limited, a car might indeed be necessary. Therefore, the necessity of owning a car depends largely on geographical and lifestyle factors.
+
+[OVERVIEW]
+Shows understanding of context.
+
+[RATIONALE]
+• Strong analytical tone
+• Well-balanced argument
+• Advanced cohesion

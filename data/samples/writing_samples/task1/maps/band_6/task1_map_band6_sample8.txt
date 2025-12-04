@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample8","topics": ["school","area","over","more","constructed","accommodate"],"rag_ready": true}
+
+[QUESTION]
+The maps show the changes to a school area over 30 years.
+
+[SUMMARY]
+The school expanded noticeably over the 30-year period. A new block of classrooms was constructed to the north, while the playground was moved to the right-hand side.
+
+[SAMPLE_ANSWER]
+Band 6
+The school expanded noticeably over the 30-year period. A new block of classrooms was constructed to the north, while the playground was moved to the right-hand side. The parking area became larger to accommodate more vehicles. The garden that existed earlier was removed to provide more building space. The entrance, however, remained unchanged.
+
+[OVERVIEW]
+More buildings were added, and the layout was reorganised.
+
+[RATIONALE]
+• Clear but simplistic
+• Limited vocabulary
+• Missing key details (exact positions, connections)
+• Mostly accurate grammar but lacks complexity

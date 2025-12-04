@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_maps","sample_id": "task1_map_band8_sample6","topics": ["shopping","district","became","commercialised","significantly","restaurants"],"rag_ready": true}
+
+[QUESTION]
+The maps show major changes in a shopping district between 2005 and 2020.
+
+[SUMMARY]
+The shopping district became significantly more commercialised. In 2005, small family-run shops lined both sides of The High Street.
+
+[SAMPLE_ANSWER]
+Band 8
+The shopping district became significantly more commercialised. In 2005, small family-run shops lined both sides of The High Street. By 2020, nearly all of them had been replaced with a large enclosed shopping mall spanning most of the central area. The former market to the east was converted into a leisure complex featuring restaurants and cinemas. The main road became pedestrian-only, and a multi-storey car park was constructed to the south.
+
+[OVERVIEW]
+Small retail units were replaced by larger commercial developments, with improved infrastructure.
+
+[RATIONALE]
+• Strong task coverage
+• Excellent cohesion
+• Minor lack of nuanced phrasing for Band 9

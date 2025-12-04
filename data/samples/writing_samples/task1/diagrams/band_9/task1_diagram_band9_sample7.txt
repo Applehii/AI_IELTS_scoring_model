@@ -1,0 +1,24 @@
+{"band": 9,"task": "task1_diagrams","sample_id": "task1_diagram_band9_sample7","topics": ["chocolate","cacao","beans","diagram","illustrates","traditional"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how chocolate is produced from cacao beans.
+
+[SUMMARY]
+The diagram illustrates the traditional chocolate-making process, beginning with cacao harvesting and ending with liquid chocolate production. Overall, it involves biological, mechanical, and thermal stages.
+
+[SAMPLE_ANSWER]
+Band 9
+The diagram illustrates the traditional chocolate-making process, beginning with cacao harvesting and ending with liquid chocolate production. Overall, it involves biological, mechanical, and thermal stages.
+
+Ripe cacao pods are harvested and split open to remove the white beans inside. These beans are fermented for several days, causing them to darken. They are then dried naturally in sunlight. Once dried, the beans are transported to a factory, where they are roasted at high temperatures.
+
+After roasting, the beans are crushed to remove their outer shells, leaving cacao nibs. These nibs are ground into a thick paste known as chocolate liquor, which forms the base of chocolate products.
+
+[OVERVIEW]
+A clear chain of harvesting, fermenting, roasting, and grinding.
+
+[RATIONALE]
+• Extremely accurate detail
+• Excellent academic tone
+• Perfect logical progression
+• Wide lexical range (liquor, nibs, fermented)

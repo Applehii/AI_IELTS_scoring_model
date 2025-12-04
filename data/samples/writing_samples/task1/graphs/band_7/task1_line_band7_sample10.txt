@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_line_band7_sample10","topics": ["consumption","meat","kilograms","fish","consistently","fluctuating"],"rag_ready": true}
+
+[QUESTION]
+The line graph compares the consumption of meat, fish, and vegetables from 1990 to 2020.
+
+[SUMMARY]
+Meat consumption increased steadily from 50 to 70 kilograms per person. Vegetable intake also rose from 40 to 60.
+
+[SAMPLE_ANSWER]
+Band 7
+Meat consumption increased steadily from 50 to 70 kilograms per person. Vegetable intake also rose from 40 to 60. Fish consumption remained relatively stable, fluctuating slightly before rising modestly to 35 kilograms. Meat was consistently the most consumed category.
+
+[OVERVIEW]
+All foods showed upward trends except fish, which grew slowly.
+
+[RATIONALE]
+• Consistent comparisons
+• Appropriate vocabulary
+• Needs more complex structures for band 8+

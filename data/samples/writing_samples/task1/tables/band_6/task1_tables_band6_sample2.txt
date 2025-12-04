@@ -1,0 +1,29 @@
+{"band": 6,"task": "task1_tables","sample_id": "task1_tables_band6_sample2","topics": ["cities","rainfall","across","table","asian","four"],"rag_ready": true}
+
+[QUESTION]
+The table below presents the annual rainfall data for four Asian cities over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table delineates rainfall patterns across four major Asian cities, revealing marked geographical variation. Manila experiences the highest precipitation at 2,500mm annually, substantially exceeding Singapore (2,000mm), Bangkok (1,500mm), and Hong Kong (1,200mm).
+
+[SAMPLE_ANSWER]
+Band 6
+The table delineates rainfall patterns across four major Asian cities, revealing marked geographical variation. Manila experiences the highest precipitation at 2,500mm annually, substantially exceeding Singapore (2,000mm), Bangkok (1,500mm), and Hong Kong (1,200mm). The difference between the wettest and driest cities amounts to 1,300mm, indicating diverse climatic conditions across the region.
+
+Analysis of the data reveals two distinct climatic zones. Manila and Singapore, situated in equatorial and tropical regions respectively, receive significantly more rainfall than Bangkok and Hong Kong, which experience more temperate climates. Manila's extremely high rainfall, characteristic of its tropical monsoon climate, results in annual precipitation that is double that of Hong Kong. This geographical variation has profound implications for agriculture, water management, and urban planning in these cities.
+
+The consistency of these patterns across the five-year period suggests stable long-term climate characteristics rather than anomalous variations. These rainfall distributions significantly influence infrastructure requirements, with cities like Manila requiring more sophisticated drainage systems. Understanding these climatic differences is essential for regional development planning and disaster preparedness, particularly regarding flood management in high-rainfall areas.
+
+[OVERVIEW]
+Sophisticated analysis linking rainfall to geography and implications. Well-explained patterns. Good use of technical vocabulary. Comprehensive response.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (delineates, temperate, monsoon)
+- Makes meaningful connections to geographic and practical implications
+- Provides well-reasoned explanations
+- Clear and logical organization
+- Demonstrates deeper understanding of data
+- Uses linking words effectively
+- Excellent task achievement

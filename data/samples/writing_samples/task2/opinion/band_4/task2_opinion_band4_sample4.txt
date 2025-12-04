@@ -1,0 +1,21 @@
+{"band": 4,"task": "task2_opinion","sample_id": "task2_opinion_band4_sample4","topics": ["city","countryside","better","think","repetitive","disagree"],"rag_ready": true}
+
+[QUESTION]
+Some people think it is better to live in the countryside, others prefer cities. Do you agree or disagree?
+
+[SUMMARY]
+I think city better because many shop and place to go. Countryside boring and nothing to do.
+
+[SAMPLE_ANSWER]
+Band 4
+I think city better because many shop and place to go. Countryside boring and nothing to do. In city also job easy to find. So I choose city.
+
+Shallow and repetitive.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• No balance, no explanation
+• Limited grammar
+• Very short paragraphs

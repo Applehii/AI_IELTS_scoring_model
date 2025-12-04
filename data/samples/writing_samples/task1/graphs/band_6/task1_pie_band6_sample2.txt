@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_graphs","sample_id": "task1_pie_band6_sample2","topics": ["housing","chart","food","transportation","entertainment","distribution"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the distribution of household spending in a country in 2022.
+
+[SUMMARY]
+The chart illustrates how households spent their money in 2022. The largest portion went to housing at 35%.
+
+[SAMPLE_ANSWER]
+Band 6
+The chart illustrates how households spent their money in 2022. The largest portion went to housing at 35%. Food accounted for 25%, while transportation represented 15%. Entertainment and health made up smaller shares at 10% and 8% respectively. The smallest category was education at only 7%. Overall, essential needs such as housing and food clearly dominated the budget.
+
+[OVERVIEW]
+Housing and food made up the majority of spending.
+
+[RATIONALE]
+• Reports numbers accurately
+• Clear organisation
+• Limited variety of vocabulary
+• Simple comparisons

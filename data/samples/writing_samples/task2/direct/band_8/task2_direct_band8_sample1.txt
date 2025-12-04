@@ -1,0 +1,21 @@
+{"band": 8,"task": "task2_direct","sample_id": "task2_direct_band8_sample1","topics": ["mental","more","individuals","improve","people","health"],"rag_ready": true}
+
+[QUESTION]
+Why are people becoming more concerned about their mental health? What can individuals do to improve it?
+
+[SUMMARY]
+In recent years, mental health has become a major concern as modern lifestyles have become increasingly stressful. The pressure from work, social media, and financial responsibilities has made many individuals more aware of issues such as anxiety and depression.
+
+[SAMPLE_ANSWER]
+Band 8
+In recent years, mental health has become a major concern as modern lifestyles have become increasingly stressful. The pressure from work, social media, and financial responsibilities has made many individuals more aware of issues such as anxiety and depression. The reduced stigma around mental illness has also encouraged more people to seek help and acknowledge their struggles.
+To improve their mental well-being, individuals can practise mindfulness, maintain regular exercise, and limit their screen time. Building strong social connections and seeking professional support when necessary are also crucial. While improving mental health requires consistent effort, these actions can significantly enhance emotional resilience.
+
+[OVERVIEW]
+Strong development of ideas and clear reasoning.
+
+[RATIONALE]
+• Rich, precise vocabulary (stigma, emotional resilience)
+• Well-developed arguments
+• Strong cohesion
+• Minor room for deeper sophistication for Band 9

@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_opinion","sample_id": "task2_opinion_band5_sample10","topics": ["people","videos","reading","useful","books","more"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that reading books is more useful than watching videos. Do you agree or disagree?
+
+[SUMMARY]
+I think reading books is more useful because it helps people focus and learn deeply. Videos are fast but people forget quickly.
+
+[SAMPLE_ANSWER]
+Band 5
+I think reading books is more useful because it helps people focus and learn deeply. Videos are fast but people forget quickly. However, videos are good for people who cannot read well. So reading is better but videos also helpful.
+
+[OVERVIEW]
+Opinion clear but repetitive.
+
+[RATIONALE]
+• Insufficient examples
+• Basic vocabulary
+• Some coherence but limited

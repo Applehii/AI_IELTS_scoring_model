@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample9","topics": ["students","teachers","learn","effective","believe","because"],"rag_ready": true}
+
+[QUESTION]
+Some people think students learn better from teachers, while others believe self-study is more effective. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people say teachers help students learn better because they explain difficult topics and guide them. Teachers can also motivate students.
+
+[SAMPLE_ANSWER]
+Band 6
+Many people say teachers help students learn better because they explain difficult topics and guide them. Teachers can also motivate students. On the other hand, some believe self-study is more effective because students can learn at their own pace and use online resources. I think both methods are useful, but students should have teachers for complicated subjects.
+
+[OVERVIEW]
+Reasonably balanced and clear.
+
+[RATIONALE]
+• Development shallow
+• Vocabulary repetitive
+• Grammar issues with articles/prepositions
+• Needs stronger conclusion

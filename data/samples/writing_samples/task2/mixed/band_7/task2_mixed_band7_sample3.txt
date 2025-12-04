@@ -1,0 +1,21 @@
+{"band": 7,"task": "task2_mixed","sample_id": "task2_mixed_band7_sample3","topics": ["work","working","home","communication","increasingly","improvements"],"rag_ready": true}
+
+[QUESTION]
+Working from home has become increasingly popular. Why is this happening? Is this a positive or negative trend?
+
+[SUMMARY]
+Remote work is rising mainly due to improvements in technology. Video conferences, cloud storage, and communication apps allow employees to collaborate effectively without being physically present.
+
+[SAMPLE_ANSWER]
+Band 7
+Remote work is rising mainly due to improvements in technology. Video conferences, cloud storage, and communication apps allow employees to collaborate effectively without being physically present. Another reason is the desire for better work-life balance.
+While working from home reduces commuting time and stress, it can also lead to isolation and blurred boundaries between work and personal life. On balance, I believe it is positive, provided companies create guidelines to protect workers’ mental health.
+
+[OVERVIEW]
+Covers causes + nuanced evaluation.
+
+[RATIONALE]
+• Clear reasoning + deeper insights (“blurred boundaries”)
+• Good structure and coherence
+• Some parts could be more data-specific
+• Strong enough for Band 7

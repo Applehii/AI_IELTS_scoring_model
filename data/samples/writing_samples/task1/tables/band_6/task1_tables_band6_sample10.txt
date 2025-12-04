@@ -1,0 +1,29 @@
+{"band": 6,"task": "task1_tables","sample_id": "task1_tables_band6_sample10","topics": ["energy","electricity","generation","renewable","hydroelectric","sources"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of different types of renewable energy used in electricity generation over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table illustrates the contemporary composition of renewable energy sources in electricity generation, revealing a diversified portfolio where hydroelectric power and wind energy jointly constitute...
+
+[SAMPLE_ANSWER]
+Band 6
+The table illustrates the contemporary composition of renewable energy sources in electricity generation, revealing a diversified portfolio where hydroelectric power and wind energy jointly constitute the dominant sources. Hydroelectric power leads at 35%, with wind energy contributing 30%, collectively representing 65% of renewable electricity generation. Solar energy constitutes 25%, while biomass comprises the smallest component at 10%, suggesting emerging renewable technologies and traditional sources operate in complementary relationship.
+
+This distribution reflects both technological maturity and geographic-climatic suitability. Hydroelectric power's dominance results from established infrastructure, high efficiency rates, and dependable generation from river systems abundant in many nations. Wind energy's substantial contribution reflects technological advances and coastal/highland geography favorability in numerous regions. Solar energy's significant 25% proportion demonstrates remarkable growth trajectory as photovoltaic technology costs decrease globally. Biomass's minor role suggests either limited agricultural waste availability or policy preferences favoring other renewable sources.
+
+The renewable energy portfolio composition has substantial implications for climate strategy and energy security. Excessive reliance on single sources creates vulnerability to geographic limitations or technological disruptions. This diversified approach reduces systemic risks while enabling regional optimization according to local resources. Future transitions toward higher renewable penetration will benefit from continuing technology diversification, particularly solar and wind expansion. Understanding this energy composition is essential for policymakers designing decarbonization strategies, investors assessing renewable energy opportunities, and environmentalists evaluating climate change mitigation effectiveness. The current renewable portfolio demonstrates growing capacity to replace fossil fuels while maintaining grid reliability.
+
+[OVERVIEW]
+Sophisticated analysis of renewable energy portfolio with strategic implications. Well-explained technical and policy dimensions. Comprehensive response.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (dominance, photovoltaic, penetration)
+- Explains technological and geographic factors
+- Discusses strategic energy security implications
+- Clear, well-organized structure with depth
+- Demonstrates critical understanding of energy systems
+- Strong analytical thinking throughout
+- Excellent task achievement

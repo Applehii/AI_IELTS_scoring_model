@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_maps","sample_id": "task1_map_band4_sample9","topics": ["resort","more","improvements","something","entrance","holiday"],"rag_ready": true}
+
+[QUESTION]
+The maps show a holiday resort in 2000 and improvements made by 2020.
+
+[SUMMARY]
+Resort add more pool and more hotel. Before small only, now big.
+
+[SAMPLE_ANSWER]
+Band 4
+Resort add more pool and more hotel. Before small only, now big. The beach have something like area for people. Trees less but I cannot see. The entrance same.
+
+[OVERVIEW]
+More facilities were added.
+
+[RATIONALE]
+• Lacks clarity and accuracy
+• Poor grammar and vague vocabulary (“something like area”)
+• Missing specific changes
+• No structured comparison

@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample8","topics": ["because","shopping","popular","online","people","good"],"rag_ready": true}
+
+[QUESTION]
+Why is online shopping becoming more popular? Is this a good or bad change?
+
+[SUMMARY]
+Online shopping popular because easy and people lazy to go shop. It is good because save time.
+
+[SAMPLE_ANSWER]
+Band 4
+Online shopping popular because easy and people lazy to go shop. It is good because save time. But bad because people buy too much and waste money.
+
+[OVERVIEW]
+Ideas are too simple and repeated.
+
+[RATIONALE]
+• Weak grammar
+• No cohesion
+• Poor lexical resource

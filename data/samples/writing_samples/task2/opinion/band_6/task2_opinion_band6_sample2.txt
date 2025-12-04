@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_opinion","sample_id": "task2_opinion_band6_sample2","topics": ["watching","children","harmful","agree","time","educational"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that watching TV is harmful to children. Do you agree or disagree?
+
+[SUMMARY]
+I partly agree with this idea. Watching too much TV can affect children’s eyes and reduce their time for outdoor activities.
+
+[SAMPLE_ANSWER]
+Band 6
+I partly agree with this idea. Watching too much TV can affect children’s eyes and reduce their time for outdoor activities. However, many educational programs help improve language and general knowledge. So TV is not harmful by itself; the problem is how parents control screen time.
+
+[OVERVIEW]
+Balanced opinion with simple reasoning.
+
+[RATIONALE]
+• Some cohesive devices
+• Lacks detailed examples
+• Grammar occasionally inaccurate

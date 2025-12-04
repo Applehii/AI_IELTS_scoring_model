@@ -1,0 +1,30 @@
+{"band": 4,"task": "task1_tables","sample_id": "task1_tables_band4_sample10","topics": ["hydroelectric","energy","solar","wind","information","renewable"],"rag_ready": true}
+
+[QUESTION]
+The table below gives information about the average number of cars per household in five cities.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+City1 2 cars, City2 1.5, City3 1, City4 0.5, City5 0 — City1 highest, City5 none.
+
+[SAMPLE_ANSWER]
+Band 4
+The table shows renewable energy use. Solar energy is 25%. Wind energy is 30%. Hydroelectric is 35%. Biomass is 10%. Solar, wind and hydroelectric are the main types.
+
+Hydroelectric is the biggest energy type. Wind is second biggest. Solar is third. Biomass is the smallest. These four types are renewable energies.
+
+The data shows that hydroelectric and wind are the most used. Solar is also important. Biomass is not used much. All of these are renewable. They are good for the environment. More renewable energy is good for the world.
+
+[{"band":4,"task":"task1_tables","sample_id":"task1_tables_band4_sample10","topics":["cars","household","ownership","cities"],"rag_ready":true}]
+
+Band 4
+The table shows cars per household. City 1 has 2 cars, City 2 has 1.5, City 3 has 1, City 4 has 0.5, and City 5 has 0. City 1 has the most cars and City 5 has none.
+
+[OVERVIEW]
+Numbers reported accurately but lacks deeper comparisons or explanations.
+
+[RATIONALE]
+- Basic reporting of data
+- Simple grammar and vocabulary
+- Matches band 4 descriptors

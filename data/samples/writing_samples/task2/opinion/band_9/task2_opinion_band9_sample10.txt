@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_opinion","sample_id": "task2_opinion_band9_sample10","topics": ["reading","videos","books","watching","agree","than"],"rag_ready": true}
+
+[QUESTION]
+Reading books is more useful than watching videos. Agree or disagree?
+
+[SUMMARY]
+I agree that reading books generally provides deeper intellectual engagement than watching videos. Reading demands concentration, encourages inferential thinking, and allows ideas to be explored in greater nuance.
+
+[SAMPLE_ANSWER]
+Band 9
+I agree that reading books generally provides deeper intellectual engagement than watching videos. Reading demands concentration, encourages inferential thinking, and allows ideas to be explored in greater nuance. Videos, although engaging, often present information in a simplified and passive format. Nonetheless, they are invaluable for visual learning. Ultimately, books promote long-term cognitive development, while videos serve best as supplementary tools.
+
+[OVERVIEW]
+Insightful, strong evaluation.
+
+[RATIONALE]
+• High-level explanation
+• Varied sentence structures
+• Precise and sophisticated vocabulary

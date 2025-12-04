@@ -1,0 +1,23 @@
+{"band": 9,"task": "task2_direct","sample_id": "task2_direct_band9_sample1","topics": ["work","prioritising","individuals","balance","people","more"],"rag_ready": true}
+
+[QUESTION]
+Why are more people prioritising work–life balance? What strategies can individuals use to achieve it?
+
+[SUMMARY]
+An increasing number of people are prioritising work–life balance because modern work environments have become more demanding and competitive. With longer working hours and constant connectivity through digital tools, individuals often feel overwhelmed and burnt out.
+
+[SAMPLE_ANSWER]
+Band 9
+An increasing number of people are prioritising work–life balance because modern work environments have become more demanding and competitive. With longer working hours and constant connectivity through digital tools, individuals often feel overwhelmed and burnt out. As a result, many now recognise that personal well-being and meaningful relationships are equally important components of a fulfilling life.
+To achieve a healthier balance, individuals can set clear boundaries by limiting after-hours communication and allocating specific times for rest. Incorporating regular physical activity, practising mindfulness, and scheduling “technology-free” periods are also effective strategies. Ultimately, maintaining work–life balance requires intentional decision-making and consistent habits rather than occasional adjustments.
+
+Comprehensive, analytical, sophisticated.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• Precise vocabulary (connectivity, intentional decision-making)
+• Advanced structures
+• Fully developed ideas with nuance
+• Cohesion flawless

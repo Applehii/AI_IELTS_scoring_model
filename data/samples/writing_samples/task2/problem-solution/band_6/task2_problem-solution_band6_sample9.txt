@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band6_sample9","topics": ["public","crowded","places","can","uncomfortable","overcrowding"],"rag_ready": true}
+
+[QUESTION]
+Many public places are becoming too crowded. What problems and solutions?
+
+[SUMMARY]
+Crowded public places create uncomfortable experiences. People may wait in long lines and feel stressed.
+
+[SAMPLE_ANSWER]
+Band 6
+Crowded public places create uncomfortable experiences. People may wait in long lines and feel stressed. It can also increase the risk of accidents. To solve this problem, authorities should manage the number of visitors using online booking. Another solution is expanding public spaces or creating new ones. These steps can reduce overcrowding.
+
+[OVERVIEW]
+Crowding causes stress; booking systems and expansion help.
+
+[RATIONALE]
+• Clear main points
+• Still too general
+• Limited lexical range

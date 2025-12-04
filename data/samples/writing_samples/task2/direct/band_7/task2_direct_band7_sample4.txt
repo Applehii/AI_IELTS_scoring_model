@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_direct","sample_id": "task2_direct_band7_sample4","topics": ["online","learning","people","many","can","flexibility"],"rag_ready": true}
+
+[QUESTION]
+Why do many people learn new skills online? What problems can occur?
+
+[SUMMARY]
+Many people choose online learning because it is convenient and affordable. Platforms like Coursera and Udemy allow learners to access a wide range of courses anytime.
+
+[SAMPLE_ANSWER]
+Band 7
+Many people choose online learning because it is convenient and affordable. Platforms like Coursera and Udemy allow learners to access a wide range of courses anytime. This flexibility is especially helpful for working adults who cannot attend traditional classes.
+However, learning online can lead to a lack of motivation, as students often study alone without direct support from teachers. Technical issues, such as unstable internet connections, can also interrupt learning. Despite these problems, online education remains a valuable resource.
+
+[OVERVIEW]
+Covers both sides clearly with good reasoning.
+
+[RATIONALE]
+• Few errors
+• Good cohesion
+• Lacks advanced structure to reach Band 8

@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample10","topics": ["energy","renewable","generation","table","where","strategically"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of different types of renewable energy used in electricity generation over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table presents renewable energy source distribution revealing a strategically diversified portfolio where hydroelectric and wind energy collectively constitute two-thirds (65%) of renewable generation, while...
+
+[SAMPLE_ANSWER]
+Band 7
+The table presents renewable energy source distribution revealing a strategically diversified portfolio where hydroelectric and wind energy collectively constitute two-thirds (65%) of renewable generation, while solar energy's 25% participation demonstrates remarkable recent growth trajectories. Biomass's minimal 10% share suggests either limited agricultural waste availability, policy preferences favoring emerging technologies, or incomplete data representation regarding marginal renewable sources. This composition reflects contemporary technologies' maturity levels, geographic availability variations, and evolving policy priorities within energy transition frameworks.
+
+Hydroelectric power's dominance reflects multiple advantages encompassing long-term infrastructure investments, consistent generation reliability from established river systems, geographic availability in mountainous regions, and operational efficiencies approaching technical maximums. Wind energy's substantial contribution demonstrates successful scaling of renewable technology, particularly through offshore wind developments and improved turbine efficiencies. Solar energy's rapidly increasing 25% share represents extraordinary technological advancement wherein photovoltaic costs declined 90% over the past decade, enabling accelerating adoption despite geographic and weather-dependent limitations. Biomass's minimal share suggests maturation limitations regarding agricultural waste availability, technological efficiency constraints compared to alternatives, or policy prioritization favoring less controversial renewable approaches avoiding food security concerns.
+
+This renewable portfolio composition carries significant implications for climate strategy implementation, energy security development, and decarbonization pathway sustainability. Excessive single-source reliance creates systematic vulnerability wherein technological disruption, geographic constraints, or policy shifts disproportionately impact grid stability. This diversification demonstrates prudent risk management enabling robust energy transition. Future renewable expansion must accelerate solar and wind while maintaining hydroelectric baseload generation. Emerging technologies including geothermal and advanced battery storage require acceleration. The portfolio's composition suggests policy frameworks successfully balancing technology diversification while enabling scale-up of emerging technologies. Understanding this composition proves essential for policymakers designing sustainable energy transitions, investors assessing renewable opportunities, and scientists evaluating climate mitigation feasibility within technological constraints.
+
+[OVERVIEW]
+Highly sophisticated analysis of renewable energy systems with strategic and policy implications thoroughly discussed. Excellent critical thinking demonstrated.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (diversified, trajectories, sustainability)
+- Analyzes technological, geographic, and policy factors comprehensively
+- Discusses systemic implications for energy security
+- Makes nuanced observations about technology development
+- Clear progression with sophisticated reasoning
+- Demonstrates deep understanding of energy systems
+- Strong analytical sophistication throughout

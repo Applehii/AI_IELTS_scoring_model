@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_opinion","sample_id": "task2_opinion_band9_sample4","topics": ["social","media","agree","face","communication","relationships"],"rag_ready": true}
+
+[QUESTION]
+Social media makes people less social. Do you agree or disagree?
+
+[SUMMARY]
+I agree that social media has contributed to a decline in the depth of social interactions, though not necessarily the frequency.
+
+[SAMPLE_ANSWER]
+Band 9
+I agree that social media has contributed to a decline in the depth of social interactions, though not necessarily the frequency. Many individuals now prioritise digital engagement over meaningful face-to-face communication, leading to relationships that are broad but shallow. However, the technology itself is neutral; it is users’ behavioural patterns that determine its impact. With conscious use, social media can strengthen communities, facilitate global collaboration, and support marginalized groups. Thus, the problem lies not in the platforms but in the way they are consumed.
+
+[OVERVIEW]
+High-level evaluation with layered reasoning.
+
+[RATIONALE]
+• Sophisticated arguments (frequency vs. depth)
+• High lexical precision
+• Academic and insightful

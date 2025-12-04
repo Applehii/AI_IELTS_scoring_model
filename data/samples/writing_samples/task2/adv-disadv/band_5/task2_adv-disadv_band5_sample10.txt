@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band5_sample10","topics": ["learning","online","students","cannot","points","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Online learning has become common. What are the advantages and disadvantages?
+
+[SUMMARY]
+Online learning lets students study anywhere. It is flexible for people who work.
+
+[SAMPLE_ANSWER]
+Band 5
+Online learning lets students study anywhere. It is flexible for people who work. But some students cannot focus when studying at home. The internet connection also causes problems, and they cannot meet teachers directly. Therefore, online learning has good points and bad points.
+
+[OVERVIEW]
+Flexible but less interaction.
+
+[RATIONALE]
+• Ideas mostly general
+• Simple linking words
+• Contains repeated patterns (“good points and bad points”)

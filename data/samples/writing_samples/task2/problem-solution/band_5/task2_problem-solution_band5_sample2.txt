@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band5_sample2","topics": ["water","shortage","people","issue","many","also"],"rag_ready": true}
+
+[QUESTION]
+Many countries face water shortage. What are the problems and solutions?
+
+[SUMMARY]
+Water shortage is a big issue in many places. One problem is people do not have enough clean water to drink, so health becomes bad.
+
+[SAMPLE_ANSWER]
+Band 5
+Water shortage is a big issue in many places. One problem is people do not have enough clean water to drink, so health becomes bad. Farmers also cannot grow crops well. To solve this, governments should build more water systems and fix old pipes. People also need to save water, like using less when washing. These actions can help reduce the issue.
+
+[OVERVIEW]
+Water shortage harms health and farming; build systems and save water.
+
+[RATIONALE]
+• Simple ideas, not deeply explained
+• Some grammar mistakes
+• Limited vocabulary
+• Basic but understandable structure

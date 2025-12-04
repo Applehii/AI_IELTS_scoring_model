@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band4_sample9","topics": ["noise","people","make","many","but","increasing"],"rag_ready": true}
+
+[QUESTION]
+Noise pollution is increasing. What are the problems and solutions?
+
+[SUMMARY]
+Noise make people cannot sleep. They feel angry.
+
+[SAMPLE_ANSWER]
+Band 4
+Noise make people cannot sleep. They feel angry. City have too many car and building. Government can make rule but people not follow. Also put sign “no noise” but many ignore.
+
+[OVERVIEW]
+Noise makes people angry.
+
+[RATIONALE]
+• Simple, repetitive
+• Weak cohesion
+• No clear problem/solution development

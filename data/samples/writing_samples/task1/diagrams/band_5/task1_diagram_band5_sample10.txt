@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_diagrams","sample_id": "task1_diagram_band5_sample10","topics": ["bricks","delivered","diagram","mixture","finally","ground"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how bricks are made.
+
+[SUMMARY]
+Clay is dug from the ground and put on a metal grid to break big pieces. Then it is mixed with water.
+
+[SAMPLE_ANSWER]
+Band 5
+Clay is dug from the ground and put on a metal grid to break big pieces. Then it is mixed with water. The mixture is shaped into bricks using molds. After that, they are dried in an oven and later heated in a kiln. Finally, the bricks are cooled and delivered.
+
+[OVERVIEW]
+Clay is processed and baked to produce bricks.
+
+[RATIONALE]
+• Better detail than Band 4  
+• Still missing temperatures/time  
+• Simple linking words

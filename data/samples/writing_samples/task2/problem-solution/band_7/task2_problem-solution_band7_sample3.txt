@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample3","topics": ["childhood","obesity","their","consequences","experience","negatively"],"rag_ready": true}
+
+[QUESTION]
+Childhood obesity is rising in many countries. What problems does this cause and how can it be solved?
+
+[SUMMARY]
+The rise in childhood obesity brings both medical and social consequences. Obese children are more likely to develop chronic illnesses such as diabetes at a young age.
+
+[SAMPLE_ANSWER]
+Band 7
+The rise in childhood obesity brings both medical and social consequences. Obese children are more likely to develop chronic illnesses such as diabetes at a young age. They may also experience bullying at school, which negatively affects their confidence and emotional well-being.
+To tackle this issue, schools should overhaul their lunch menus to reduce unhealthy food options. Parents must also monitor screen time and encourage physical activity through regular exercise or sports clubs. If these steps are implemented consistently, childhood obesity can be reduced.
+
+[OVERVIEW]
+Obesity harms children’s health and confidence; healthier diets and more exercise are key solutions.
+
+[RATIONALE]
+• Well-structured with clear logic
+• Vocabulary varied
+• Needs fuller development for band 8–9

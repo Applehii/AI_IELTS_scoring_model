@@ -1,0 +1,19 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample9","topics": ["diagram","illustrates","rainwater","collected","drinking","filter"],"rag_ready": true}
+
+[QUESTION]
+The diagram illustrates how rainwater is collected for drinking.
+
+[SUMMARY]
+The diagram show rain go on roof. Pipe bring it to tank.
+
+[SAMPLE_ANSWER]
+Band 4
+The diagram show rain go on roof. Pipe bring it to tank. Then filter it. After that clean water go to tap. People drink it.
+
+[OVERVIEW]
+Rain become clean water.
+
+[RATIONALE]
+• No explanation of filtration system  
+• Very low-level vocabulary  
+• Grammar wrong

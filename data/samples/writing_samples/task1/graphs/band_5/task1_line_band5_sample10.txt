@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_line_band5_sample10","topics": ["international","million","calls","increased","country","between"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the number of international calls made from one country between 2000 and 2020.
+
+[SUMMARY]
+International calls increased from 10 million minutes in 2000 to 20 million in 2010. After that, they stayed around that level until 2020 with small changes.
+
+[SAMPLE_ANSWER]
+Band 5
+International calls increased from 10 million minutes in 2000 to 20 million in 2010. After that, they stayed around that level until 2020 with small changes.
+
+[OVERVIEW]
+Calls rose and then levelled off.
+
+[RATIONALE]
+• Very simple analysis
+• No comparison or explanation
+• Limited structure

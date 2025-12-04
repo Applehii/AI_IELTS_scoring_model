@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_discusion","sample_id": "task2_discussion_band4_sample6","topics": ["people","free","pay","university","students","because"],"rag_ready": true}
+
+[QUESTION]
+Some people argue that university should be free for everyone, while others believe students should pay for their education. Discuss both views and give your opinion.
+
+[SUMMARY]
+People want free university because poor people cannot pay. Other people say students must pay because expensive.
+
+[SAMPLE_ANSWER]
+Band 4
+People want free university because poor people cannot pay. Other people say students must pay because expensive. I think maybe half free is good.
+
+[OVERVIEW]
+Very short and unclear.
+
+[RATIONALE]
+• Lacks explanation
+• Poor grammar
+• Too simple
+• No cohesion

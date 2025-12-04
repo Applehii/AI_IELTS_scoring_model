@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample6","topics": ["students","should","their","university","education","opinion"],"rag_ready": true}
+
+[QUESTION]
+Some people argue that university education should be free, while others believe students should pay their own fees. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people support free university education because it ensures equal opportunities for all students, regardless of their financial situation. This can create a more educated and productive society.
+
+[SAMPLE_ANSWER]
+Band 7
+Many people support free university education because it ensures equal opportunities for all students, regardless of their financial situation. This can create a more educated and productive society. However, others argue that students should pay fees to reduce the burden on governments and to encourage them to take their studies seriously. In my opinion, a mixed system where low-income students receive financial support would be the most effective approach.
+
+[OVERVIEW]
+Balanced analysis with a practical viewpoint.
+
+[RATIONALE]
+• Strong clarity and logical flow
+• Vocabulary appropriate and varied
+• A few grammatical inaccuracies
+• Explanation could be slightly more detailed

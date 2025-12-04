@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample4","topics": ["children","cause","phone","also","problems","because"],"rag_ready": true}
+
+[QUESTION]
+Why do children spend too much time on phones? What problems does this cause?
+
+[SUMMARY]
+Children use phone a lot because games and videos. Parents also busy so give phone.
+
+[SAMPLE_ANSWER]
+Band 4
+Children use phone a lot because games and videos. Parents also busy so give phone. This cause eye problem and children lazy. It also make children no talk to family.
+
+[OVERVIEW]
+Basic but not expanded.
+
+[RATIONALE]
+• Very simple sentences
+• No connectors
+• Repetitive ideas
+• Grammar mistakes

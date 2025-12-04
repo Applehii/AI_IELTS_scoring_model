@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample6","topics": ["internet","digital","table","usage","age","manifestations"],"rag_ready": true}
+
+[QUESTION]
+The table below shows internet usage by age group in a particular country in 2023.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table delineates a pronounced inverse relationship between advancing age and internet engagement, revealing substantial digital divide manifestations that extend beyond simple usage statistics to...
+
+[SAMPLE_ANSWER]
+Band 7
+The table delineates a pronounced inverse relationship between advancing age and internet engagement, revealing substantial digital divide manifestations that extend beyond simple usage statistics to encompassing profound socioeconomic and informational inequality dimensions. Digital natives comprising the 15-25 demographic demonstrate near-ubiquitous internet adoption at 95%, progressively declining through successive age cohorts to dramatically diminished engagement among those 65+ at merely 30%. This 65-percentage-point disparity represents not superficial usage variation but rather fundamental divergence in digital access, information acquisition capabilities, and participation in increasingly digitized social structures.
+
+The pronounced generational digital divide reflects several interconnected factors encompassing technological adaptation capacity, digital native status, socioeconomic resource availability, and changing cognitive patterns accompanying aging. Individuals coming of age during internet proliferation possess fundamentally different technological fluency than those encountering digital technologies during mature adulthood. The accelerating decline after age 40 suggests not merely gradual adoption difficulty but potentially age-related cognitive and physical barriers to technology interaction. Socioeconomic factors likely contribute substantially, with older demographics experiencing lower incomes and reduced technology investment capacity. Healthcare considerations including vision and mobility limitations increasingly impact older adults' digital engagement capabilities.
+
+This digital divide carries profound implications for contemporary society requiring urgent policy attention. Elderly populations face increasing disadvantage accessing government services, financial institutions, and healthcare systems transitioning to digital provision. Information access disparities likely exacerbate existing inequalities regarding knowledge, opportunities, and empowerment. Addressing these dimensions necessitates comprehensive approaches encompassing accessible interface design, digital literacy programming specifically targeting older adults, regulatory requirements ensuring alternative analog service provision, and intergenerational technology mentorship programs. The data underscores how technological advancement creates novel inequalities requiring deliberate policy interventions ensuring inclusive digital societies transcending age-based barriers.
+
+[OVERVIEW]
+Highly sophisticated analysis of digital divide implications with comprehensive policy considerations.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (digital natives, manifestations, disparity)
+- Analyzes multiple underlying factors comprehensively
+- Discusses equity and inclusion implications thoroughly
+- Makes specific policy recommendations
+- Clear, well-developed argumentative progression
+- Demonstrates sophisticated understanding of social issues
+- Strong task achievement with critical analysis

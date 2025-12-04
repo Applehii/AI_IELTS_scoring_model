@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample8","topics": ["science","art","important","studying","agree","some"],"rag_ready": true}
+
+[QUESTION]
+Some people think studying art is as important as studying science. Do you agree or disagree?
+
+[SUMMARY]
+I agree to some extent. Art develops creativity, emotional intelligence, and cultural awareness, which are all important skills.
+
+[SAMPLE_ANSWER]
+Band 7
+I agree to some extent. Art develops creativity, emotional intelligence, and cultural awareness, which are all important skills. However, science contributes directly to medical, technological, and economic progress. While art and science serve different purposes, both should be recognised as essential parts of a well-rounded education, though science may require more instructional time.
+
+[OVERVIEW]
+Clear comparison, good language.
+
+[RATIONALE]
+• Strong structure
+• Good academic tone
+• Lacks some depth for band 8

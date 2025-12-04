@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample2","topics": ["water","cycle","cloud","then","illustrates","diagram"],"rag_ready": true}
+
+[QUESTION]
+The diagram illustrates the water cycle.
+
+[SUMMARY]
+The picture show water go around. Water heat and go up to sky.
+
+[SAMPLE_ANSWER]
+Band 4
+The picture show water go around. Water heat and go up to sky. Then it make cloud. Cloud rain back to ground. Water then go to sea again. This is the cycle.
+
+[OVERVIEW]
+Water go up and down.
+
+[RATIONALE]
+• Extremely simple  
+• No detail  
+• Missing process logic  
+• Child-like vocabulary

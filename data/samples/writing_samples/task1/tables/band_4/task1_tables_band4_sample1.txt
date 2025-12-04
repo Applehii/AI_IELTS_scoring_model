@@ -1,0 +1,22 @@
+{"band": 4,"task": "task1_tables","sample_id": "task1_tables_band4_sample1","topics": ["million","countries","thailand","cambodia","table","shows"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the number of tourists visiting three countries in Southeast Asia over a 10-year period.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+Thailand receives about 20 million visitors, Vietnam about 15 million, and Cambodia about 5 million.
+
+[SAMPLE_ANSWER]
+Band 4
+The table shows tourist numbers for three countries. Thailand has about 20 million visitors, Vietnam about 15 million, and Cambodia about 5 million. Thailand has the highest figure and Cambodia the lowest.
+
+[OVERVIEW]
+Basic structure with simple sentences. Identifies the main figures but lacks detailed comparison and development.
+
+[RATIONALE]
+- Simple vocabulary and short sentences
+- Limited range of language and repetitive phrasing
+- Identifies main data but provides minimal analysis
+- Appropriate for band 4 with room for clearer comparison

@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_graphs","sample_id": "task1_line_band4_sample7","topics": ["city","temperature","graph","show","different","december"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the average temperature in three cities from January to December.
+
+[SUMMARY]
+The graph show temperature in year. City A always hot.
+
+[SAMPLE_ANSWER]
+Band 4
+The graph show temperature in year. City A always hot. City B medium. City C cold. City A highest like 30°C. City C maybe 5°C. It show different weather.
+
+[OVERVIEW]
+City A hot, City C cold.
+
+[RATIONALE]
+• Missing detail
+• Guess numbers
+• Poor development
+• No trend description

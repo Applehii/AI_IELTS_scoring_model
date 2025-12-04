@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_pie_band7_sample5","topics": ["transport","chart","environmentally","represented","university","travelled"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows how university students travelled to campus in 2022.
+
+[SUMMARY]
+Public transport was the most common travel method at 40%. Walking accounted for 25%, while cycling made up 15%.
+
+[SAMPLE_ANSWER]
+Band 7
+Public transport was the most common travel method at 40%. Walking accounted for 25%, while cycling made up 15%. Cars represented 12%, and ride-sharing services completed the chart at 8%. The data suggests that environmentally friendly transport methods were widely used.
+
+[OVERVIEW]
+Public transport dominated, and sustainable modes were relatively popular.
+
+[RATIONALE]
+• Well-structured
+• Clear percentages
+• Some variety but limited depth

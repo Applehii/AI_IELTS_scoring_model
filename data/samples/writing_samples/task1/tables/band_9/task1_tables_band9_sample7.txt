@@ -1,0 +1,29 @@
+{"band": 9,"task": "task1_tables","sample_id": "task1_tables_band9_sample7","topics": ["consumption","table","five","multiplicative","sociocultural","encapsulates"],"rag_ready": true}
+
+[QUESTION]
+The following table shows the coffee consumption in five countries measured in kilograms per capita annually.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table encapsulates fundamental geographic and sociocultural determinants of consumption patterns reflecting deep-structural divergence establishing resilient preferences resistant to conventional economic intervention.
+
+[SAMPLE_ANSWER]
+Band 9
+The table encapsulates fundamental geographic and sociocultural determinants of consumption patterns reflecting deep-structural divergence establishing resilient preferences resistant to conventional economic intervention. The pronounced dichotomy between Western nations (Brazil 5kg, Germany 4kg, Italy 3kg) and Eastern counterparts (Japan 2kg, China 1kg) demonstrates multiplicative five-fold differential between Brazil and China representing qualitative divergence transcending numerical comparisons. This consumption stratification reflects centuries-long historical trajectories, colonial-period trade patterns, path-dependent consumption evolution, and cultural institutions establishing consumption preferences demonstrating remarkable resilience despite substantial income convergence.
+
+Brazil's exceptional consumption reflects multifaceted reinforcing factors establishing near-irreversible path dependence: global hegemonic coffee production status creating agricultural abundance and affordability; centuries-long cultural integration establishing coffee consumption as fundamental daily ritual; social institution of café culture embedding consumption within community identity; identity dimensions wherein coffee consumption constitutes aspect of Brazilian cultural identity; and political-economic factors including coffee industry lobbying historically promoting domestic consumption. Germany and Italy's strong consumption reflects European café culture emphasizing social consumption within coffeehouses as leisure activity, morning consumption rituals establishing habitual patterns, aesthetic appreciation valuing espresso's quality-over-quantity philosophy, and cultural institutions embedding coffee within civilizational identity. Conversely, China and Japan's substantially lower consumption reflects: entrenched tea consumption traditions establishing beverage preference hierarchies where tea occupies culturally preeminent position established through millennia of historical development; limited historical coffee integration following colonial-era market development; and potential cultural preferences interpreting tea as healthier, more civilized, or culturally appropriate than coffee's Western associations.
+
+These consumption patterns carry multidimensional implications for international agricultural economics, market expansion strategies, public health policy, and global commodity trade. For coffee exporters and international organizations, this geographic segmentation reveals fundamental market limitations wherein consumption increases among Asian populations require underlying cultural beverage preference transformation rather than mere income increases, suggesting limited near-term expansion potential despite rising incomes. Analysis illuminates how cultural preferences—established through generations of consumption patterns, social institutions, and collective identity formation—demonstrate resilience transcending economic predictions. Public health considerations regarding caffeine consumption and cardiovascular health suggest monitoring consumption's health implications within high-consumption populations. Market strategy recognition acknowledges that cultural interventions—encompassing café establishment, social marketing emphasizing coffee's cultural sophistication, youth-targeted marketing, and identity repositioning—may prove necessary for market expansion transcending conventional income-based consumption models. This case exemplifies how cultural systems establish fundamental constraints on consumption patterns operating independently of economic variables.
+
+[OVERVIEW]
+Exceptional analysis of cultural-economic-historical factors with sophisticated understanding of path dependence and cultural resilience. Exemplary critical analysis.
+
+[RATIONALE]
+- Demonstrates mastery of cultural economics, path dependence, and institutional analysis
+- Analyzes cultural-economic-historical factors with exceptional comprehensiveness
+- Discusses market dynamics acknowledging cultural constraints
+- Makes sophisticated observations about cultural systems and consumption
+- Clear, rigorous argumentation with exceptional logical progression
+- Exceptional analytical depth and cultural-economic literacy
+- Exemplary task achievement with sophisticated reasoning

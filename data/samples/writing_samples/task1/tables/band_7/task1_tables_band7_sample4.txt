@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample4","topics": ["compensation","employment","sectors","salary","table","stratification"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the average salary in different sectors of employment over a five-year period.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table presents a nuanced portrait of compensation stratification across employment sectors, revealing pronounced salary hierarchies reflecting market valuations, skill prerequisites, and sectoral productivity metrics.
+
+[SAMPLE_ANSWER]
+Band 7
+The table presents a nuanced portrait of compensation stratification across employment sectors, revealing pronounced salary hierarchies reflecting market valuations, skill prerequisites, and sectoral productivity metrics. The technology sector commands premium compensation at $80,000, with finance following marginally at $75,000, while healthcare occupies a substantially intermediate position at $65,000. Education and retail sectors constitute the lower compensation tier at $50,000 and $35,000 respectively, creating a $45,000 range between highest and lowest earners representing a 128% differential.
+
+This compensation stratification mirrors labor market dynamics governed by supply-demand equilibrium, required qualification levels, and perceived economic value generation. Technology and finance sectors maintain elevated compensation through talent scarcity, specialized knowledge requirements, and substantial economic value creation capacities. Healthcare's intermediate positioning reflects competing dynamics: substantial specialized training requirements offset by public sector employment prevalence and regulatory wage constraints. Education and retail's lower compensation reflects abundant labor supply, limited qualification requirements, and traditional underinvestment in service sector remuneration standards.
+
+The pronounced compensation gaps carry significant implications for economic inequality, workforce distribution, and sectoral labor supply sustainability. Technology's premium attracts talent disproportionately, potentially creating skill shortages in essential services including education and healthcare. The retail sector's depressed compensation creates workforce retention challenges and service quality concerns. Addressing these disparities requires multifaceted interventions including direct salary enhancement through government subsidies, productivity improvements enabling private sector wage increases, and sectoral rebalancing toward more equitable compensation. Understanding these hierarchies proves essential for workforce planning, educational policy design, and addressing persistent economic inequality structures.
+
+[OVERVIEW]
+Highly sophisticated analysis of economic and labor market factors. Discusses complex implications and potential interventions comprehensively.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (stratification, equilibrium, remuneration)
+- Analyzes complex labor market dynamics
+- Discusses policy implications thoughtfully
+- Makes calculations and detailed comparisons
+- Clear progression with sophisticated reasoning
+- Strong understanding of economic systems
+- Excellent analytical depth and sophistication

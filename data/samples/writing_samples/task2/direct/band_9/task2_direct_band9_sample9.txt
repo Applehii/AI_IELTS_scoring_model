@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_direct","sample_id": "task2_direct_band9_sample9","topics": ["climate","change","global","individuals","challenge","greatest"],"rag_ready": true}
+
+[QUESTION]
+Why is climate change considered the greatest global challenge? What actions can individuals take to address it?
+
+[SUMMARY]
+Climate change is regarded as the greatest global challenge because it affects every aspect of human life, from food security to public health.
+
+[SAMPLE_ANSWER]
+Band 9
+Climate change is regarded as the greatest global challenge because it affects every aspect of human life, from food security to public health. Extreme weather events, rising sea levels, and ecosystem collapse pose existential threats to millions of people. Unlike other issues, climate change requires coordinated global action, making it both urgent and complex.
+Individuals can contribute by reducing energy consumption, choosing sustainable products, and supporting environmental policies. Small actions such as minimising waste, using public transport, and reducing meat consumption collectively have significant impact. Ultimately, meaningful change requires both personal responsibility and political commitment.
+
+[OVERVIEW]
+Highly analytical and globally contextualised.
+
+[RATIONALE]
+• Strong command of complex ideas
+• Excellent lexical control
+• Well-balanced and authoritative

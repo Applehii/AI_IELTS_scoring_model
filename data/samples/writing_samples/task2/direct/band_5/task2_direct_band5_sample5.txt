@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_direct","sample_id": "task2_direct_band5_sample5","topics": ["historical","places","tourists","should","visit","sites"],"rag_ready": true}
+
+[QUESTION]
+Why do tourists visit historical places? How can these sites be protected?
+
+[SUMMARY]
+Tourists visit historical places because they want to learn about the past and experience local culture. These places are also popular for taking photos.
+
+[SAMPLE_ANSWER]
+Band 5
+Tourists visit historical places because they want to learn about the past and experience local culture. These places are also popular for taking photos.
+To protect historical sites, the government should control the number of visitors and repair damaged buildings. People should also be taught not to touch or destroy anything.
+
+[OVERVIEW]
+Answer is relevant but lacks depth and examples.
+
+[RATIONALE]
+• Simple ideas
+• Clear but not detailed
+• Common vocabulary

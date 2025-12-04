@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_diagrams","sample_id": "task1_diagram_band6_sample9","topics": ["bricks","being","temperatures","different","transport","produced"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how bricks are produced.
+
+[SUMMARY]
+The process begins with clay being dug from the ground. It is crushed and mixed with sand and water.
+
+[SAMPLE_ANSWER]
+Band 6
+The process begins with clay being dug from the ground. It is crushed and mixed with sand and water. The mixture is shaped using moulds and then dried for 24 to 48 hours. After drying, the bricks are heated in a kiln at different temperatures before being cooled and packed for transport.
+
+[OVERVIEW]
+Bricks are shaped, dried, heated and delivered.
+
+[RATIONALE]
+• Reasonable detail  
+• Try to mention temperatures  
+• Still some missing precision

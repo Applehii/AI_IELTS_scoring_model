@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample6","topics": ["learning","online","traditional","better","than","additionally"],"rag_ready": true}
+
+[QUESTION]
+Online learning is better than traditional learning. Do you agree or disagree?
+
+[SUMMARY]
+Although online learning offers flexibility and convenience, I do not believe it is better than traditional learning. Online classes often lack interaction, making it harder for students to stay engaged.
+
+[SAMPLE_ANSWER]
+Band 7
+Although online learning offers flexibility and convenience, I do not believe it is better than traditional learning. Online classes often lack interaction, making it harder for students to stay engaged. Additionally, practical subjects, such as science or engineering, require hands-on learning that cannot be replicated online. While online platforms are valuable supplements, they should not replace in-person education.
+
+[OVERVIEW]
+Clear stance with logical support.
+
+[RATIONALE]
+• Good mix of structure and depth
+• Suitable academic tone
+• Minor grammar issues

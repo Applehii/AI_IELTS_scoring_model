@@ -1,0 +1,21 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_pie_band9_sample2","topics": ["research","technology","healthcare","funding","account","global"],"rag_ready": true}
+
+[QUESTION]
+The pie chart shows the distribution of global research funding by sector in 2021.
+
+[SUMMARY]
+The chart presents the allocation of global research expenditure across five sectors. The most striking feature is the dominance of technology and healthcare, which together account for more than half of total funding.
+
+[SAMPLE_ANSWER]
+Band 9
+The chart presents the allocation of global research expenditure across five sectors. The most striking feature is the dominance of technology and healthcare, which together account for more than half of total funding.
+
+Technology represents the largest share at 35%, followed closely by healthcare at 30%. Environmental research receives 15%, while education and agriculture account for 12% and 8% respectively. The data highlights a strong international focus on innovation-driven fields, with more traditional sectors receiving comparatively modest investment.
+
+[OVERVIEW]
+High-tech and medical research overwhelmingly dominated the funding landscape.
+
+[RATIONALE]
+• High-level vocabulary (“dominance”, “innovation-driven”)
+• Clear insights beyond raw numbers
+• Fully cohesive and precise

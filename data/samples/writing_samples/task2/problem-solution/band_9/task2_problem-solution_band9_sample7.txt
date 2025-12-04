@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band9_sample7","topics": ["waste","household","what","environmental","contaminate","furthermore"],"rag_ready": true}
+
+[QUESTION]
+Growing amounts of household waste are becoming difficult to manage. What problems does this create and what can be done?
+
+[SUMMARY]
+Mounting household waste threatens both environmental quality and public health. Landfills contaminate soil and water, while burning garbage emits hazardous fumes.
+
+[SAMPLE_ANSWER]
+Band 9
+Mounting household waste threatens both environmental quality and public health. Landfills contaminate soil and water, while burning garbage emits hazardous fumes. Furthermore, poor waste management strains municipal budgets, limiting investment in other essential services.
+To solve this, governments should enforce strict recycling laws and impose penalties on households that fail to separate waste properly. Public campaigns can also promote composting and reduce reliance on single-use products. Over time, these measures will significantly reduce waste generation.
+
+[OVERVIEW]
+Household waste harms health and budgets; recycling laws and public campaigns are key.
+
+[RATIONALE]
+• Clear, logical progression
+• Sophisticated vocabulary
+• Strong cause–solution connection

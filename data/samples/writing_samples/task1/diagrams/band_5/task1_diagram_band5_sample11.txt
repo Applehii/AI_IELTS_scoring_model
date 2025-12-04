@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_diagrams","sample_id": "task1_diagram_band5_sample11","topics": ["chocolate","beans","harvested","fermented","diagram","removed"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how chocolate is made.
+
+[SUMMARY]
+Cacao pods are harvested and the beans removed. Then the beans are fermented and dried.
+
+[SAMPLE_ANSWER]
+Band 5
+Cacao pods are harvested and the beans removed. Then the beans are fermented and dried. After drying, they are roasted and ground to make chocolate liquid. Sugar and other things are added, and the mixture becomes chocolate.
+
+[OVERVIEW]
+Cacao beans are processed into chocolate through several steps.
+
+[RATIONALE]
+• Steps mostly correct  
+• Vocabulary limited  
+• No advanced linking

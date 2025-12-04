@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_opinion","sample_id": "task2_opinion_band5_sample4","topics": ["people","social","media","agree","face","disagree"],"rag_ready": true}
+
+[QUESTION]
+Some people say social media makes people less social. Do you agree or disagree?
+
+[SUMMARY]
+I agree because people spend a lot of time on phones and do not talk face to face. They prefer posting online instead of meeting friends.
+
+[SAMPLE_ANSWER]
+Band 5
+I agree because people spend a lot of time on phones and do not talk face to face. They prefer posting online instead of meeting friends. But social media also helps people keep in touch with family far away. So it has both good and bad effects.
+
+[OVERVIEW]
+Idea is there but not well expanded.
+
+[RATIONALE]
+• Repetitive ideas
+• Weak explanation
+• Limited cohesion

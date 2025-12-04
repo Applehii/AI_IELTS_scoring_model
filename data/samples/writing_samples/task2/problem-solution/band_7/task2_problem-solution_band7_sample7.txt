@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample7","topics": ["employees","burnout","health","what","such","can"],"rag_ready": true}
+
+[QUESTION]
+Many workers suffer from burnout. What problems does this cause and what solutions can be considered?
+
+[SUMMARY]
+Burnout results in decreased productivity and serious health issues. Employees who are exhausted may make mistakes at work or become disengaged, which harms organisations.
+
+[SAMPLE_ANSWER]
+Band 7
+Burnout results in decreased productivity and serious health issues. Employees who are exhausted may make mistakes at work or become disengaged, which harms organisations. Additionally, chronic stress can lead to conditions such as anxiety or high blood pressure.
+To address this, companies should ensure reasonable working hours and offer mental health support, such as counselling. Employees themselves could adopt stress-management techniques, including regular exercise or mindfulness. These combined efforts would reduce burnout.
+
+[OVERVIEW]
+Burnout reduces performance and affects health; reasonable hours and support can help.
+
+[RATIONALE]
+• Clear, relevant analysis
+• Good range of vocabulary
+• Could include more concrete examples

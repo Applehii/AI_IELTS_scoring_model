@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_direct","sample_id": "task2_direct_band8_sample8","topics": ["technology","people","communication","problems","rely","face"],"rag_ready": true}
+
+[QUESTION]
+Why do people rely heavily on technology? What problems can this cause?
+
+[SUMMARY]
+People rely on technology because it simplifies many aspects of life, from communication to shopping and entertainment. Technology allows people to complete tasks faster and stay connected with others regardless of distance.
+
+[SAMPLE_ANSWER]
+Band 8
+People rely on technology because it simplifies many aspects of life, from communication to shopping and entertainment. Technology allows people to complete tasks faster and stay connected with others regardless of distance.
+However, excessive dependency on technology can create several problems. It may reduce face-to-face communication, leading to weaker social relationships. People may also become less physically active due to sedentary habits. Additionally, heavy reliance on digital tools increases the risk of privacy breaches and cybercrime.
+
+[OVERVIEW]
+Balanced analysis with depth.
+
+[RATIONALE]
+• Strong vocabulary (sedentary, breaches)
+• Clear logical flow
+• Not fully expanded to Band 9 depth

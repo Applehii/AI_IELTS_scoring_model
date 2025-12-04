@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_direct","sample_id": "task2_direct_band7_sample10","topics": ["libraries","people","challenges","public","face","also"],"rag_ready": true}
+
+[QUESTION]
+Why do people use public libraries? What challenges do libraries face today?
+
+[SUMMARY]
+People use public libraries to access free books, study materials, and a quiet place to work. Libraries are especially important for students who cannot afford expensive textbooks.
+
+[SAMPLE_ANSWER]
+Band 7
+People use public libraries to access free books, study materials, and a quiet place to work. Libraries are especially important for students who cannot afford expensive textbooks. They also offer community events and digital resources.
+Despite their importance, libraries face challenges. With the rise of the Internet, fewer people visit them, which reduces funding. Libraries must also update technology to stay relevant, but this requires money and trained staff.
+
+[OVERVIEW]
+Clear with well-developed ideas.
+
+[RATIONALE]
+• Good cohesion and paragraphing
+• Wide enough vocabulary
+• Some ideas could be more specific

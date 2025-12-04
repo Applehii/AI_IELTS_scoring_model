@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample3","topics": ["education","should","free","university","agree","would"],"rag_ready": true}
+
+[QUESTION]
+University education should be free for everyone. Do you agree or disagree?
+
+[SUMMARY]
+I agree that higher education should be more accessible, but I do not think it should be entirely free. Providing free university education would give equal opportunities to all students, especially those from low-income backgrounds.
+
+[SAMPLE_ANSWER]
+Band 7
+I agree that higher education should be more accessible, but I do not think it should be entirely free. Providing free university education would give equal opportunities to all students, especially those from low-income backgrounds. However, this policy would place immense financial pressure on governments. A better solution is to reduce tuition fees and expand scholarship programmes so motivated students can still pursue their goals regardless of their financial situation.
+
+[OVERVIEW]
+Well-structured with a clear position.
+
+[RATIONALE]
+• Strong coherence
+• Good vocabulary range
+• Thoughtful reasoning

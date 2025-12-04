@@ -1,0 +1,18 @@
+{"band": 7,"task": "task1_graphs","sample_id": "task1_bar_band7_sample9","topics": ["country","sold","countries","respectively","performers","electric"],"rag_ready": true}
+
+[QUESTION]
+The bar chart shows the number of electric vehicles sold in five countries in 2021.
+
+[SUMMARY]
+Country A led the group with 600,000 EVs sold. Country B followed with 450,000, while Country C sold 300,000.
+
+[SAMPLE_ANSWER]
+Band 7
+Country A led the group with 600,000 EVs sold. Country B followed with 450,000, while Country C sold 300,000. Countries D and E recorded much lower sales at around 150,000 and 100,000 respectively. There is a marked contrast between the top performers and the rest.
+
+[OVERVIEW]
+EV sales were highest in Countries A and B.
+
+[RATIONALE]
+• Good comparison and structure
+• Lacks deeper insights for Band 8

@@ -1,0 +1,30 @@
+{"band": 4,"task": "task1_tables","sample_id": "task1_tables_band4_sample8","topics": ["people","spend","urban","rural","areas","food"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the number of hours people spend reading books per week in five countries.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+Country A 10hrs, B 7hrs, C 5hrs, D 3hrs, E 1hr — Country A reads most, Country E least.
+
+[SAMPLE_ANSWER]
+Band 4
+The table shows how people spend money. In urban areas, people spend 30% on food. In rural areas, people spend 40% on food. Housing costs 25% in urban and 15% in rural areas. Transportation costs 20% in urban and 10% in rural areas.
+
+Urban people spend less on food than rural people. Urban people spend more on housing and transportation. Rural people spend more on food. This is different between urban and rural areas.
+
+The spending is very different. Urban areas have higher costs for housing and transport. Rural areas have higher food costs. This shows differences between urban and rural life. People spend money in different ways.
+
+[{"band":4,"task":"task1_tables","sample_id":"task1_tables_band4_sample8","topics":["reading","hours","books","country A","country B","country C","country D","country E"],"rag_ready":true}]
+
+Band 4
+The table shows weekly reading hours. Country A: 10 hours, Country B: 7 hours, Country C: 5 hours, Country D: 3 hours, Country E: 1 hour. Country A reads the most and Country E the least.
+
+[OVERVIEW]
+Lists main figures with basic comparisons; no deeper analysis of causes.
+
+[RATIONALE]
+- Straightforward reporting of numbers
+- Limited vocabulary and simple grammar
+- Fits band 4 descriptors

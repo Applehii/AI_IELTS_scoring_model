@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_maps","sample_id": "task1_map_band4_sample3","topics": ["village","but","restaurant","compare","coastal","hotels"],"rag_ready": true}
+
+[QUESTION]
+The maps compare a coastal village in 1995 and 2015.
+
+[SUMMARY]
+The village look more busy in 2015. There are hotels and shops.
+
+[SAMPLE_ANSWER]
+Band 4
+The village look more busy in 2015. There are hotels and shops. Before only few house but now many. The beach also have some thing like restaurant. The road change a bit but I can’t see clear.
+
+[OVERVIEW]
+The village has more buildings.
+
+[RATIONALE]
+• Very vague, missing key features
+• Grammar errors throughout
+• “I can’t see clear” → inappropriate IELTS tone
+• No specific comparisons or accurate details

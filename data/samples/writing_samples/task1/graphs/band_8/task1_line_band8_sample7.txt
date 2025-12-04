@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_graphs","sample_id": "task1_line_band8_sample7","topics": ["million","city","attendance","cinema","cities","significant"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows annual cinema attendance in three cities from 2000 to 2020.
+
+[SUMMARY]
+Cinema attendance rose in all cities. City A saw the most significant growth, doubling from 20 million to 40 million visits.
+
+[SAMPLE_ANSWER]
+Band 8
+Cinema attendance rose in all cities. City A saw the most significant growth, doubling from 20 million to 40 million visits. City B increased from 15 to 28 million. City C remained lower overall but grew steadily from 10 to 20 million. Despite different starting points, the upward trends were consistent.
+
+[OVERVIEW]
+All cities experienced rising attendance, led by City A.
+
+[RATIONALE]
+• Clear comparisons
+• Good clarity & cohesion
+• Precise figures

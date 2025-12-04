@@ -1,0 +1,29 @@
+{"band": 7,"task": "task1_tables","sample_id": "task1_tables_band7_sample8","topics": ["expenditure","urban","rural","differential","percentage","table"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of household expenditure on different items in urban and rural areas.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table reveals fundamental socioeconomic structural divergence between urban and rural populations, manifesting through differential expenditure allocation patterns reflecting distinct economic realities, infrastructural requirements, and...
+
+[SAMPLE_ANSWER]
+Band 7
+The table reveals fundamental socioeconomic structural divergence between urban and rural populations, manifesting through differential expenditure allocation patterns reflecting distinct economic realities, infrastructural requirements, and consumption necessities. The 10-percentage-point differential in food expenditure (40% rural versus 30% urban) constitutes the most pronounced disparity, suggesting rural populations allocate substantially larger financial resources to nutritional acquisition despite potentially lower absolute incomes. Conversely, urban residents allocate 10 percentage points more to housing (25% versus 15%) and 10 points more to transportation (20% versus 10%), reflecting urban-specific economic demands.
+
+This expenditure stratification reveals several interconnected dynamics regarding rural and urban economic structures. Rural populations' elevated food expenditure likely reflects multiple contributing factors: reduced agricultural self-sufficiency contrary to common assumptions, transportation costs creating price premiums in rural markets, limited retail competition raising local prices, and potential income insufficiency creating food security challenges. Urban housing expenditure elevation reflects fundamental real estate economics wherein urban property values substantially exceed rural counterparts, combined with rental market prevalence and accumulated infrastructure costs embedded in urban property prices. Transportation costs' urban concentration reflects greater commuting distances, public transportation utilization, and automobile dependency characterizing urban living patterns.
+
+These expenditure patterns illuminate fundamental development asymmetries requiring geographically differentiated policy interventions. Rural development strategies should emphasize agricultural productivity enhancement, market infrastructure development reducing prices through improved distribution channels, and income augmentation enabling reduced food expenditure proportions. Urban policy might address housing affordability through regulatory interventions and transportation through infrastructure development. The expenditure stratification demonstrates how spatial geography fundamentally shapes economic structures and consumption patterns, necessitating place-based policy approaches rather than uniform national strategies. Understanding these patterns proves essential for equitable development, poverty reduction, and regional economic optimization.
+
+[OVERVIEW]
+Highly sophisticated analysis of urban-rural economic structures with development implications. Comprehensive policy considerations presented.
+
+[RATIONALE]
+- Uses sophisticated vocabulary (stratification, assets, augmentation)
+- Analyzes multiple underlying structural factors
+- Discusses development policy implications thoroughly
+- Makes specific place-based recommendations
+- Clear, well-developed argumentative structure
+- Demonstrates comprehensive understanding of regional economics
+- Strong analytical sophistication throughout

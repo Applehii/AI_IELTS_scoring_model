@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample4","topics": ["zoos","animals","should","they","believe","protect"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that zoos are cruel and should be closed, while others argue they protect animals. Discuss both views and give your opinion.
+
+[SUMMARY]
+Many people argue that zoos are cruel because animals are kept in small cages and cannot live naturally. They believe animals should stay in the wild.
+
+[SAMPLE_ANSWER]
+Band 6
+Many people argue that zoos are cruel because animals are kept in small cages and cannot live naturally. They believe animals should stay in the wild. But others think zoos help protect endangered species and educate the public. Zoos can also provide safe environments for animals that are injured or threatened. I think zoos should continue to exist, but only if they follow strict rules to ensure animal welfare.
+
+[OVERVIEW]
+Covers both sides with some balance.
+
+[RATIONALE]
+• Ideas somewhat developed but still basic
+• Grammar errors occur
+• Vocabulary repetitive
+• Needs stronger reasoning

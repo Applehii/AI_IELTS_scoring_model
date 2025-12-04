@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample4","topics": ["home","people","many","problem","work","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Many people work from home today. What are the advantages and disadvantages?
+
+[SUMMARY]
+Work from home good because people do not need travel. They save time and money.
+
+[SAMPLE_ANSWER]
+Band 4
+Work from home good because people do not need travel. They save time and money. But many people feel bored at home and cannot focus. Also internet problem sometimes. So working at home have many problem too.
+
+[OVERVIEW]
+Good for saving time but boring.
+
+[RATIONALE]
+• Poor development
+• Missing examples
+• Wrong grammar & articles

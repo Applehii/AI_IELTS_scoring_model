@@ -1,0 +1,21 @@
+{"band": 7,"task": "task2_mixed","sample_id": "task2_mixed_band7_sample1","topics": ["online","people","than","additionally","development","convenience"],"rag_ready": true}
+
+[QUESTION]
+Many people today prefer to shop online rather than in physical stores. Why is this happening? Is this a positive or negative development?
+
+[SUMMARY]
+Online shopping has grown rapidly because it offers greater convenience than traditional retail. Customers can browse thousands of products, compare prices instantly, and receive items within a few days.
+
+[SAMPLE_ANSWER]
+Band 7
+Online shopping has grown rapidly because it offers greater convenience than traditional retail. Customers can browse thousands of products, compare prices instantly, and receive items within a few days. Additionally, digital payment systems have become more secure, making people feel comfortable purchasing online.
+Although this trend supports consumer choice and saves time, it also contributes to the decline of local businesses and increases packaging waste. Overall, I believe online shopping is positive if governments regulate waste and support small retailers to adapt.
+
+[OVERVIEW]
+Clear reasons + thoughtful evaluation + balanced viewpoint.
+
+[RATIONALE]
+• Well-developed ideas with explanations
+• Higher lexical precision (“secure payment systems”, “consumer choice”)
+• Minor grammar issues but message stays strong
+• Good balance of pros/cons

@@ -1,0 +1,29 @@
+{"band": 9,"task": "task1_tables","sample_id": "task1_tables_band9_sample2","topics": ["precipitation","representing","annual","table","infrastructure","specifications"],"rag_ready": true}
+
+[QUESTION]
+The table below presents the annual rainfall data for four Asian cities over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table delineates precipitation regimes representing fundamental hydroclimatic variations establishing inescapable parameters determining development possibilities, infrastructure specifications, and regional sustainability frameworks.
+
+[SAMPLE_ANSWER]
+Band 9
+The table delineates precipitation regimes representing fundamental hydroclimatic variations establishing inescapable parameters determining development possibilities, infrastructure specifications, and regional sustainability frameworks. Manila's extraordinary 2,500mm annual precipitation—precisely 2.08 times Hong Kong's 1,200mm and representing megathermal climatic classification—necessitates engineering paradigms qualitatively distinct from aridity management requirements characterizing drier environments. The 1,300mm range between extremes encompasses essentially entire precipitation spectrum from tropical-equatorial to subtropical classifications, establishing precipitation as determining factor for hydraulic infrastructure design, agricultural productivity, watershed management, and geomorphological processes.
+
+The precipitation distribution reflects precise geographic positioning relative to atmospheric circulation systems, monsoonal dynamics, and maritime influences generating deterministic seasonal patterns. Manila's equatorial position situates it within intertropical convergence zone generating year-round convective precipitation supplemented by typhoon-season intensification. Hong Kong's subtropical positioning establishes pronounced seasonality with monsoon-driven summer precipitation peaks contrasting sharply with winter dryness. Bangkok's intermediate precipitation reflects geographic positioning at monsoonal system transition zone creating seasonal precipitation variability. Singapore's exceptional 2,000mm precipitation despite lower latitude than some drier cities reflects island geography creating orographic precipitation effects and exposure to convergent moisture-laden air masses. These geographic-precipitation relationships represent immutable atmospheric-geographic constraints establishing permanent hydroclimatic parameters transcending human agency.
+
+The precipitation stability across five-year observation confirms these represent established climatic normals rather than anomalous variations warranting forecasting uncertainty. Infrastructure design implications prove extraordinarily consequential: Manila requires engineered megaprojects encompassing advanced flood management systems, sophisticated stormwater infrastructure, and resilient drainage networks fundamentally different from Hong Kong's water scarcity imperative emphasizing desalination capacity, rainwater harvesting systems, and recycled water infrastructure. This precipitation differentiation exemplifies how geographic determinism establishes insurmountable constraints requiring fundamentally differentiated strategic responses. Climate change adaptation strategies must incorporate geographic-determined constraints recognizing that identical technologies prove fundamentally unsuitable across precipitation zones of this magnitude, necessitating place-sensitive, context-appropriate development frameworks acknowledging hydroclimatic realities.
+
+[OVERVIEW]
+Exceptional analysis of hydroclimatic systems with sophisticated understanding of geographic constraints and engineering implications. Exemplary technical and strategic analysis.
+
+[RATIONALE]
+- Demonstrates mastery of climatic classification systems and hydroclimatic concepts
+- Analyzes geographic-atmospheric relationships with exceptional precision
+- Discusses infrastructure requirements with technical specificity
+- Makes sophisticated connections between climate and development paradigms
+- Clear, rigorous argumentation with exceptional logical progression
+- Exceptional analytical depth and environmental systems literacy
+- Exemplary task achievement with sophisticated reasoning

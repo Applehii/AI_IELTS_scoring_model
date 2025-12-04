@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band9_sample9","topics": ["rural","cities","areas","what","agricultural","depopulated"],"rag_ready": true}
+
+[QUESTION]
+Rural areas are becoming depopulated as people move to cities. What problems does this cause and what can be done?
+
+[SUMMARY]
+Urban migration creates demographic imbalances and threatens food production. When young adults leave rural communities, these areas face labour shortages that reduce agricultural output.
+
+[SAMPLE_ANSWER]
+Band 9
+Urban migration creates demographic imbalances and threatens food production. When young adults leave rural communities, these areas face labour shortages that reduce agricultural output. At the same time, cities become overcrowded, leading to pressure on housing and public services.
+A viable solution is for governments to stimulate rural economies by investing in modern farming technology and improving infrastructure such as schools and hospitals. Tax incentives for businesses can also encourage companies to operate in rural regions, creating job opportunities. This balanced development can slow rural depopulation.
+
+[OVERVIEW]
+Migration harms rural productivity and urban capacity; rural investment and incentives solve the issue.
+
+[RATIONALE]
+• Clear multi-layered analysis
+• Excellent lexical precision
+• Strong alignment between problem and solution

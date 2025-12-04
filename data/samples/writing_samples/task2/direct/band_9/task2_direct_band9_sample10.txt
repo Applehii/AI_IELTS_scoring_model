@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_direct","sample_id": "task2_direct_band9_sample10","topics": ["books","printed","traditional","continue","digital","provide"],"rag_ready": true}
+
+[QUESTION]
+Why do people continue to read traditional books despite the rise of digital media? What value do printed books provide?
+
+[SUMMARY]
+Many people continue reading traditional books because they offer a sensory experience that digital media cannot replicate. The physical act of turning pages and the absence of screen glare make reading more comfortable for many individuals.
+
+[SAMPLE_ANSWER]
+Band 9
+Many people continue reading traditional books because they offer a sensory experience that digital media cannot replicate. The physical act of turning pages and the absence of screen glare make reading more comfortable for many individuals. Printed books also evoke a sense of nostalgia and permanence that appeals to avid readers.
+Beyond emotional connection, printed books provide cognitive benefits. Research suggests that reading physical texts improves concentration and retention compared to reading on screens. Moreover, physical books do not rely on batteries or software, making them more reliable in various situations.
+
+[OVERVIEW]
+Elegant, well-supported, refined.
+
+[RATIONALE]
+• Sophisticated reasoning
+• Integrates research-based arguments
+• Advanced grammar and vocabulary

@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_mixed","sample_id": "task2_mixed_band9_sample2","topics": ["children","benefits","devices","digital","time","entertainment"],"rag_ready": true}
+
+[QUESTION]
+Children spend much of their free time on electronic devices. Why is this the case? Do the benefits outweigh the drawbacks?
+
+[SUMMARY]
+The prevalence of smartphones and tablets has made digital entertainment the primary leisure activity for children. Parents’ demanding work schedules also contribute, as devices serve as convenient tools for supervision.
+
+[SAMPLE_ANSWER]
+Band 9
+The prevalence of smartphones and tablets has made digital entertainment the primary leisure activity for children. Parents’ demanding work schedules also contribute, as devices serve as convenient tools for supervision.
+Despite benefits such as improved digital literacy and exposure to educational apps, the disadvantages are far more significant. Excessive screen time harms attention span, sleep quality, and physical development. Therefore, although technology has undeniable educational potential, its risks outweigh its benefits without strict parental regulation.
+
+[OVERVIEW]
+Multiple reasons + decisive stance + deep evaluation.
+
+[RATIONALE]
+• Highly controlled argumentation
+• Academic vocabulary (“prevalence”, “regulation”, “cognitive impact”)
+• Well-balanced analysis with precise logic

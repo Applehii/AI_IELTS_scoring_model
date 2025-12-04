@@ -1,0 +1,20 @@
+{"band": 5,"task": "task1_maps","sample_id": "task1_map_band5_sample7","topics": ["centre","city","park","more","buildings","appeared"],"rag_ready": true}
+
+[QUESTION]
+The maps show a city centre in 1995 and 2015.
+
+[SUMMARY]
+In 1995, the city centre had a park, a few offices, and some shops. By 2015, more tall buildings were built.
+
+[SAMPLE_ANSWER]
+Band 5
+In 1995, the city centre had a park, a few offices, and some shops. By 2015, more tall buildings were built. The park became smaller, and a new bus station appeared. The roads were changed a little to make more space for cars. The shopping area also expanded.
+
+[OVERVIEW]
+More high-rise buildings and transport facilities.
+
+[RATIONALE]
+• Communicates main changes successfully
+• Missing many specific details
+• Some errors in tense and structure
+• Limited explanation of comparisons

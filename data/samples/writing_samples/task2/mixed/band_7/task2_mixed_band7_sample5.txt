@@ -1,0 +1,21 @@
+{"band": 7,"task": "task2_mixed","sample_id": "task2_mixed_band7_sample5","topics": ["items","positive","online","environmentally","marketplaces","development"],"rag_ready": true}
+
+[QUESTION]
+Many people buy second-hand items online. Why is this happening? Is this a positive or negative development?
+
+[SUMMARY]
+Buying used items online has become common because it is more affordable and environmentally friendly. Digital marketplaces provide secure payment systems and clear seller ratings, which increase trust.
+
+[SAMPLE_ANSWER]
+Band 7
+Buying used items online has become common because it is more affordable and environmentally friendly. Digital marketplaces provide secure payment systems and clear seller ratings, which increase trust.
+This trend helps reduce waste and allows low-income families to access products they otherwise could not afford. However, some items may be damaged or unsafe. Overall, I consider it positive as long as platforms enforce stricter product checks.
+
+[OVERVIEW]
+Cause + benefit + drawback with reasonable depth.
+
+[RATIONALE]
+• Good balance
+• Expanded reasoning (“secure payment systems”, “trust”)
+• Light grammar slips possible
+• Approaches Band 8 in clarity

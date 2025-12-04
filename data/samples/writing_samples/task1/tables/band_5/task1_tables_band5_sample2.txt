@@ -1,0 +1,29 @@
+{"band": 5,"task": "task1_tables","sample_id": "task1_tables_band5_sample2","topics": ["rainfall","received","cities","precipitation","manila","table"],"rag_ready": true}
+
+[QUESTION]
+The table below presents the annual rainfall data for four Asian cities over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table shows the rainfall patterns in four major Asian cities. Manila received the highest precipitation at 2,500mm annually, making it the wettest city.
+
+[SAMPLE_ANSWER]
+Band 5
+The table shows the rainfall patterns in four major Asian cities. Manila received the highest precipitation at 2,500mm annually, making it the wettest city. Singapore received 2,000mm, Bangkok received 1,500mm, while Hong Kong had the lowest rainfall at 1,200mm per year.
+
+Comparing the data across cities, there is a clear variation in rainfall. Manila's precipitation is significantly higher than the other cities, being 300mm more than Singapore. Bangkok and Hong Kong experience considerably less rainfall than both Manila and Singapore. The difference between Manila and Hong Kong is substantial at 1,300mm annually.
+
+In summary, the four cities demonstrate different rainfall patterns. Manila and Singapore are substantially wetter than Bangkok and Hong Kong. This variation in rainfall is important for understanding the climate characteristics of these Asian cities.
+
+[OVERVIEW]
+Well-structured response with appropriate comparisons. Correct use of comparative language. Accurate data presentation. Minor issues with word choice.
+
+[RATIONALE]
+- Good vocabulary related to data comparison
+- Clear progression of ideas
+- Accurate identification of highest and lowest values
+- Makes valid comparisons with specific numbers
+- Some repetition of ideas
+- Adequate organization but less sophisticated analysis
+- Fulfills task requirements adequately

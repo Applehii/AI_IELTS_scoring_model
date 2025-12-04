@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_discusion","sample_id": "task2_discussion_band5_sample1","topics": ["should","children","parents","things","some","make"],"rag_ready": true}
+
+[QUESTION]
+Some people think children should be given freedom to make their own choices, while others believe parents should decide for them. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people believe children should make their own choices because it helps them grow and become independent. They think that choosing small things like clothes or hobbies make kids confident.
+
+[SAMPLE_ANSWER]
+Band 5
+Some people believe children should make their own choices because it helps them grow and become independent. They think that choosing small things like clothes or hobbies make kids confident. However, others argue that parents should decide because children are not mature and can choose the wrong things. In my opinion, children can choose some simple things, but parents should guide bigger decisions like study or health.
+
+[OVERVIEW]
+Attempts both views but simple and not well developed.
+
+[RATIONALE]
+• Limited expansion
+• Some grammar mistakes
+• Basic vocabulary
+• Weak linking between ideas

@@ -1,0 +1,21 @@
+{"band": 7,"task": "task2_mixed","sample_id": "task2_mixed_band7_sample10","topics": ["transport","driving","public","positive","because","reduces"],"rag_ready": true}
+
+[QUESTION]
+Some people prefer public transport instead of driving. Why is this happening? Is this a positive trend?
+
+[SUMMARY]
+Public transport is becoming more attractive because it is cheaper and reduces the stress of driving in congested cities. Governments also invest in modern buses and trains to encourage greener travel.
+
+[SAMPLE_ANSWER]
+Band 7
+Public transport is becoming more attractive because it is cheaper and reduces the stress of driving in congested cities. Governments also invest in modern buses and trains to encourage greener travel.
+I think this is a positive trend because it reduces pollution and traffic problems. However, public transport must remain reliable, or people will return to driving.
+
+[OVERVIEW]
+Clear causes + thoughtful evaluation.
+
+[RATIONALE]
+• Relevant explanations
+• Some advanced vocabulary (“congested”, “encourage greener travel”)
+• Slightly short but meets requirements
+• Coherent and consistent

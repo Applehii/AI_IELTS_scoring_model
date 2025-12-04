@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample7","topics": ["individuals","cybercrime","companies","what","cybersecurity","increasingly"],"rag_ready": true}
+
+[QUESTION]
+Cybercrime is becoming increasingly common. What problems does this cause and what solutions could be introduced?
+
+[SUMMARY]
+Cybercrime threatens both individuals and businesses. Personal data breaches can result in identity theft, while companies may lose large sums of money from online fraud or ransomware attacks.
+
+[SAMPLE_ANSWER]
+Band 8
+Cybercrime threatens both individuals and businesses. Personal data breaches can result in identity theft, while companies may lose large sums of money from online fraud or ransomware attacks. These crimes also damage public trust in digital systems.
+To address this, governments should enforce strict cybersecurity regulations and require companies to meet security standards. Individuals should be educated about password protection and online safety. With stronger regulations and better public awareness, cybercrime can be significantly reduced.
+
+[OVERVIEW]
+Cybercrime threatens security and finances; regulations and education reduce risks.
+
+[RATIONALE]
+• High precision and clarity
+• Good technical vocabulary
+• Strong logical flow

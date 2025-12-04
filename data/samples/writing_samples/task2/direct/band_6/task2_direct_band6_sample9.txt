@@ -1,0 +1,22 @@
+{"band": 6,"task": "task2_direct","sample_id": "task2_direct_band6_sample9","topics": ["people","movies","influence","watching","enjoy","they"],"rag_ready": true}
+
+[QUESTION]
+Why do many people enjoy watching movies? How do movies influence people?
+
+[SUMMARY]
+People enjoy watching movies because they are entertaining and help them relax. Movies allow people to experience different emotions and escape from daily routines.
+
+[SAMPLE_ANSWER]
+Band 6
+People enjoy watching movies because they are entertaining and help them relax. Movies allow people to experience different emotions and escape from daily routines.
+Movies can influence people in both positive and negative ways. They can inspire people to follow their dreams or learn about history. But violent movies might encourage aggressive behaviour in some viewers.
+
+Reasonable answer but limited depth.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• Basic examples
+• Grammar mistakes appear
+• Lacks complex structuring

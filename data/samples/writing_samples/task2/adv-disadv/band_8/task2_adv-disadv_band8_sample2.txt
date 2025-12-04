@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample2","topics": ["work","employees","personal","home","can","responsibilities"],"rag_ready": true}
+
+[QUESTION]
+Some organisations allow employees to work from home. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Remote work offers significant flexibility, enabling employees to balance personal and professional responsibilities more effectively. It also eliminates commuting time, which can enhance productivity.
+
+[SAMPLE_ANSWER]
+Band 8
+Remote work offers significant flexibility, enabling employees to balance personal and professional responsibilities more effectively. It also eliminates commuting time, which can enhance productivity. However, working from home may reduce collaboration and weaken team dynamics, especially for creative tasks. Furthermore, the blurring of boundaries between work and personal life can result in burnout. Thus, while remote work benefits many employees, it requires strong self-discipline and organisational support.
+
+[OVERVIEW]
+Flexible and time-saving, but risks isolation and blurred boundaries.
+
+[RATIONALE]
+• Clear sophisticated reasoning
+• Balanced critical view
+• Excellent coherence and cohesion

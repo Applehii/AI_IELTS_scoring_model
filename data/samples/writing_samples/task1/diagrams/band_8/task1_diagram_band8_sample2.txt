@@ -1,0 +1,21 @@
+{"band": 8,"task": "task1_diagrams","sample_id": "task1_diagram_band8_sample2","topics": ["butterfly","diagram","leaves","cycle","stage","life"],"rag_ready": true}
+
+[QUESTION]
+The diagram illustrates the life cycle of a butterfly.
+
+[SUMMARY]
+The diagram describes the four-stage life cycle of a butterfly, beginning with eggs laid on leaves and ending with mature adults capable of reproduction.
+
+[SAMPLE_ANSWER]
+Band 8
+The diagram describes the four-stage life cycle of a butterfly, beginning with eggs laid on leaves and ending with mature adults capable of reproduction. Overall, it is a cyclic biological process involving transformation at each stage.
+Initially, eggs are deposited on plant leaves. These hatch into larvae, commonly known as caterpillars, which feed continuously and grow in size. They then form a chrysalis, within which metamorphosis occurs. After this transformation, adult butterflies emerge and begin the cycle again by laying eggs.
+
+[OVERVIEW]
+A four-stage cycle from egg to adult.
+
+[RATIONALE]
+• Accurate biological detail
+• Very clear progression
+• Good vocabulary (metamorphosis, emerge)
+• Slightly concise but still strong

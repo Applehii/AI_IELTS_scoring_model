@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample7","topics": ["water","precipitation","condensation","diagram","through","runoff"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the water cycle.
+
+[SUMMARY]
+The diagram illustrates the stages of the natural water cycle. Overall, it is a continuous system involving evaporation, condensation, precipitation and runoff.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram illustrates the stages of the natural water cycle. Overall, it is a continuous system involving evaporation, condensation, precipitation and runoff.
+
+Water evaporates from seas and lakes, forming clouds through condensation. When clouds become heavy, precipitation occurs in the form of rain. The water returns to rivers and lakes through surface runoff and groundwater flow, completing the cycle.
+
+[OVERVIEW]
+Continuous cycle of evaporation–condensation–rainfall.
+
+[RATIONALE]
+• Accurate but general
+• Missing some scientific detail
+• Limited variety of structures
+• Clear overall logic

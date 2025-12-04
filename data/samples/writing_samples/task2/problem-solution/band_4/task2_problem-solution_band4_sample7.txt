@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band4_sample7","topics": ["people","food","waste","many","buy","restaurant"],"rag_ready": true}
+
+[QUESTION]
+People waste food in many countries. What problems and solutions?
+
+[SUMMARY]
+People buy too much food and not eat. Food go to trash.
+
+[SAMPLE_ANSWER]
+Band 4
+People buy too much food and not eat. Food go to trash. It waste money and farmer work for nothing. To solve, people should buy only little. Restaurant give leftover but many dont want.
+
+[OVERVIEW]
+Food wasted, buy less.
+
+[RATIONALE]
+• Poor vocabulary
+• No examples or depth
+• Repetitive ideas

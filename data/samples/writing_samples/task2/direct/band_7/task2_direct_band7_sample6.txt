@@ -1,0 +1,22 @@
+{"band": 7,"task": "task2_direct","sample_id": "task2_direct_band7_sample6","topics": ["environmental","issues","more","industrialisation","deforestation","biodiversity"],"rag_ready": true}
+
+[QUESTION]
+Why are environmental issues becoming more serious? What solutions can be taken?
+
+[SUMMARY]
+Environmental issues are worsening due to rapid industrialisation and increased consumption. Factories release large amounts of carbon dioxide, and people produce more waste than ever before.
+
+[SAMPLE_ANSWER]
+Band 7
+Environmental issues are worsening due to rapid industrialisation and increased consumption. Factories release large amounts of carbon dioxide, and people produce more waste than ever before. Deforestation also contributes to climate change and loss of biodiversity.
+To address these problems, governments should introduce stricter regulations on pollution and promote renewable energy. Individuals can help by reducing plastic use, recycling, and using public transport. While these solutions require effort, they are essential for protecting the planet.
+
+Well-developed ideas with solutions.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• Clear explanation
+• Good organisation
+• Could include more detailed examples

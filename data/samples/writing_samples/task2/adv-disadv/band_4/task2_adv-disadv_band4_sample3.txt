@@ -1,0 +1,21 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample3","topics": ["sometimes","shopping","online","disadvantages","disadvantage","advantages"],"rag_ready": true}
+
+[QUESTION]
+Online shopping is becoming more common. What are its advantages and disadvantages?
+
+[SUMMARY]
+Online shopping is good because people buy things fast and no need go outside. And sometimes price is cheap.
+
+[SAMPLE_ANSWER]
+Band 4
+Online shopping is good because people buy things fast and no need go outside. And sometimes price is cheap. But sometimes product not same like picture. Delivery also late many time. So it have both advantage and disadvantage.
+
+[OVERVIEW]
+Easy to buy but quality not always good.
+
+No overview provided.
+
+[RATIONALE]
+• Repetition
+• Grammar mistakes
+• Weak linking words

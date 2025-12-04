@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_opinion","sample_id": "task2_opinion_band9_sample5","topics": ["fast","food","problems","modern","health","significant"],"rag_ready": true}
+
+[QUESTION]
+Fast food is the main reason for modern health problems. Agree or disagree?
+
+[SUMMARY]
+Fast food plays a significant role in modern health issues, but it is not the primary cause. Chronic diseases such as obesity and diabetes arise from a complex interplay of factors including sedentary lifestyles, urban design that discourages walking, and aggressive marketing of unhealthy products.
+
+[SAMPLE_ANSWER]
+Band 9
+Fast food plays a significant role in modern health issues, but it is not the primary cause. Chronic diseases such as obesity and diabetes arise from a complex interplay of factors including sedentary lifestyles, urban design that discourages walking, and aggressive marketing of unhealthy products. Fast food merely reflects broader systemic problems rather than creating them. Addressing health challenges therefore requires structural solutions, such as nutritional education and urban planning reforms, rather than simply blaming fast-food chains.
+
+[OVERVIEW]
+Advanced multi-factor reasoning.
+
+[RATIONALE]
+• Clear conceptual depth
+• Sophisticated phrasing (interplay, structural solutions)
+• Mature perspective

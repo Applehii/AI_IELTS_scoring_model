@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample8","topics": ["tourist","island","redevelopment","accommodation","transformed","destination"],"rag_ready": true}
+
+[QUESTION]
+The maps show redevelopment of a tourist island.
+
+[SUMMARY]
+The island was transformed into a structured tourist destination. Originally an undeveloped landscape with scattered palm trees, the area was re-engineered with two separate accommodation zones: beachfront villas along the southern coast and a cluster of cottages further inland.
+
+[SAMPLE_ANSWER]
+Band 9
+The island was transformed into a structured tourist destination. Originally an undeveloped landscape with scattered palm trees, the area was re-engineered with two separate accommodation zones: beachfront villas along the southern coast and a cluster of cottages further inland. A circular pedestrian path system was introduced, radiating from a newly built reception complex. To the west, a pier was constructed for boat access, replacing the informal landing area. Green spaces were carefully preserved and complemented with landscaped gardens.
+
+[OVERVIEW]
+The development balanced infrastructure expansion with environmental preservation.
+
+[RATIONALE]
+• Perfect structural clarity
+• Advanced vocabulary & precise mapping
+• Excellent overview

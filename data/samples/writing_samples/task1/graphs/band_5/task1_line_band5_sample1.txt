@@ -1,0 +1,22 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_line_band5_sample1","topics": ["million","increased","tourists","european","cities","around"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the number of tourists visiting three European cities from 2000 to 2020.
+
+[SUMMARY]
+The graph shows how many tourists went to three European cities between 2000 and 2020. Overall, the numbers increased but at different speeds.
+
+[SAMPLE_ANSWER]
+Band 5
+The graph shows how many tourists went to three European cities between 2000 and 2020. Overall, the numbers increased but at different speeds.
+
+In 2000, Paris had around 4 million visitors, more than Rome and Berlin which had about 3 and 2 million. Paris grew slowly to about 6 million in 2020. Rome also increased to nearly 5 million. Berlin rose faster and reached around 6 million at the end.
+
+[OVERVIEW]
+All cities had more tourists over time, with Berlin growing the fastest.
+
+[RATIONALE]
+• Trends described but limited detail
+• Simple vocabulary
+• Some vague numbers
+• Weak cohesion

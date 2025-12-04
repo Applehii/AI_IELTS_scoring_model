@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample3","topics": ["plastic","health","cause","they","overconsumption","microplastics"],"rag_ready": true}
+
+[QUESTION]
+Overconsumption of plastic has become a global problem. What issues does this cause and how can they be addressed?
+
+[SUMMARY]
+Excessive plastic use damages ecosystems and threatens human health. Large amounts of plastic end up in oceans, where they break down into microplastics that enter the food chain.
+
+[SAMPLE_ANSWER]
+Band 8
+Excessive plastic use damages ecosystems and threatens human health. Large amounts of plastic end up in oceans, where they break down into microplastics that enter the food chain. This not only harms marine life but may also cause long-term health risks for people. A further issue is landfill overload, since plastic takes centuries to decompose.
+To combat these problems, governments should ban single-use plastics and incentivise companies to develop biodegradable alternatives. Public campaigns can also encourage individuals to adopt reusable bags and containers. When both policy and consumer behaviour shift, plastic waste can be dramatically reduced.
+
+[OVERVIEW]
+Plastic harms ecosystems and health; policy bans and public campaigns are key.
+
+[RATIONALE]
+• Excellent depth with global perspective
+• Clear link from causes to solutions
+• Strong lexical variety

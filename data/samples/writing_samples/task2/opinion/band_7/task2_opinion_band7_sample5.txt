@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_opinion","sample_id": "task2_opinion_band7_sample5","topics": ["fast","food","health","contributor","significant","combination"],"rag_ready": true}
+
+[QUESTION]
+Fast food is the main reason for modern health problems. Do you agree or disagree?
+
+[SUMMARY]
+Fast food is certainly a major contributor to health issues because it is high in calories, fat, and sugar. Many people rely on it due to their busy schedules.
+
+[SAMPLE_ANSWER]
+Band 7
+Fast food is certainly a major contributor to health issues because it is high in calories, fat, and sugar. Many people rely on it due to their busy schedules. However, other factors such as lack of exercise and sedentary lifestyles also play a significant role. Therefore, it is inaccurate to blame fast food alone. A combination of unhealthy eating habits and limited physical activity causes most problems.
+
+[OVERVIEW]
+Well-explained with logical links.
+
+[RATIONALE]
+• Argument reasonably developed
+• Accurate vocabulary
+• Mostly correct grammar

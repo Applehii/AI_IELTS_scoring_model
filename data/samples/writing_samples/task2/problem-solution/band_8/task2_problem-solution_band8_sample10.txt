@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample10","topics": ["biodiversity","problems","decline","global","what","uncontrolled"],"rag_ready": true}
+
+[QUESTION]
+The decline of biodiversity is a major global concern. What problems arise, and what solutions can address this?
+
+[SUMMARY]
+The loss of biodiversity disrupts ecosystems and threatens global food security. When species disappear, ecological balance is lost, leading to problems such as uncontrolled pest populations.
+
+[SAMPLE_ANSWER]
+Band 8
+The loss of biodiversity disrupts ecosystems and threatens global food security. When species disappear, ecological balance is lost, leading to problems such as uncontrolled pest populations. Furthermore, many crops rely on pollinators, and their decline directly endangers agricultural productivity.
+Protecting biodiversity requires strict conservation policies, including expanding protected areas and preventing illegal hunting. Supporting sustainable farming practices can also preserve habitats. These solutions would help protect vulnerable species and maintain stable ecosystems.
+
+[OVERVIEW]
+Biodiversity loss harms ecosystems and food security; conservation and sustainable farming are essential.
+
+[RATIONALE]
+• Excellent organisation and vocabulary
+• Clearly explains global implications
+• Strong, actionable solutions

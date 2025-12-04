@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band4_sample1","topics": ["people","many","traffic","cities","make","work"],"rag_ready": true}
+
+[QUESTION]
+Many cities face traffic congestion. What are the problems and solutions?
+
+[SUMMARY]
+Big cities now have traffic problem. Many cars on road so people cannot move.
+
+[SAMPLE_ANSWER]
+Band 4
+Big cities now have traffic problem. Many cars on road so people cannot move. It make noise and pollution. People late for work. One solution is build more roads. Also tell people use bus but many people dont like. Government should make rules but not always work.
+
+[OVERVIEW]
+Traffic bad, build more roads.
+
+[RATIONALE]
+• Weak grammar (make, not like, dont)
+• Vague ideas
+• No clear structure
+• No real explanation

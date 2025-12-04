@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample9","topics": ["people","public","think","improving","transport","others"],"rag_ready": true}
+
+[QUESTION]
+Some people think governments should spend money on public transportation, while others think improving roads is more important. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people argue that funding public transport reduces traffic congestion and pollution. Efficient buses and trains encourage people to leave their cars at home.
+
+[SAMPLE_ANSWER]
+Band 7
+Some people argue that funding public transport reduces traffic congestion and pollution. Efficient buses and trains encourage people to leave their cars at home. On the other hand, others believe improving roads is more crucial because many people still rely on cars, especially in rural areas. I think both investments are necessary, but prioritising public transport is better for long-term sustainability.
+
+[OVERVIEW]
+Discusses both sides logically with a clear viewpoint.
+
+[RATIONALE]
+• Coherent and well-structured
+• Good argument depth
+• Minor vocabulary repetition
+• Could benefit from stronger examples

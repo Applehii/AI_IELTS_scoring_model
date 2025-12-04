@@ -1,0 +1,22 @@
+{"band": 5,"task": "task2_direct","sample_id": "task2_direct_band5_sample10","topics": ["home","people","work","can","they","not"],"rag_ready": true}
+
+[QUESTION]
+Why do many people choose to work from home? What problems can arise from this?
+
+[SUMMARY]
+People work from home because it saves time and money. They do not need to travel, and they can have a more flexible schedule.
+
+[SAMPLE_ANSWER]
+Band 5
+People work from home because it saves time and money. They do not need to travel, and they can have a more flexible schedule.
+However, working from home can cause issues. Some people feel lonely and miss talking to coworkers. Others find it hard to separate work and home life, which makes them stressed.
+
+Clear but not well-developed.
+
+[OVERVIEW]
+No overview provided.
+
+[RATIONALE]
+• Some grammar mistakes
+• Vocabulary simple
+• Basic idea progression

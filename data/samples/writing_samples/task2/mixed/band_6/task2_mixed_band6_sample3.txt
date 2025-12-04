@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample3","topics": ["people","positive","working","home","time","can"],"rag_ready": true}
+
+[QUESTION]
+Many people prefer working from home. Why is this the case? Is this a positive or negative trend?
+
+[SUMMARY]
+Working from home is becoming popular because technology allows people to communicate and complete tasks without being in the office.
+
+[SAMPLE_ANSWER]
+Band 6
+Working from home is becoming popular because technology allows people to communicate and complete tasks without being in the office. It also saves time and money that would be spent on commuting. This arrangement can improve work-life balance, but it may reduce social interaction and teamwork. In my opinion, it is positive for people who can manage their time well, but companies should still organise regular meetings to maintain communication.
+
+[OVERVIEW]
+Discusses both advantages and drawbacks with reasonable clarity.
+
+[RATIONALE]
+• Logical structure
+• Moderate lexical range
+• Some repetitive sentence patterns
+• Development could be deeper

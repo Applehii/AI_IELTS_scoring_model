@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band4_sample10","topics": ["people","money","government","solutions","becoming","problems"],"rag_ready": true}
+
+[QUESTION]
+Online scams are becoming more common. What are the problems and solutions?
+
+[SUMMARY]
+Many people lose money because scam on internet. Old people believe message and send money.
+
+[SAMPLE_ANSWER]
+Band 4
+Many people lose money because scam on internet. Old people believe message and send money. Police cannot find scammer. Solution is tell people be careful. Government make website safe but hacker still hack.
+
+[OVERVIEW]
+Scam makes people lose money.
+
+[RATIONALE]
+• Grammar errors
+• Weak ideas
+• Very short and undeveloped

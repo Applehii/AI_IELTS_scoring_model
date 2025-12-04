@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample7","topics": ["town","road","into","park","neighbourhoods","concentrated"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a town between 1950 and 2020.
+
+[SUMMARY]
+The town’s structure evolved profoundly. In 1950, residential areas were concentrated around a single arterial road.
+
+[SAMPLE_ANSWER]
+Band 9
+The town’s structure evolved profoundly. In 1950, residential areas were concentrated around a single arterial road. By 2020, this road had been expanded into a dual carriageway, linking several newly built neighbourhoods. Farmland to the north was replaced with an industrial park, while the southern woodland was converted into a large public park with walking trails. A new bridge was constructed across the river, connecting the town to emerging suburbs. The old factory in the east was demolished and redeveloped into an eco-friendly business campus.
+
+[OVERVIEW]
+The town expanded outward, diversified in land use, and modernised its transport infrastructure.
+
+[RATIONALE]
+• Excellent coverage of all spatial shifts
+• Deep insight into functional changes
+• High lexical control

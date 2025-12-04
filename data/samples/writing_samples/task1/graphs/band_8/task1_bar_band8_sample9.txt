@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_graphs","sample_id": "task1_bar_band8_sample9","topics": ["cities","city","respectively","illustrates","substantial","differences"],"rag_ready": true}
+
+[QUESTION]
+The bar chart illustrates the average monthly cost of living in four cities.
+
+[SUMMARY]
+City A was the most expensive, with costs reaching $3,500 per month. City B followed at $2,900.
+
+[SAMPLE_ANSWER]
+Band 8
+City A was the most expensive, with costs reaching $3,500 per month. City B followed at $2,900. Cities C and D were notably cheaper at around $2,200 and $1,800 respectively. The contrast suggests substantial lifestyle and economic differences among the cities.
+
+[OVERVIEW]
+Cities A and B were far more costly than C and D.
+
+[RATIONALE]
+• Clear grouping
+• Strong comparisons
+• Insightful interpretation

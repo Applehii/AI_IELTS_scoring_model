@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band7_sample6","topics": ["students","abroad","studying","high","new","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Some students study abroad. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Studying abroad exposes students to new cultures and teaching methods, helping them become more independent. They can access high-quality education and improve their language skills.
+
+[SAMPLE_ANSWER]
+Band 7
+Studying abroad exposes students to new cultures and teaching methods, helping them become more independent. They can access high-quality education and improve their language skills. However, the cost of living in foreign countries is often high, creating financial pressure. Students may also feel lonely or face difficulties adapting to a new environment. Therefore, studying abroad is rewarding but emotionally and financially challenging.
+
+[OVERVIEW]
+High-quality education vs. financial and emotional challenges.
+
+[RATIONALE]
+• Logical organization
+• Stronger vocabulary
+• Still slightly general

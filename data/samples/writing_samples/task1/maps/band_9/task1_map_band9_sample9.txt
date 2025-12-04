@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample9","topics": ["farming","area","transformation","traditional","reorganised","modernised"],"rag_ready": true}
+
+[QUESTION]
+The maps show how a farming area was modernised.
+
+[SUMMARY]
+The farming area underwent a strategic transformation. Traditional crop fields were partially retained but reorganised into a more efficient layout.
+
+[SAMPLE_ANSWER]
+Band 9
+The farming area underwent a strategic transformation. Traditional crop fields were partially retained but reorganised into a more efficient layout. The old farmhouse in the centre was replaced by a modern processing facility, connected to new access roads. To the east, irrigation canals were introduced, replacing the natural stream. Livestock sheds were removed to make room for a research centre. Large storage silos were installed in the west, optimising agricultural logistics.
+
+[OVERVIEW]
+The area moved from traditional agriculture to a technologically advanced farming system.
+
+[RATIONALE]
+• Highly technical and accurate
+• Clear functional evolution
+• Fully meets Band 9 criteria

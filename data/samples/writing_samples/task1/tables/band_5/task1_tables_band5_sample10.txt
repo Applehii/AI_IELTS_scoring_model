@@ -1,0 +1,29 @@
+{"band": 5,"task": "task1_tables","sample_id": "task1_tables_band5_sample10","topics": ["energy","renewable","electricity","generation","hydroelectric","table"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of different types of renewable energy used in electricity generation over five years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table presents the composition of renewable energy sources in electricity generation. Hydroelectric power is the largest contributor at 35% of renewable energy, followed by wind energy at 30%.
+
+[SAMPLE_ANSWER]
+Band 5
+The table presents the composition of renewable energy sources in electricity generation. Hydroelectric power is the largest contributor at 35% of renewable energy, followed by wind energy at 30%. Solar energy accounts for 25%, while biomass represents the smallest share at 10%.
+
+Hydroelectric and wind energy together comprise the majority of renewable electricity generation at 65%, making them the dominant sources. Solar energy's 25% contribution indicates a growing alternative to traditional renewable sources. Biomass, at just 10%, is the least utilized renewable energy type in this dataset. The data shows a clear ranking of renewable energy sources from most to least utilized.
+
+The distribution of renewable energy sources reflects both technological maturity and geographic factors. Hydroelectric power's dominance is due to its established infrastructure and effectiveness. Wind energy's significant contribution suggests increasing adoption of wind turbines. Solar energy is becoming increasingly important, while biomass remains a minor component. This portfolio approach to renewable energy strengthens the sustainability of electricity generation.
+
+[OVERVIEW]
+Clear presentation of renewable energy data. Identifies trends and patterns. Attempts explanation of energy distribution. Adequate analysis for band 5.
+
+[RATIONALE]
+- Accurately presents percentage data
+- Groups renewable sources logically
+- Explains differences in utilization
+- Clear organization with good flow
+- Uses appropriate technical vocabulary
+- Provides contextual explanation
+- Fulfills task requirements adequately

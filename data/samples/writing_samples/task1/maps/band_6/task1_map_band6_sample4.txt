@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample4","topics": ["today","park","lake","constructed","arrangement","originally"],"rag_ready": true}
+
+[QUESTION]
+The maps compare a park in 1980 with its current layout.
+
+[SUMMARY]
+The park underwent several changes from 1980 to today. Originally, it contained a large lake, some benches, and many trees.
+
+[SAMPLE_ANSWER]
+Band 6
+The park underwent several changes from 1980 to today. Originally, it contained a large lake, some benches, and many trees. Today, the lake has been reduced in size and surrounded by walking paths. A café was constructed in the east, replacing the old seating area, while a playground was added nearby. Although the entrance stayed in the same position, the tree arrangement changed, making the park appear more organised.
+
+[OVERVIEW]
+New facilities were added, and the lake area was modified.
+
+[RATIONALE]
+• Detailed enough for Band 6
+• Some descriptions vague (“appear more organised”)
+• Minor grammar issues
+• Lacks stronger comparison and structure

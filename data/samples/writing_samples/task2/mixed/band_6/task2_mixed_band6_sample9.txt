@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_mixed","sample_id": "task2_mixed_band6_sample9","topics": ["transport","public","positive","driving","people","trend"],"rag_ready": true}
+
+[QUESTION]
+Some people prefer public transport instead of driving. Why is this happening? Is this a positive trend?
+
+[SUMMARY]
+People choose public transport because it is cheaper and reduces the stress of driving in heavy traffic. It also helps cities reduce pollution and reliance on private cars.
+
+[SAMPLE_ANSWER]
+Band 6
+People choose public transport because it is cheaper and reduces the stress of driving in heavy traffic. It also helps cities reduce pollution and reliance on private cars. Although buses and trains can be crowded, public transport benefits the environment and improves city planning. Therefore, I think it is mainly a positive trend.
+
+[OVERVIEW]
+Clear, straightforward explanation.
+
+[RATIONALE]
+• Good clarity
+• Some economical analysis
+• Lacks complexity in ideas
+• Grammar accuracy moderate

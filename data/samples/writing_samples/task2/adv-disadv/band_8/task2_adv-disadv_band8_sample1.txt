@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample1","topics": ["online","physical","people","disadvantages","geographical","transparency"],"rag_ready": true}
+
+[QUESTION]
+Many people now shop online instead of visiting physical stores. What are the advantages and disadvantages?
+
+[SUMMARY]
+Online shopping offers exceptional convenience, allowing people to purchase items instantly without geographical limitations. It also provides wider product variety and price transparency, enabling more informed decisions.
+
+[SAMPLE_ANSWER]
+Band 8
+Online shopping offers exceptional convenience, allowing people to purchase items instantly without geographical limitations. It also provides wider product variety and price transparency, enabling more informed decisions. However, the lack of physical inspection increases the risk of receiving poor-quality goods. Additionally, heavy reliance on online platforms can harm small local businesses that cannot compete with large e-commerce companies. Therefore, while online shopping is efficient, it may negatively affect traditional retail systems.
+
+[OVERVIEW]
+Highly convenient and transparent, but risks poor product assessment and harms local stores.
+
+[RATIONALE]
+• Well-developed arguments
+• Specific, insightful disadvantages
+• Strong lexical resource (transparency, inspection, reliance)

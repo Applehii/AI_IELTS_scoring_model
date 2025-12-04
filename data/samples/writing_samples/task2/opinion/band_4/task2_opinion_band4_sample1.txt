@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_opinion","sample_id": "task2_opinion_band4_sample1","topics": ["they","school","think","because","people","should"],"rag_ready": true}
+
+[QUESTION]
+Some people think that children should start school at a very young age. Do you agree or disagree?
+
+[SUMMARY]
+I think kids should go school early because they learn fast. If they stay home, they only play and not learn anything.
+
+[SAMPLE_ANSWER]
+Band 4
+I think kids should go school early because they learn fast. If they stay home, they only play and not learn anything. School teach many thing so better go soon. Some people say kids too small but I think no problem because they will get used.
+
+[OVERVIEW]
+Very simple ideas, no development.
+
+[RATIONALE]
+• Grammar errors (“go school”, “teach many thing”)
+• No examples, no clear argument
+• Repetitive vocabulary
+• Oversimplified reasoning

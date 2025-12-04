@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample6","topics": ["because","people","change","good","happening","careers"],"rag_ready": true}
+
+[QUESTION]
+Some people change careers several times in their life. Why is this happening? Is this a good thing?
+
+[SUMMARY]
+People change job because they bored or want more money. It can good because learn new things, but also bad because not stable.
+
+[SAMPLE_ANSWER]
+Band 4
+People change job because they bored or want more money. It can good because learn new things, but also bad because not stable. I think depends.
+
+[OVERVIEW]
+Ideas are vague and poorly supported.
+
+[RATIONALE]
+• Weak development
+• Incorrect grammar structures
+• Vague opinion
+• Very limited vocabulary

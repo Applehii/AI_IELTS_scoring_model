@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_discusion","sample_id": "task2_discussion_band7_sample7","topics": ["cinema","more","experience","watching","people","movies"],"rag_ready": true}
+
+[QUESTION]
+Some people think watching movies at home is better, while others prefer going to the cinema. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people prefer watching movies at home because it is cheaper and more comfortable. They can pause the film, choose their own snacks, and watch with family.
+
+[SAMPLE_ANSWER]
+Band 7
+Some people prefer watching movies at home because it is cheaper and more comfortable. They can pause the film, choose their own snacks, and watch with family. However, others enjoy the cinema experience, which offers a larger screen, better sound, and a more exciting atmosphere. Personally, I believe both options have advantages, but the cinema provides a more immersive experience, especially for action or adventure films.
+
+[OVERVIEW]
+Provides clear comparison and opinion with reasonable development.
+
+[RATIONALE]
+• Appropriate explanations
+• Good flow with cohesive devices
+• Some over-simplified vocabulary
+• Could include examples with more specifics

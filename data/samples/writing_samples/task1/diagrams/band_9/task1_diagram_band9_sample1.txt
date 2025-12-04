@@ -1,0 +1,24 @@
+{"band": 9,"task": "task1_diagrams","sample_id": "task1_diagram_band9_sample1","topics": ["diagram","instant","noodles","storage","flour","manufactured"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how instant noodles are manufactured.
+
+[SUMMARY]
+The diagram illustrates the industrial production of instant noodles, which involves a series of mechanical and thermal stages before the final product is packaged for...
+
+[SAMPLE_ANSWER]
+Band 9
+The diagram illustrates the industrial production of instant noodles, which involves a series of mechanical and thermal stages before the final product is packaged for sale. Overall, the process is fully automated, beginning with flour storage and ending with sealed cups ready for distribution.
+
+Initially, flour is transported from storage silos into a mixer, where it is combined with water and oil to form dough. This dough is then rolled into thin sheets and cut into long strips. The strips are subsequently shaped into noodle discs. These discs are cooked in oil before being transferred to a drying chamber, where remaining moisture is removed.
+
+In the final stages, the dried noodles are placed into cups along with vegetable packets and seasoning oil. The cups are then sealed, labeled, and prepared for shipment to retailers.
+
+[OVERVIEW]
+A linear, fully automated process from flour mixing to sealed packaging.
+
+[RATIONALE]
+• Highly precise, fully detailed
+• Excellent academic tone
+• Strong cohesion and sequencing
+• Wide lexical range (automated, transferred, subsequently)

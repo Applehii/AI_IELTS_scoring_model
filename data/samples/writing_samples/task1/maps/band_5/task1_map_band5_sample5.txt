@@ -1,0 +1,20 @@
+{"band": 5,"task": "task1_maps","sample_id": "task1_map_band5_sample5","topics": ["industrial","factories","changed","area","into","residential"],"rag_ready": true}
+
+[QUESTION]
+The maps show how an industrial area changed into a residential zone.
+
+[SUMMARY]
+The old industrial area with factories changed into a place for people to live. The factories were removed and replaced with apartments.
+
+[SAMPLE_ANSWER]
+Band 5
+The old industrial area with factories changed into a place for people to live. The factories were removed and replaced with apartments. A new park was created in the centre, and the roads were redesigned to make a circle. There is also a supermarket added on the east side.
+
+[OVERVIEW]
+Factories were replaced by houses and new public facilities.
+
+[RATIONALE]
+• Covers major points but lacks depth
+• Some inaccurate assumptions
+• Simple vocabulary and structure
+• Limited comparison language

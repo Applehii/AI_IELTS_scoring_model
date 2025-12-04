@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band6_sample4","topics": ["housing","prices","another","their","live","comfortably"],"rag_ready": true}
+
+[QUESTION]
+Some cities struggle with rising housing prices. What problems and solutions?
+
+[SUMMARY]
+High housing prices make it difficult for people to live comfortably. Young families cannot afford to buy houses and must rent small apartments.
+
+[SAMPLE_ANSWER]
+Band 6
+High housing prices make it difficult for people to live comfortably. Young families cannot afford to buy houses and must rent small apartments. This reduces their quality of life. Another problem is that workers live far from their jobs, causing long travel times. To solve this, governments could build more affordable housing. Another solution is to control rental prices to protect low-income people. These measures may help people have better living conditions.
+
+[OVERVIEW]
+High prices reduce living quality; affordable housing can help.
+
+[RATIONALE]
+• Good understanding but still basic
+• Not enough advanced grammar
+• Lacks strong examples or comparison

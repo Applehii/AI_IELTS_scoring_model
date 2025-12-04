@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample8","topics": ["big","people","cities","many","city","disadvantages"],"rag_ready": true}
+
+[QUESTION]
+Many people move to big cities. What are the advantages and disadvantages?
+
+[SUMMARY]
+Big cities have many job and school. People can find work easy.
+
+[SAMPLE_ANSWER]
+Band 4
+Big cities have many job and school. People can find work easy. But city very noisy and traffic big problem. Air also dirty. So living in city have some bad point.
+
+[OVERVIEW]
+More jobs but pollution.
+
+[RATIONALE]
+• Basic words
+• Some wrong grammar
+• No strong linking

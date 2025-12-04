@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample10","topics": ["paper","recycling","diagram","process","used","new"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the recycling process of paper.
+
+[SUMMARY]
+The diagram illustrates the paper recycling process. Overall, it involves collecting, sorting, cleaning, pulping and producing new paper.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram illustrates the paper recycling process. Overall, it involves collecting, sorting, cleaning, pulping and producing new paper.
+
+Used paper is first collected and separated according to type. It is then washed to remove ink and impurities. The cleaned paper is turned into pulp and used to produce new sheets of paper.
+
+[OVERVIEW]
+A basic sequence from collection to new paper production.
+
+[RATIONALE]
+• Clear description
+• Lacks detail about chemicals
+• Limited cohesion
+• Good overview

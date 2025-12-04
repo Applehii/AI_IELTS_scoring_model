@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_direct","sample_id": "task2_direct_band7_sample2","topics": ["young","positive","renting","adults","prefer","people"],"rag_ready": true}
+
+[QUESTION]
+Why do many young adults prefer renting homes instead of buying them? Is this a positive or negative development?
+
+[SUMMARY]
+Young adults increasingly choose to rent homes due to financial constraints. Property prices have risen significantly in many cities, making it difficult for young people to afford a house.
+
+[SAMPLE_ANSWER]
+Band 7
+Young adults increasingly choose to rent homes due to financial constraints. Property prices have risen significantly in many cities, making it difficult for young people to afford a house. Renting also gives them more flexibility, especially for those who change jobs frequently or prefer urban lifestyles.
+In my view, this trend is mostly positive because it allows young people to save money and avoid long-term debt. However, relying too much on renting may lead to financial insecurity later in life, as people might not build any assets.
+
+[OVERVIEW]
+Balanced analysis with pros and cons.
+
+[RATIONALE]
+• Well-organized response
+• Good vocabulary usage
+• Some ideas not explored in-depth

@@ -1,0 +1,29 @@
+{"band": 5,"task": "task1_tables","sample_id": "task1_tables_band5_sample8","topics": ["areas","expenditure","urban","rural","food","transportation"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the percentage of household expenditure on different items in urban and rural areas.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table presents household expenditure patterns between urban and rural areas across four main categories. In urban areas, food accounts for 30% of expenses, housing 25%, transportation 20%, and others 25%.
+
+[SAMPLE_ANSWER]
+Band 5
+The table presents household expenditure patterns between urban and rural areas across four main categories. In urban areas, food accounts for 30% of expenses, housing 25%, transportation 20%, and others 25%. In rural areas, the distribution differs significantly with food representing 40%, housing 15%, transportation 10%, and others 35%.
+
+The most notable difference is in food expenditure, where rural households spend 10% more than urban households. This suggests that food is a larger financial burden in rural areas. Housing costs are higher in urban regions at 25% compared to rural areas at 15%, reflecting the typically higher property values in cities. Transportation expenses show a similar pattern, with urban areas spending twice as much (20%) as rural areas (10%), likely due to greater commuting needs and urban congestion.
+
+In summary, urban and rural household expenditure patterns reveal different economic priorities. Rural families allocate more resources to food, while urban families spend more on housing and transportation. These variations reflect the distinct lifestyle and economic conditions between urban and rural communities. Understanding these differences is important for policy makers.
+
+[OVERVIEW]
+Good analysis of urban-rural differences. Clear presentation of percentage comparisons. Attempts explanation for differences. Well-structured response.
+
+[RATIONALE]
+- Effectively compares urban and rural patterns
+- Uses percentages accurately and clearly
+- Attempts to explain reasons for differences
+- Clear organization with logical flow
+- Good use of comparative language
+- Adequate depth of analysis
+- Fulfills task requirements well

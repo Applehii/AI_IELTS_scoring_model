@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band8_sample7","topics": ["vegetarian","diets","also","disadvantages","vegetarianism","deficiencies"],"rag_ready": true}
+
+[QUESTION]
+A growing number of people choose vegetarian diets. What are the advantages and disadvantages?
+
+[SUMMARY]
+Vegetarian diets reduce the risk of chronic diseases and are more sustainable for the environment. They also encourage ethical consumption by lowering demand for animal products.
+
+[SAMPLE_ANSWER]
+Band 8
+Vegetarian diets reduce the risk of chronic diseases and are more sustainable for the environment. They also encourage ethical consumption by lowering demand for animal products. However, vegetarians must plan their meals carefully to avoid nutrient deficiencies, such as protein and vitamin B12. Dining options can also be limited in many regions. Overall, vegetarianism is beneficial but not universally practical.
+
+[OVERVIEW]
+Health and environmental benefits vs. nutritional and practical limitations.
+
+[RATIONALE]
+• High-level lexis (deficiencies, ethical consumption)
+• Strong structure
+• Deep reasoning

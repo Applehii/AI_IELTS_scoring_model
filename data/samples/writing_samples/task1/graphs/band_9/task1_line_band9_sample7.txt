@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_line_band9_sample7","topics": ["continent","smartphone","continents","adoption","rates","all"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows smartphone adoption rates in three continents from 2000 to 2025.
+
+[SUMMARY]
+Smartphone adoption accelerated dramatically across all continents. Continent A rose from below 5% to over 85%, making it the fastest adopter.
+
+[SAMPLE_ANSWER]
+Band 9
+Smartphone adoption accelerated dramatically across all continents. Continent A rose from below 5% to over 85%, making it the fastest adopter. Continent B increased from 10% to around 70%, while Continent C grew more gradually from 8% to 55%. Although all trends were upward, the disparity in growth rates underscores differing levels of technological accessibility.
+
+[OVERVIEW]
+Use of smartphones increased globally but at highly unequal rates.
+
+[RATIONALE]
+• Clear comparative insight
+• Strong analytical depth
+• C1–C2 vocabulary

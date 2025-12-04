@@ -1,0 +1,20 @@
+{"band": 9,"task": "task2_discusion","sample_id": "task2_discussion_band9_sample1","topics": ["will","believe","others","while","jobs","technological"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that the rise of artificial intelligence will create more jobs, while others think it will cause massive unemployment. Discuss both views and give your opinion.
+
+[SUMMARY]
+Supporters of AI argue that automation will generate new industries, similar to how past technological revolutions created jobs in engineering, data science, and digital services.
+
+[SAMPLE_ANSWER]
+Band 9
+Supporters of AI argue that automation will generate new industries, similar to how past technological revolutions created jobs in engineering, data science, and digital services. They believe AI will replace repetitive tasks while allowing humans to focus on creative and strategic work. In contrast, others fear that AI will eliminate millions of roles, especially in manufacturing, transport, and customer service, leading to long-term unemployment. In my view, AI will disrupt the labour market significantly, but with proper regulation and retraining programmes, it will ultimately create more opportunities than it destroys.
+
+[OVERVIEW]
+Sophisticated analysis with historical context and future-oriented reasoning.
+
+[RATIONALE]
+• Deep insights and balanced evaluation
+• High-level vocabulary and precision
+• Excellent coherence and argument flow
+• Fully developed ideas with no ambiguity

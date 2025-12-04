@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_direct","sample_id": "task2_direct_band5_sample8","topics": ["online","shopping","disadvantages","sometimes","people","many"],"rag_ready": true}
+
+[QUESTION]
+Why do many people prefer shopping online? What are the disadvantages of this trend?
+
+[SUMMARY]
+Many people shop online because it is convenient. They can buy things without leaving their house.
+
+[SAMPLE_ANSWER]
+Band 5
+Many people shop online because it is convenient. They can buy things without leaving their house. Online shops also have more choices and sometimes cheaper prices.
+However, online shopping has disadvantages. Customers cannot check the product quality, and sometimes they receive the wrong item. Another problem is that online shopping may reduce sales in local stores.
+
+[OVERVIEW]
+Covers both questions clearly.
+
+[RATIONALE]
+• Common vocabulary
+• Ideas predictable
+• Some grammar issues

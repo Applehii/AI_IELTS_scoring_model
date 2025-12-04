@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band5_sample2","topics": ["shopping","online","also","disadvantages","advantages","convenient"],"rag_ready": true}
+
+[QUESTION]
+Online shopping is becoming more popular. Discuss its advantages and disadvantages.
+
+[SUMMARY]
+Online shopping is convenient because people can buy things from home. It also saves time, especially for busy workers.
+
+[SAMPLE_ANSWER]
+Band 5
+Online shopping is convenient because people can buy things from home. It also saves time, especially for busy workers. On the other hand, customers cannot check the product quality before buying, so they may receive items that are different from the pictures. Delivery delays are also a common issue. Overall, online shopping has both benefits and drawbacks.
+
+[OVERVIEW]
+Convenience vs. quality issues.
+
+[RATIONALE]
+• Basic structure
+• Limited linking words
+• Repetition
+• Simple explanation

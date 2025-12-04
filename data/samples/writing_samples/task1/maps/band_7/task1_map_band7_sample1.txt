@@ -1,0 +1,20 @@
+{"band": 7,"task": "task1_maps","sample_id": "task1_map_band7_sample1","topics": ["town","road","residential","coastal","houses","along"],"rag_ready": true}
+
+[QUESTION]
+The maps show how a coastal town developed between 1980 and 2020.
+
+[SUMMARY]
+The coastal town experienced significant development from 1980 to 2020. In 1980, the area was mainly residential, with a few houses scattered along the coastline and only one main road.
+
+[SAMPLE_ANSWER]
+Band 7
+The coastal town experienced significant development from 1980 to 2020. In 1980, the area was mainly residential, with a few houses scattered along the coastline and only one main road. By 2020, the town had expanded considerably. A large hotel was constructed along the shore, replacing several older houses. The main road was widened, and a secondary road was added, linking the residential area with newly built shops to the east. The beach was also modernised with walking paths and a designated recreation zone.
+
+[OVERVIEW]
+The town became more developed, with new commercial and tourist facilities.
+
+[RATIONALE]
+• Clear structure and detailed description
+• Good comparison between past and present
+• A few assumptions remain (e.g., “recreation zone”)
+• Vocabulary strong but not fully sophisticated

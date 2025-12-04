@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample5","topics": ["food","insecurity","social","what","can","malnutrition"],"rag_ready": true}
+
+[QUESTION]
+Food insecurity is increasing in several parts of the world. What problems does this create and what solutions can be implemented?
+
+[SUMMARY]
+Food insecurity leads to malnutrition and slows social development. Children who lack access to nutritious food often experience stunted growth and poor academic performance.
+
+[SAMPLE_ANSWER]
+Band 8
+Food insecurity leads to malnutrition and slows social development. Children who lack access to nutritious food often experience stunted growth and poor academic performance. Additionally, food shortages can increase social unrest, as communities compete for limited resources.
+To alleviate this issue, governments must invest in sustainable agriculture, including drought-resistant crops and efficient irrigation systems. International organisations can also provide emergency food supplies and technical support. By strengthening both local and global cooperation, food insecurity can be tackled more effectively.
+
+[OVERVIEW]
+Food insecurity causes malnutrition and instability; sustainable farming and international support are key solutions.
+
+[RATIONALE]
+• Complex topic explained well
+• Precise, academic vocabulary
+• Clear global understanding

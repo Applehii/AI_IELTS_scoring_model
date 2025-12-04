@@ -1,0 +1,22 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_line_band5_sample2","topics": ["country","three","countries","graph","illustrates","percentage"],"rag_ready": true}
+
+[QUESTION]
+The line graph illustrates the percentage of households owning cars in three countries from 1990 to 2020.
+
+[SUMMARY]
+The graph shows car ownership in three countries over 30 years. All three went up.
+
+[SAMPLE_ANSWER]
+Band 5
+The graph shows car ownership in three countries over 30 years. All three went up.
+
+Country A started at 40% and increased slowly to about 60% in 2020. Country B began lower at 30% and reached around 55%. Country C grew the most, rising from 20% to almost 70%.
+
+[OVERVIEW]
+Car ownership increased in all countries, especially Country C.
+
+[RATIONALE]
+• Lacks full comparisons
+• Basic structure
+• Some numbers are rounded
+• Grammar simple

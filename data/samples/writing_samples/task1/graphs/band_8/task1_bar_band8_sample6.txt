@@ -1,0 +1,21 @@
+{"band": 8,"task": "task1_graphs","sample_id": "task1_bar_band8_sample6","topics": ["country","countries","internet","chart","penetration","substantial"],"rag_ready": true}
+
+[QUESTION]
+The bar chart shows the percentage of households with internet access in four countries in 2020.
+
+[SUMMARY]
+Country A had the highest internet penetration at 92%, followed by Country B at 85%. Country C reached 78%, while Country D lagged at only 60%.
+
+[SAMPLE_ANSWER]
+Band 8
+Country A had the highest internet penetration at 92%, followed by Country B at 85%. Country C reached 78%, while Country D lagged at only 60%. Although all countries had strong adoption, the gap between Country A and D was notable.
+
+The chart suggests substantial digital development differences among nations.
+
+[OVERVIEW]
+Internet access was high overall but varied significantly.
+
+[RATIONALE]
+• Data clearly grouped
+• Insight beyond simple reporting
+• Good range of connectors

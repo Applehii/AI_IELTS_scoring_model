@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_opinion","sample_id": "task2_opinion_band5_sample8","topics": ["art","important","science","should","agree","interesting"],"rag_ready": true}
+
+[QUESTION]
+Many people think studying art is as important as science. Do you agree or disagree?
+
+[SUMMARY]
+I agree because art helps students be creative. It makes school more interesting and not only about difficult subjects.
+
+[SAMPLE_ANSWER]
+Band 5
+I agree because art helps students be creative. It makes school more interesting and not only about difficult subjects. But science is important for jobs, so maybe art should be less hours. Still, it should be part of education.
+
+[OVERVIEW]
+Attempts explanation but shallow.
+
+[RATIONALE]
+• Limited clarity in comparison
+• Vocabulary simple and repetitive
+• Weak organisation

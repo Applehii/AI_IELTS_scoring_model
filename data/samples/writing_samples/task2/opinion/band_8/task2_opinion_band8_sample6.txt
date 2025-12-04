@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample6","topics": ["learning","online","traditional","face","accessibility","understanding"],"rag_ready": true}
+
+[QUESTION]
+Online learning is better than traditional learning. Agree or disagree?
+
+[SUMMARY]
+While online learning provides flexibility and accessibility, I do not believe it surpasses traditional learning. Face-to-face classrooms offer real-time interaction and immediate feedback, both of which are crucial for deeper understanding.
+
+[SAMPLE_ANSWER]
+Band 8
+While online learning provides flexibility and accessibility, I do not believe it surpasses traditional learning. Face-to-face classrooms offer real-time interaction and immediate feedback, both of which are crucial for deeper understanding. Moreover, subjects requiring practical experience—such as laboratory sciences—cannot be fully replicated online. Online education is a valuable supplement, but it is not a complete replacement.
+
+[OVERVIEW]
+Clear, detailed stance with examples.
+
+[RATIONALE]
+• Well-explained limitations
+• Good contrast
+• Cohesive paragraphing

@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band5_sample7","topics": ["can","tourism","cities","make","also","too"],"rag_ready": true}
+
+[QUESTION]
+Some cities struggle with too much tourism. What are the problems and solutions?
+
+[SUMMARY]
+Too many tourists make cities crowded and noisy. Prices also go up for local people.
+
+[SAMPLE_ANSWER]
+Band 5
+Too many tourists make cities crowded and noisy. Prices also go up for local people. To solve this, the government can limit the number of visitors at certain places. They can also create rules about behavior. This can make tourism more controlled.
+
+[OVERVIEW]
+Too much tourism causes crowding; limit visitors.
+
+[RATIONALE]
+• Some development but still simple
+• No detailed examples
+• Repetitive vocabulary

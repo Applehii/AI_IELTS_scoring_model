@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample2","topics": ["children","agree","time","can","inappropriate","consumption"],"rag_ready": true}
+
+[QUESTION]
+Watching TV is harmful to children. Do you agree or disagree?
+
+[SUMMARY]
+I partly agree with this statement. Excessive television consumption can expose children to inappropriate content and reduce the time they spend on essential activities, such as reading and physical play.
+
+[SAMPLE_ANSWER]
+Band 8
+I partly agree with this statement. Excessive television consumption can expose children to inappropriate content and reduce the time they spend on essential activities, such as reading and physical play. However, high-quality educational programmes can enhance language skills and general knowledge. Rather than avoiding TV altogether, parents should regulate viewing time and carefully choose suitable content.
+
+[OVERVIEW]
+Balanced argument with thoughtful consideration.
+
+[RATIONALE]
+• Strong control of ideas
+• Clear contrast and nuance
+• Sophisticated phrasing

@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample7","topics": ["students","because","abroad","think","good","but"],"rag_ready": true}
+
+[QUESTION]
+Many students now study abroad. Why do they choose this? Do you think it is beneficial?
+
+[SUMMARY]
+Students go abroad because better school and want new life. It good because learn English but also expensive.
+
+[SAMPLE_ANSWER]
+Band 4
+Students go abroad because better school and want new life. It good because learn English but also expensive. I think good but not for everyone.
+
+[OVERVIEW]
+Simple description, lacks depth.
+
+[RATIONALE]
+• Many grammar and syntax errors
+• Ideas too basic
+• Limited cohesion
+• No supporting details

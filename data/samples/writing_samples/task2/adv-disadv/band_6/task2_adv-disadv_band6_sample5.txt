@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band6_sample5","topics": ["social","media","people","also","face","misinformation"],"rag_ready": true}
+
+[QUESTION]
+Using social media has advantages and disadvantages. Discuss both.
+
+[SUMMARY]
+Social media allows people to stay connected with friends and family easily. It also provides information quickly and helps people express their opinions.
+
+[SAMPLE_ANSWER]
+Band 6
+Social media allows people to stay connected with friends and family easily. It also provides information quickly and helps people express their opinions. However, spending too much time online may lead to addiction and reduce face-to-face interaction. There is also a risk of misinformation. In conclusion, social media is useful but needs to be used carefully.
+
+[OVERVIEW]
+Convenience vs. addiction and misinformation.
+
+[RATIONALE]
+• Well-structured
+• Ideas valid but not deep
+• Basic connectors

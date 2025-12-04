@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_opinion","sample_id": "task2_opinion_band9_sample9","topics": ["exams","assessment","disagree","they","collaboration","understanding"],"rag_ready": true}
+
+[QUESTION]
+School exams are the best way to assess students. Agree or disagree?
+
+[SUMMARY]
+I disagree that exams are the most effective form of assessment. While they measure memory and time-management skills, they fail to capture creativity, collaboration, and long-term understanding.
+
+[SAMPLE_ANSWER]
+Band 9
+I disagree that exams are the most effective form of assessment. While they measure memory and time-management skills, they fail to capture creativity, collaboration, and long-term understanding. Project-based assessments and portfolio evaluations provide a richer picture of a student’s capabilities. A hybrid system, combining exams with continuous assessment, is far more accurate than relying solely on timed tests.
+
+[OVERVIEW]
+Polished and academically structured.
+
+[RATIONALE]
+• Extremely clear critique
+• High coherence
+• Sophisticated yet concise

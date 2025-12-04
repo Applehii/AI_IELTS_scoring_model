@@ -1,0 +1,19 @@
+{"band": 6,"task": "task1_graphs","sample_id": "task1_line_band6_sample7","topics": ["country","countries","rose","significantly","smartphones","experienced"],"rag_ready": true}
+
+[QUESTION]
+The line chart shows the percentage of people using smartphones in three countries between 2005 and 2020.
+
+[SUMMARY]
+Smartphone usage rose significantly in all countries. Country A increased from 20% to 90%, becoming the highest.
+
+[SAMPLE_ANSWER]
+Band 6
+Smartphone usage rose significantly in all countries. Country A increased from 20% to 90%, becoming the highest. Country B grew from 10% to 70%. Country C rose more slowly from 5% to about 55%. Although the trends were similar, Country A experienced the biggest rise.
+
+[OVERVIEW]
+All three countries saw major increases.
+
+[RATIONALE]
+• Clear trends
+• Lacks advanced explanation
+• Some repetitive language

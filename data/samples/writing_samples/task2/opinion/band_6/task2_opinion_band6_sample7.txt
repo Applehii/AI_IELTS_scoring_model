@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_opinion","sample_id": "task2_opinion_band6_sample7","topics": ["car","essential","people","owning","transport","pollution"],"rag_ready": true}
+
+[QUESTION]
+Some people believe owning a car is essential. Do you agree or disagree?
+
+[SUMMARY]
+I do not think owning a car is essential for everyone. In big cities, public transport is often cheaper and faster.
+
+[SAMPLE_ANSWER]
+Band 6
+I do not think owning a car is essential for everyone. In big cities, public transport is often cheaper and faster. Cars cause pollution and traffic jams. However, for families with children or people living in rural areas, having a car can be very helpful. So it depends on personal needs.
+
+[OVERVIEW]
+Reasonable balance but shallow.
+
+[RATIONALE]
+• Ideas logical
+• Not sufficiently developed
+• Language mostly simple

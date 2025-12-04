@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample8","topics": ["bricks","diagram","drying","shows","clay","temperatures"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how bricks are made.
+
+[SUMMARY]
+The diagram shows the brick-making process. Overall, it includes extracting clay, shaping, drying, firing and delivering bricks.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram shows the brick-making process. Overall, it includes extracting clay, shaping, drying, firing and delivering bricks.
+
+Clay is dug from the ground and then mixed with water and sand. The mixture is shaped using a mould or roller. The bricks are dried in a drying chamber before being fired in a kiln at high temperatures. Afterwards, they are cooled and packaged for delivery.
+
+[OVERVIEW]
+Linear industrial process from clay extraction to delivery.
+
+[RATIONALE]
+• Clear steps
+• Missing numbers/temperature details
+• Could use more linking devices
+• Adequate lexical resource

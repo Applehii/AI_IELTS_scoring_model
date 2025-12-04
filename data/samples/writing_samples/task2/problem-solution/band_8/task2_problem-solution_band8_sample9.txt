@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample9","topics": ["young","also","can","unemployment","governments","stagnation"],"rag_ready": true}
+
+[QUESTION]
+Many young people struggle to enter the job market. What problems does this cause and how can it be solved?
+
+[SUMMARY]
+Youth unemployment can lead to long-term economic stagnation. Young adults who cannot find work often delay major life decisions, such as starting families, which affects population growth.
+
+[SAMPLE_ANSWER]
+Band 8
+Youth unemployment can lead to long-term economic stagnation. Young adults who cannot find work often delay major life decisions, such as starting families, which affects population growth. They may also lose confidence and develop mental health issues.
+To solve this, governments could fund vocational training programmes aligned with industry needs. Businesses should also be encouraged to hire interns or provide entry-level opportunities. These strategies would help young people transition more easily into employment.
+
+[OVERVIEW]
+Unemployment impacts the economy and mental health; training and job creation help.
+
+[RATIONALE]
+• Strong analytical depth
+• Good link between causes and effects
+• Well-developed suggestions

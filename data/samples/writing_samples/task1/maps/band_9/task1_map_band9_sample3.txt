@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample3","topics": ["centre","market","square","city","into","dramatically"],"rag_ready": true}
+
+[QUESTION]
+The maps illustrate changes to a city centre between 1995 and 2025.
+
+[SUMMARY]
+The city centre evolved dramatically over the 30-year period. In 1995, the core consisted mainly of low-rise retail units and a traditional market square.
+
+[SAMPLE_ANSWER]
+Band 9
+The city centre evolved dramatically over the 30-year period. In 1995, the core consisted mainly of low-rise retail units and a traditional market square. By 2025, the entire commercial strip had been consolidated into a multi-storey shopping and business district. The market square was redesigned into an open civic plaza featuring fountains and shaded seating. To the east, the former bus depot was converted into an integrated transport interchange with dedicated bus lanes and a subway entrance. The riverside, once underdeveloped, was transformed into a pedestrian-only cultural promenade with galleries and cafés. Residential blocks to the west were demolished and replaced with high-density apartment towers.
+
+[OVERVIEW]
+The centre was comprehensively modernised, with enhanced transport, commercial consolidation, and recreational revitalisation.
+
+[RATIONALE]
+• Extremely clear logic and spatial accuracy
+• High-level academic tone
+• Insightful overview

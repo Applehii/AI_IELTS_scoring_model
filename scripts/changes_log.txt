@@ -1,0 +1,14 @@
+13 files changed:
+data/samples/writing_samples/task1/diagrams/band_6/task1_diagram_band6_sample13.txt
+data/samples/writing_samples/task1/diagrams/band_6/task1_diagram_band6_sample5.txt
+data/samples/writing_samples/task2/direct/band_9/task2_direct_band9_sample1.txt
+data/samples/writing_samples/task2/direct/band_7/task2_direct_band7_sample6.txt
+data/samples/writing_samples/task2/direct/band_6/task2_direct_band6_sample9.txt
+data/samples/writing_samples/task2/direct/band_6/task2_direct_band6_sample1.txt
+data/samples/writing_samples/task2/direct/band_8/task2_direct_band8_sample4.txt
+data/samples/writing_samples/task2/direct/band_8/task2_direct_band8_sample7.txt
+data/samples/writing_samples/task2/direct/band_5/task2_direct_band5_sample10.txt
+data/samples/writing_samples/task2/mixed/band_9/task2_mixed_band9_sample4.txt
+data/samples/writing_samples/task2/mixed/band_8/task2_mixed_band8_sample10.txt
+data/samples/writing_samples/task2/opinion/band_4/task2_opinion_band4_sample4.txt
+data/samples/writing_samples/task2/adv-disadv/band_4/task2_adv-disadv_band4_sample3.txt

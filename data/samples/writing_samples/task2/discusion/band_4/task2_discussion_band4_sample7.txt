@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_discusion","sample_id": "task2_discussion_band4_sample7","topics": ["free","people","think","bus","should","some"],"rag_ready": true}
+
+[QUESTION]
+Some believe public transport should be free, while others think people should pay. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people think free bus help poor people. Other say no free because cost money.
+
+[SAMPLE_ANSWER]
+Band 4
+Some people think free bus help poor people. Other say no free because cost money. I think free bus is good but maybe not all bus.
+
+[OVERVIEW]
+Minimal argumentation.
+
+[RATIONALE]
+• Few ideas
+• No examples
+• Grammar mistakes
+• No depth

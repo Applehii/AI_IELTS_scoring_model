@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band7_sample8","topics": ["countryside","living","people","may","disadvantages","opportunities"],"rag_ready": true}
+
+[QUESTION]
+Some people choose to live in the countryside. Discuss the advantages and disadvantages.
+
+[SUMMARY]
+Living in the countryside provides a peaceful environment and cleaner air, which is ideal for families and elderly people. The cost of living is often lower than in big cities.
+
+[SAMPLE_ANSWER]
+Band 7
+Living in the countryside provides a peaceful environment and cleaner air, which is ideal for families and elderly people. The cost of living is often lower than in big cities. On the downside, rural areas may lack job opportunities, especially in high-skill industries. Public services like hospitals and schools can also be limited. Therefore, countryside living is relaxing but may restrict career development.
+
+[OVERVIEW]
+Peaceful and affordable but fewer opportunities.
+
+[RATIONALE]
+• Strong comparisons
+• Analysis clear
+• Somewhat predictable ideas

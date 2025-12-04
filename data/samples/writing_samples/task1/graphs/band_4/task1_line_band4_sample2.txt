@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_graphs","sample_id": "task1_line_band4_sample2","topics": ["city","cities","graph","three","show","different"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the number of tourists visiting three cities between 2000 and 2015.
+
+[SUMMARY]
+The graph show tourist go three cities from 2000 to 2015. City A go up slowly.
+
+[SAMPLE_ANSWER]
+Band 4
+The graph show tourist go three cities from 2000 to 2015. City A go up slowly. City B start low but then jump high. City C go down. City B is highest at the end. The chart show different changes.
+
+[OVERVIEW]
+City A increases, City B rises quickly, City C falls.
+
+[RATIONALE]
+• Very vague
+• Incorrect grammar
+• No real figures
+• Hard to follow

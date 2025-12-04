@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_discusion","sample_id": "task2_discussion_band8_sample8","topics": ["students","subjects","they","should","believe","others"],"rag_ready": true}
+
+[QUESTION]
+Some people think students should study subjects they enjoy, while others believe they should focus on useful subjects for the future. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some argue that students learn best when they study subjects they genuinely enjoy, leading to greater motivation and creativity. This can result in higher academic performance.
+
+[SAMPLE_ANSWER]
+Band 8
+Some argue that students learn best when they study subjects they genuinely enjoy, leading to greater motivation and creativity. This can result in higher academic performance. In contrast, others believe students should concentrate on practical subjects such as science or technology, which offer better job prospects. In my view, while future usefulness is important, forcing students into subjects they dislike may reduce their long-term success. A balanced curriculum is the most effective solution.
+
+[OVERVIEW]
+A nuanced comparison between passion and practicality.
+
+[RATIONALE]
+• Wide vocabulary
+• Thorough development
+• Sophisticated linking
+• Very minor grammar slips

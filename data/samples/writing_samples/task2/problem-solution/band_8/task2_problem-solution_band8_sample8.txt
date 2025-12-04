@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band8_sample8","topics": ["noise","can","construction","pollution","cities","urban"],"rag_ready": true}
+
+[QUESTION]
+Urban noise pollution is rising in many cities. What problems does this create, and how can it be solved?
+
+[SUMMARY]
+Noise pollution negatively affects both physical and mental health. Prolonged exposure to loud traffic or construction noise can cause hearing damage and sleep disruption.
+
+[SAMPLE_ANSWER]
+Band 8
+Noise pollution negatively affects both physical and mental health. Prolonged exposure to loud traffic or construction noise can cause hearing damage and sleep disruption. It also increases stress levels, making city residents less satisfied with their living environment.
+Cities can combat this issue by enforcing noise-control laws, such as limiting construction hours. Urban planners should also build more green buffers, like trees and noise-absorbing walls, along busy roads. These steps would create quieter, healthier cities.
+
+[OVERVIEW]
+Noise harms health and well-being; stricter regulations and better urban planning help.
+
+[RATIONALE]
+• Detailed, insightful explanation
+• High-level cohesive devices
+• Solutions well aligned with problems

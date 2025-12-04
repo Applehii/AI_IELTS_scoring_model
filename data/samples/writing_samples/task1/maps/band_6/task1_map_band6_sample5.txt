@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample5","topics": ["area","residential","industrial","district","centre","into"],"rag_ready": true}
+
+[QUESTION]
+The maps show the redevelopment of an industrial area into a residential district.
+
+[SUMMARY]
+The industrial zone was completely transformed into a residential district. Previously, the area had several factories and warehouses.
+
+[SAMPLE_ANSWER]
+Band 6
+The industrial zone was completely transformed into a residential district. Previously, the area had several factories and warehouses. By the end of the period, these were removed and replaced with apartment buildings. A circular road system was also introduced, giving better access to the housing area. In the centre, a public park was created, and on the east side, a new shopping centre was added to serve the residents.
+
+[OVERVIEW]
+Factories were replaced by housing and public facilities.
+
+[RATIONALE]
+• Clear and detailed description
+• Lacks precise measurement or positioning
+• Some unnecessary assumptions
+• Grammar mostly correct but not fully accurate

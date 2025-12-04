@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_opinion","sample_id": "task2_opinion_band5_sample7","topics": ["car","but","essential","people","owning","cars"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that owning a car is essential. Do you agree or disagree?
+
+[SUMMARY]
+I think having a car is useful but not essential. Cars help people travel easily, especially for families.
+
+[SAMPLE_ANSWER]
+Band 5
+I think having a car is useful but not essential. Cars help people travel easily, especially for families. But public transport in many cities is good enough. Also, cars cause traffic and pollution. So owning a car is helpful but not necessary for everyone.
+
+[OVERVIEW]
+Some balance, not deeply analyzed.
+
+[RATIONALE]
+• Ideas only partly developed
+• Many simple sentences
+• Grammar mistakes but understandable

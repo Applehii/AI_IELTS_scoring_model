@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_diagrams","sample_id": "task1_diagram_band5_sample20","topics": ["rainwater","water","into","sometimes","filtered","drinking"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how rainwater is used in a home.
+
+[SUMMARY]
+Rainwater goes from the roof into a tank. It is filtered to remove dirt.
+
+[SAMPLE_ANSWER]
+Band 5
+Rainwater goes from the roof into a tank. It is filtered to remove dirt. Then pumps move the clean water into the house for washing, toilets and sometimes drinking. The system helps save water.
+
+[OVERVIEW]
+Rainwater is collected, cleaned and used inside the house.
+
+[RATIONALE]
+• Easy to understand  
+• Still lacks detail  
+• Informal wording (helps save water)

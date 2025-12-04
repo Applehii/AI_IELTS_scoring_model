@@ -1,0 +1,22 @@
+{"band": 7,"task": "task1_diagrams","sample_id": "task1_diagram_band7_sample4","topics": ["cycle","diagram","which","water","frogs","life"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows the life cycle of a frog.
+
+[SUMMARY]
+The diagram illustrates the life cycle of a frog, which consists of six main stages from egg to adult. Overall, it is a cyclical process starting with eggs in water and ending with fully grown frogs.
+
+[SAMPLE_ANSWER]
+Band 7
+The diagram illustrates the life cycle of a frog, which consists of six main stages from egg to adult. Overall, it is a cyclical process starting with eggs in water and ending with fully grown frogs.
+
+The cycle begins when frogspawn is laid in water. The eggs hatch into tadpoles, which develop legs as they grow. These young frogs gradually lose their tails and become froglets. Eventually, they mature into adult frogs capable of laying new eggs.
+
+[OVERVIEW]
+A simple cycle from eggs to adult frogs.
+
+[RATIONALE]
+• Accurate but basic description
+• Limited lexical range
+• Lacks detail on transformations
+• Good structure but not sophisticated

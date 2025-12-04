@@ -1,0 +1,19 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample11","topics": ["chocolate","produced","diagram","shows","cacao","fruit"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how chocolate is produced.
+
+[SUMMARY]
+Cacao fruit grow. They pick bean.
+
+[SAMPLE_ANSWER]
+Band 4
+Cacao fruit grow. They pick bean. Dry them. Then grind. Mix with sugar. Chocolate ready.
+
+[OVERVIEW]
+Bean become chocolate.
+
+[RATIONALE]
+• Extremely short  
+• No detail  
+• Missing half the real process

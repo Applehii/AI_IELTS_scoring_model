@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_graphs","sample_id": "task1_line_band9_sample10","topics": ["country","renewable","countries","energy","usage","three"],"rag_ready": true}
+
+[QUESTION]
+The line graph compares renewable energy usage in three countries between 1990 and 2030.
+
+[SUMMARY]
+Renewable energy usage rose sharply in all three countries. Country A increased from 15% to a projected 60%, showing the fastest growth.
+
+[SAMPLE_ANSWER]
+Band 9
+Renewable energy usage rose sharply in all three countries. Country A increased from 15% to a projected 60%, showing the fastest growth. Country B doubled from 20% to 40%, while Country C climbed more gradually from 10% to 30%. Despite the universal upward trend, Country A’s trajectory is markedly steeper.
+
+[OVERVIEW]
+All countries expanded renewable energy use, but Country A will outpace the others.
+
+[RATIONALE]
+• Full development
+• Excellent coherence + precision
+• Insight beyond surface data

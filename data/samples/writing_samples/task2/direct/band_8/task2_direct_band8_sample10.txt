@@ -1,0 +1,20 @@
+{"band": 8,"task": "task2_direct","sample_id": "task2_direct_band8_sample10","topics": ["environmental","individuals","urgent","can","industrialisation","deforestation"],"rag_ready": true}
+
+[QUESTION]
+Why are environmental issues becoming more urgent? What actions can individuals take?
+
+[SUMMARY]
+Environmental problems have become urgent due to rapid industrialisation, deforestation, and pollution. Climate change, in particular, has intensified natural disasters and threatened ecosystems.
+
+[SAMPLE_ANSWER]
+Band 8
+Environmental problems have become urgent due to rapid industrialisation, deforestation, and pollution. Climate change, in particular, has intensified natural disasters and threatened ecosystems. Public awareness has increased as scientific reports and media coverage highlight the severe consequences of inaction.
+Individuals can play an important role by adopting sustainable habits. These include reducing plastic use, supporting eco-friendly companies, and using public transport. People can also advocate for stronger environmental policies. While individual actions alone cannot solve the crisis, they contribute significantly to collective change.
+
+[OVERVIEW]
+Sophisticated ideas, well-developed.
+
+[RATIONALE]
+• High-level reasoning
+• Good grammar accuracy
+• Strong vocabulary

@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_direct","sample_id": "task2_direct_band4_sample5","topics": ["because","people","travel","abroad","good","they"],"rag_ready": true}
+
+[QUESTION]
+Why do many people travel abroad? Is this a good development?
+
+[SUMMARY]
+People travel abroad because they want see new place. They think foreign country better.
+
+[SAMPLE_ANSWER]
+Band 4
+People travel abroad because they want see new place. They think foreign country better. It is good because people learn new things. But also bad because cost money.
+
+[OVERVIEW]
+Short and unbalanced.
+
+[RATIONALE]
+• Weak argument
+• No depth
+• Limited vocabulary
+• Wrong grammar

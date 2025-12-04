@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band5_sample10","topics": ["noise","construction","people","also","make","can"],"rag_ready": true}
+
+[QUESTION]
+Noise from construction sites is disturbing people. What problems and solutions?
+
+[SUMMARY]
+Construction noise makes people stressed and they cannot sleep. It also affects students when studying.
+
+[SAMPLE_ANSWER]
+Band 5
+Construction noise makes people stressed and they cannot sleep. It also affects students when studying. A solution is to limit working hours. Companies can also use machines that make less noise. These can make the area more quiet.
+
+[OVERVIEW]
+Construction noise causes stress; limit hours.
+
+[RATIONALE]
+• Very basic structure
+• Little detail
+• Main ideas correct but underdeveloped

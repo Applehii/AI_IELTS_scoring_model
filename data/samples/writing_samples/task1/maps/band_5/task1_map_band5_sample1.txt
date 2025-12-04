@@ -1,0 +1,20 @@
+{"band": 5,"task": "task1_maps","sample_id": "task1_map_band5_sample1","topics": ["coastal","beach","added","town","more","road"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a small coastal town between 1990 and 2020.
+
+[SUMMARY]
+The coastal town became more developed in 2020 compared to 1990. In the past, it only had a few houses near the beach, but later more residential buildings were added.
+
+[SAMPLE_ANSWER]
+Band 5
+The coastal town became more developed in 2020 compared to 1990. In the past, it only had a few houses near the beach, but later more residential buildings were added. A new hotel was also built close to the shore. The main road stayed the same, but a smaller road was added on the right side. The beach area looks improved with some facilities.
+
+[OVERVIEW]
+More houses and a hotel were added, and the town became more modern.
+
+[RATIONALE]
+• Meaning generally clear but still basic
+• Several inaccuracies and vague points (“looks improved”)
+• Limited detail and weak comparisons
+• Some grammar errors but message understandable

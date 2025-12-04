@@ -1,0 +1,24 @@
+{"band": 9,"task": "task1_diagrams","sample_id": "task1_diagram_band9_sample3","topics": ["rainwater","system","water","collected","diagram","decentralized"],"rag_ready": true}
+
+[QUESTION]
+The diagram illustrates how rainwater is collected and treated for domestic use.
+
+[SUMMARY]
+The diagram outlines a decentralized rainwater harvesting system designed to supply households with potable water. Overall, the system includes water collection, filtration, chemical treatment, and distribution.
+
+[SAMPLE_ANSWER]
+Band 9
+The diagram outlines a decentralized rainwater harvesting system designed to supply households with potable water. Overall, the system includes water collection, filtration, chemical treatment, and distribution.
+
+Rainwater is first captured from rooftops and directed into an underground storage tank via a system of gutters and pipes. A pump then transfers the collected water to a fine-filter unit, where physical impurities are removed. Following filtration, the water flows into a treatment chamber, where disinfectants are added to eliminate harmful microorganisms.
+
+The treated water is subsequently transported through pipes to residential homes for drinking and household use.
+
+[OVERVIEW]
+A four-stage purification sequence from rooftop collection to household consumption.
+
+[RATIONALE]
+• Precise engineering descriptions
+• Excellent cohesion (subsequently, following)
+• High lexical sophistication
+• Completely error-free

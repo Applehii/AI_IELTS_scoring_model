@@ -1,0 +1,19 @@
+{"band": 9,"task": "task1_maps","sample_id": "task1_map_band9_sample4","topics": ["between","school","storey","repositioned","effectively","systematic"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a school between 1990 and 2020.
+
+[SUMMARY]
+Between 1990 and 2020, the school underwent systematic expansion. The original single-storey classroom block on the east was replaced by a three-storey academic building, effectively tripling capacity.
+
+[SAMPLE_ANSWER]
+Band 9
+Between 1990 and 2020, the school underwent systematic expansion. The original single-storey classroom block on the east was replaced by a three-storey academic building, effectively tripling capacity. The central playground, once occupying a large open area, was reduced and repositioned to the northeast to make room for a new auditorium. The car park to the south was enlarged, and an additional staff parking space was added adjacent to it. The garden area in the west was converted into a modern science wing. Footpaths throughout the campus were widened and realigned to ensure smooth connectivity.
+
+[OVERVIEW]
+The redevelopment focused primarily on increasing academic capacity and improving facility distribution.
+
+[RATIONALE]
+• Highly detailed, specific transformations
+• Elegant academic phrasing
+• Excellent precision

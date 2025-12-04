@@ -1,0 +1,19 @@
+{"band": 6,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band6_sample3","topics": ["cars","electric","they","still","many","also"],"rag_ready": true}
+
+[QUESTION]
+Many people choose electric cars. What are the advantages and disadvantages?
+
+[SUMMARY]
+Electric cars are environmentally friendly because they produce no emissions. They also cost less to run compared to petrol cars.
+
+[SAMPLE_ANSWER]
+Band 6
+Electric cars are environmentally friendly because they produce no emissions. They also cost less to run compared to petrol cars. However, the battery charging system is still limited in many countries, making long trips inconvenient. The initial price of electric cars is also high. As a result, they provide environmental benefits but still have practical drawbacks.
+
+[OVERVIEW]
+Eco-friendly but expensive and less convenient.
+
+[RATIONALE]
+• Good relevance
+• Some development
+• Limited vocabulary range

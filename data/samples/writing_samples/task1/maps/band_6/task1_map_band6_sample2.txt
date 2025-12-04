@@ -1,0 +1,20 @@
+{"band": 6,"task": "task1_maps","sample_id": "task1_map_band6_sample2","topics": ["university","campus","sports","more","main","area"],"rag_ready": true}
+
+[QUESTION]
+The maps illustrate changes to a university campus between 2000 and 2020.
+
+[SUMMARY]
+The university campus became much more modern by 2020. In 2000, the facilities were limited, with only a library, a main building, and a sports field.
+
+[SAMPLE_ANSWER]
+Band 6
+The university campus became much more modern by 2020. In 2000, the facilities were limited, with only a library, a main building, and a sports field. In 2020, a new science block was added, and the sports area was replaced by a large car park. The main footpath was expanded to connect different buildings more effectively. Some green space was also rearranged to create a small garden area.
+
+[OVERVIEW]
+More buildings were added and the campus infrastructure improved.
+
+[RATIONALE]
+• Contains key information clearly
+• Some vague descriptions (“rearranged”)
+• Not fully detailed; several features missing
+• Grammar adequate but not fully accurate

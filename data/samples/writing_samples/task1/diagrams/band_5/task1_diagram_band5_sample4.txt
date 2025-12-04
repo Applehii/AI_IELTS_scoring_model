@@ -1,0 +1,19 @@
+{"band": 5,"task": "task1_diagrams","sample_id": "task1_diagram_band5_sample4","topics": ["bottles","process","pieces","into","recycling","collected"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how plastic bottles are recycled.
+
+[SUMMARY]
+The recycling process starts with used bottles being collected in special bins. A truck takes them to a plant.
+
+[SAMPLE_ANSWER]
+Band 5
+The recycling process starts with used bottles being collected in special bins. A truck takes them to a plant. There, the bottles are sorted and washed. After that, they are shredded into small pieces. These pieces are melted and made into new bottles. The process repeats to reduce waste.
+
+[OVERVIEW]
+Old bottles are cleaned, melted and formed again.
+
+[RATIONALE]
+• Some detail added  
+• Still lacks precision  
+• Simple sentence structures

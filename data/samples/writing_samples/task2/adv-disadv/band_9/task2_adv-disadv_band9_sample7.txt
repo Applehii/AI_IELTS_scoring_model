@@ -1,0 +1,19 @@
+{"band": 9,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band9_sample7","topics": ["automation","workers","human","disadvantages","displacement","particularly"],"rag_ready": true}
+
+[QUESTION]
+Many companies are replacing human workers with automation. What are the advantages and disadvantages?
+
+[SUMMARY]
+Automation enhances efficiency by eliminating human error and enabling continuous production. It allows firms to allocate labour to more creative or strategic tasks.
+
+[SAMPLE_ANSWER]
+Band 9
+Automation enhances efficiency by eliminating human error and enabling continuous production. It allows firms to allocate labour to more creative or strategic tasks. However, rapid automation risks large-scale job displacement, particularly among low-skilled workers, potentially exacerbating economic inequality. Societies must also confront ethical concerns regarding AI autonomy and accountability. Thus, automation is economically beneficial but socially disruptive if not managed responsibly.
+
+[OVERVIEW]
+Boosts efficiency but threatens employment and deepens inequality.
+
+[RATIONALE]
+• Insightful economic & ethical evaluation
+• Rich vocabulary (displacement, autonomy, accountability)
+• High-level structure

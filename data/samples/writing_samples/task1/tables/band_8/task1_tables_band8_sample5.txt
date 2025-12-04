@@ -1,0 +1,29 @@
+{"band": 8,"task": "task1_tables","sample_id": "task1_tables_band8_sample5","topics": ["students","table","institutional","substantially","encapsulates","contemporary"],"rag_ready": true}
+
+[QUESTION]
+The table below shows the number of students enrolled in different university courses over three years.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+
+[SUMMARY]
+The table encapsulates contemporary educational preference hierarchies reflecting multifaceted interactions between labor market signaling mechanisms, institutional capacity constraints, career prospect perceptions, and broader societal value...
+
+[SAMPLE_ANSWER]
+Band 8
+The table encapsulates contemporary educational preference hierarchies reflecting multifaceted interactions between labor market signaling mechanisms, institutional capacity constraints, career prospect perceptions, and broader societal value assignments regarding disciplinary knowledge. Engineering's commanding enrollment dominance (6,000 students) substantially exceeds science (5,000), business (4,000), arts (3,000), and most notably medicine (2,000)—the latter representing particularly counterintuitive phenomenon wherein exceptional prestige correlates inversely with actual enrollment capacity. This paradoxical relationship illuminates profound disconnections between disciplinary social status and institutional accessibility dynamics.
+
+Engineering's preeminence reflects multifaceted reinforcing advantages encompassing contemporary labor market demands for technological expertise, entrepreneurial opportunity proliferation enabling wealth accumulation, perceived income generation potential, and cultural narratives emphasizing technological determinism and innovation. Science's substantial enrollment demonstrates recognition of research career opportunities and knowledge generation potential. Business education attracts considerable enrollment reflecting instrumental economic advancement motivations combined with perceived practical labor market relevance and professional credentialization value. The pronounced arts enrollment decline—despite humanities' irreplaceable contributions to cultural knowledge, critical thinking development, and civilizational understanding—reflects labor market devaluation, cultural narratives questioning humanities' vocational utility, and institutional underinvestment perpetuating disciplinary marginalization. Medicine's surprisingly constrained enrollment despite unparalleled social prestige reveals accessibility barriers encompassing stringent entry requirements, limited institutional capacity, prohibitive associated costs, and extended educational timelines creating structural impediments exceeding genuine demand limitations.
+
+This enrollment distribution portends concerning ramifications for intellectual ecosystem sustainability, workforce composition, and societal cultural capital formation. The concentration in technical disciplines potentially facilitates technological advancement while systematically neglecting humanistic education necessary for ethical reasoning, civic participation, and cultural memory maintenance. The humanities' diminishment threatens scholarship sustainability, cultural knowledge transmission, and intergenerational understanding of human experience. Medicine's constrained enrollment despite exceptional demand suggests misdirected resource allocation prioritizing profit-maximizing disciplines over socially essential professions. Corrective interventions require comprehensive educational reform encompassing enhanced humanities funding, medicine accessibility expansion, interdisciplinary curriculum integration, and cultural revaluation acknowledging that sustainable societies require balanced intellectual development transcending narrow instrumentalism.
+
+[OVERVIEW]
+Exceptionally sophisticated analysis of educational systems with cultural and economic implications comprehensively discussed. Exemplary critical analysis throughout.
+
+[RATIONALE]
+- Uses exceptionally sophisticated vocabulary (counterintuitive, instrumentalism, marginalization)
+- Analyzes complex educational and labor market dynamics
+- Discusses cultural and societal implications with sophistication
+- Makes insightful observations about paradoxes and contradictions
+- Clear, logically rigorous argumentative structure
+- Demonstrates exceptional understanding of educational systems
+- Exemplary analytical sophistication and critical thinking

@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_maps","sample_id": "task1_map_band7_sample8","topics": ["area","playground","school","considerably","constructed","classroom"],"rag_ready": true}
+
+[QUESTION]
+The maps show how the school area changed over 30 years.
+
+[SUMMARY]
+The school area expanded considerably. A new classroom block was constructed to the north, replacing part of the playground.
+
+[SAMPLE_ANSWER]
+Band 7
+The school area expanded considerably. A new classroom block was constructed to the north, replacing part of the playground. The playground itself was moved eastward. The parking area became larger, while the old garden was removed to create extra building space. Despite these changes, the main entrance remained in the same position.
+
+[OVERVIEW]
+The school added more buildings and reorganised existing spaces.
+
+[RATIONALE]
+• Logical flow and clarity
+• Lacks small details (size, shape)
+• Grammar strong but not sophisticated

@@ -1,0 +1,18 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_bar_band5_sample6","topics": ["women","read","groups","books","men","youngest"],"rag_ready": true}
+
+[QUESTION]
+The bar chart shows the number of books read by men and women in four age groups.
+
+[SUMMARY]
+Women read more in all groups. In the youngest group, women read about 6 books while men read 4.
+
+[SAMPLE_ANSWER]
+Band 5
+Women read more in all groups. In the youngest group, women read about 6 books while men read 4. The gap is similar in other groups, with women always slightly higher.
+
+[OVERVIEW]
+Women consistently read more.
+
+[RATIONALE]
+• Numbers vague
+• Ideas not fully developed

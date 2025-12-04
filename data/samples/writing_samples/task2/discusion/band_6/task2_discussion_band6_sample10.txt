@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample10","topics": ["people","health","more","should","care","facilities"],"rag_ready": true}
+
+[QUESTION]
+Some people think governments should invest more in sports facilities, while others believe the money should go to health care. Discuss both views and give your opinion.
+
+[SUMMARY]
+Some people argue that sports facilities help improve public health and encourage people to exercise. Good gyms and stadiums motivate more citizens to stay active.
+
+[SAMPLE_ANSWER]
+Band 6
+Some people argue that sports facilities help improve public health and encourage people to exercise. Good gyms and stadiums motivate more citizens to stay active. However, others think health care is more important because many people need medical treatment. Hospitals require modern equipment and skilled doctors. I believe both areas are important, but health care should receive more funding since it deals with life-saving services.
+
+[OVERVIEW]
+Both perspectives explained with a clear stance.
+
+[RATIONALE]
+• Ideas logical but basic
+• Grammar acceptable but not strong
+• Limited vocabulary range
+• Needs more elaboration

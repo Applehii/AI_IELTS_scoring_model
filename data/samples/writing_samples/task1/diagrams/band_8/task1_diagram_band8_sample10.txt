@@ -1,0 +1,21 @@
+{"band": 8,"task": "task1_diagrams","sample_id": "task1_diagram_band8_sample10","topics": ["electricity","wind","diagram","illustrates","transformer","mechanical"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how wind is used to generate electricity.
+
+[SUMMARY]
+The diagram illustrates the operation of a wind-powered electricity system. Overall, wind energy is converted into electricity through mechanical rotation and electrical generation.
+
+[SAMPLE_ANSWER]
+Band 8
+The diagram illustrates the operation of a wind-powered electricity system. Overall, wind energy is converted into electricity through mechanical rotation and electrical generation.
+Wind turns the blades of a turbine, which rotates a shaft connected to a generator. This produces electricity that is sent to a transformer, where voltage is adjusted before entering the power grid.
+
+[OVERVIEW]
+A simple three-stage conversion process.
+
+[RATIONALE]
+• Clear, succinct, accurate
+• Very coherent
+• Good academic tone
+• Could include grid flow detail

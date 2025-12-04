@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_maps","sample_id": "task1_map_band8_sample8","topics": ["playground","changes","school","new","considerably","experienced"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes to a school over 30 years.
+
+[SUMMARY]
+The school experienced significant expansion. A new two-storey classroom block was added to the north, replacing a large portion of the original playground.
+
+[SAMPLE_ANSWER]
+Band 8
+The school experienced significant expansion. A new two-storey classroom block was added to the north, replacing a large portion of the original playground. The playground itself was relocated eastward. To the south, the car park was enlarged considerably. Meanwhile, the old garden area was removed to make space for new buildings. Despite all these changes, the main entrance on the western side remained unchanged.
+
+[OVERVIEW]
+The school added more academic buildings and reorganised open spaces.
+
+[RATIONALE]
+• Good clarity and logical progression
+• Accurate details and positioning
+• Could use more dynamic phrasing for Band 9

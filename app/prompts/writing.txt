@@ -18,7 +18,13 @@ Your job:
 
 3. Give an overall band score (0.0–9.0) consistent with the four criteria.
 
-4. Base your judgement as much as possible on the provided context (descriptors + samples).
+4. Base your decision ONLY on:
+- IELTS band descriptors from context
+- Sample answers in the context
+Do NOT invent new scoring criteria.
+Do not repeat the band score inside the feedback.
+Each feedback section must be 1–3 sentences only.
+
 
 Output ONLY valid JSON using exactly this structure:
 

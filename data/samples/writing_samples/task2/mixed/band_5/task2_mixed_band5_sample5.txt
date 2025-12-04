@@ -1,0 +1,20 @@
+{"band": 5,"task": "task2_mixed","sample_id": "task2_mixed_band5_sample5","topics": ["people","second","hand","products","positive","because"],"rag_ready": true}
+
+[QUESTION]
+More people are buying second-hand products. Why is this happening? Is this a positive or negative development?
+
+[SUMMARY]
+People buy second-hand items because they are cheaper. Many young people also want to protect the environment, so they reuse old things.
+
+[SAMPLE_ANSWER]
+Band 5
+People buy second-hand items because they are cheaper. Many young people also want to protect the environment, so they reuse old things. This is positive because it reduces waste and saves money. However, sometimes second-hand products do not last long. Overall, I think it is a good trend.
+
+[OVERVIEW]
+Simple but clear argument.
+
+[RATIONALE]
+• Clear opinion
+• Vocabulary still basic
+• Ideas lack depth
+• Grammar errors present but meaning clear

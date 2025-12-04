@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample2","topics": ["travel","people","young","think","good","they"],"rag_ready": true}
+
+[QUESTION]
+More young people are choosing to travel before starting university. Why is this happening? Do you think it is a good idea?
+
+[SUMMARY]
+Young people travel because they want relax and see world. They don’t want study right away.
+
+[SAMPLE_ANSWER]
+Band 4
+Young people travel because they want relax and see world. They don’t want study right away. I think travel is good but also can waste time if too long.
+
+[OVERVIEW]
+Basic explanation but unclear reasoning.
+
+[RATIONALE]
+• Short, undeveloped answers
+• Repetitive ideas
+• Grammar mistakes
+• Weak structure

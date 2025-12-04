@@ -1,0 +1,21 @@
+{"band": 5,"task": "task1_graphs","sample_id": "task1_line_band5_sample3","topics": ["country","unemployment","graph","shows","countries","increased"],"rag_ready": true}
+
+[QUESTION]
+The line graph shows the unemployment rate in two countries between 2005 and 2020.
+
+[SUMMARY]
+The graph shows unemployment in Country A and B. In general, both changed several times.
+
+[SAMPLE_ANSWER]
+Band 5
+The graph shows unemployment in Country A and B. In general, both changed several times.
+
+Country A started at 6% in 2005 and fell to 4% in 2010. After that, it rose again to 7% in 2015 before dropping slightly to 6% by 2020. Country B was lower at the start with 4%, but it increased to 6% in 2020.
+
+[OVERVIEW]
+Both countries had fluctuations but ended up close.
+
+[RATIONALE]
+• Limited detail
+• Comparisons not strong
+• Basic tense control

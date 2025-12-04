@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_opinion","sample_id": "task2_opinion_band4_sample9","topics": ["food","fast","people","reason","health","agree"],"rag_ready": true}
+
+[QUESTION]
+Some people believe fast food is the main reason for health problems today. Do you agree or disagree?
+
+[SUMMARY]
+I agree because fast food is unhealthy. People eat too much burger and fries and get fat.
+
+[SAMPLE_ANSWER]
+Band 4
+I agree because fast food is unhealthy. People eat too much burger and fries and get fat. So fast food is reason for health problem. Eat home food better.
+
+[OVERVIEW]
+Basic, unsupported logic.
+
+[RATIONALE]
+• No analysis
+• Childlike vocabulary
+• Repetitive sentence patterns

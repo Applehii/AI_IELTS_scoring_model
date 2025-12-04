@@ -1,0 +1,19 @@
+{"band": 4,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band4_sample9","topics": ["watching","people","both","drawbacks","benefits","children"],"rag_ready": true}
+
+[QUESTION]
+Watching TV has both benefits and drawbacks. Discuss both.
+
+[SUMMARY]
+Watching TV give people relax after work. They can know news fast.
+
+[SAMPLE_ANSWER]
+Band 4
+Watching TV give people relax after work. They can know news fast. But TV make people lazy and watch too long. Children copy bad thing in TV. So TV is not always good.
+
+[OVERVIEW]
+Relaxing but can be harmful for kids.
+
+[RATIONALE]
+• Ideas undeveloped
+• Weak academic tone
+• Repetitive grammar mistakes

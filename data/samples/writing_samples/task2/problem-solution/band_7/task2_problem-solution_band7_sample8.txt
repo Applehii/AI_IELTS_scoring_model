@@ -1,0 +1,20 @@
+{"band": 7,"task": "task2_problem-solution","sample_id": "task2_problem-solution_band7_sample8","topics": ["people","can","older","what","governments","increasing"],"rag_ready": true}
+
+[QUESTION]
+Some countries face increasing numbers of elderly people. What problems does this create and what solutions can be offered?
+
+[SUMMARY]
+An ageing population places pressure on the healthcare system, as older people require more medical care. Pension funds may also become strained if fewer young people contribute to the workforce.
+
+[SAMPLE_ANSWER]
+Band 7
+An ageing population places pressure on the healthcare system, as older people require more medical care. Pension funds may also become strained if fewer young people contribute to the workforce.
+Governments can encourage higher birth rates by offering childcare support and tax benefits for families. Another solution is raising the retirement age slightly so older adults can continue contributing. These measures help balance demographic challenges.
+
+[OVERVIEW]
+Ageing populations strain healthcare and pensions; birth-rate support and retirement changes help.
+
+[RATIONALE]
+• Good structure
+• Sensible, realistic solutions
+• Slightly brief explanations

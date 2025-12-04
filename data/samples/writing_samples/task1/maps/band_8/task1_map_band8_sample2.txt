@@ -1,0 +1,19 @@
+{"band": 8,"task": "task1_maps","sample_id": "task1_map_band8_sample2","topics": ["central","period","park","over","year","modernisation"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes to a central park over a 30-year period.
+
+[SUMMARY]
+Over the 30-year period, the central park underwent extensive modernisation. The original large pond in the middle was reshaped into a smaller circular lake, now surrounded by landscaped footpaths.
+
+[SAMPLE_ANSWER]
+Band 8
+Over the 30-year period, the central park underwent extensive modernisation. The original large pond in the middle was reshaped into a smaller circular lake, now surrounded by landscaped footpaths. The western picnic area was removed and replaced by a café, while the southern entrance was expanded to include a visitor information centre. To the east, the formerly empty lawn was converted into a children’s playground. The northern garden area remained, but it was redesigned with additional pathways.
+
+[OVERVIEW]
+Most notable changes include new amenities such as a café and playground, and redesigned water and green spaces.
+
+[RATIONALE]
+• Accurate, concise, covers all major changes
+• Very good sense of spatial organisation
+• Missing only a bit of finer detail for Band 9

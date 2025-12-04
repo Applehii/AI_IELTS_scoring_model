@@ -1,0 +1,19 @@
+{"band": 8,"task": "task2_opinion","sample_id": "task2_opinion_band8_sample10","topics": ["reading","videos","books","agree","more","demonstrations"],"rag_ready": true}
+
+[QUESTION]
+Reading books is more useful than watching videos. Agree or disagree?
+
+[SUMMARY]
+I agree that reading books offers deeper learning because it encourages focus, imagination, and critical thinking. Videos, while engaging, often promote passive consumption.
+
+[SAMPLE_ANSWER]
+Band 8
+I agree that reading books offers deeper learning because it encourages focus, imagination, and critical thinking. Videos, while engaging, often promote passive consumption. However, videos are extremely effective for visual demonstrations. For long-term intellectual development, reading remains more beneficial, but both mediums can complement each other.
+
+[OVERVIEW]
+Clear opinion with nuanced comparison.
+
+[RATIONALE]
+• High-level vocabulary
+• Strong reasoning
+• Excellent coherence

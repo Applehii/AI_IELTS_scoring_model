@@ -1,0 +1,19 @@
+{"band": 7,"task": "task2_adv-disadv","sample_id": "task2_adv-disadv_band7_sample7","topics": ["vegetarian","more","not","disadvantages","additionally","environment"],"rag_ready": true}
+
+[QUESTION]
+More people are choosing to eat vegetarian food. What are the advantages and disadvantages?
+
+[SUMMARY]
+A vegetarian diet is healthier because it reduces the risk of heart disease and obesity. It is also better for the environment, as producing meat requires more resources.
+
+[SAMPLE_ANSWER]
+Band 7
+A vegetarian diet is healthier because it reduces the risk of heart disease and obesity. It is also better for the environment, as producing meat requires more resources. However, vegetarians may lack important nutrients such as iron and vitamin B12 if they do not plan their meals carefully. Additionally, plant-based options are not always available everywhere. Overall, a vegetarian lifestyle is beneficial but requires careful management.
+
+[OVERVIEW]
+Health and environmental benefits vs. nutritional limitations.
+
+[RATIONALE]
+• Well-developed ideas
+• Some advanced vocabulary (resources, nutrients)
+• Needs more complex sentence variety

@@ -1,0 +1,19 @@
+{"band": 7,"task": "task1_maps","sample_id": "task1_map_band7_sample4","topics": ["university","building","campus","sports","field","main"],"rag_ready": true}
+
+[QUESTION]
+The maps show changes in a university campus between 2000 and 2020.
+
+[SUMMARY]
+The university campus became significantly more developed over the 20-year period. In 2000, it consisted of a main building, a library, and a sports field.
+
+[SAMPLE_ANSWER]
+Band 7
+The university campus became significantly more developed over the 20-year period. In 2000, it consisted of a main building, a library, and a sports field. By 2020, a new science building had been constructed to the west of the main block. The sports field was relocated further south and replaced by a spacious car park. The footpath network was expanded to connect the new facilities effectively. Green areas were rearranged, but the library retained its original position.
+
+[OVERVIEW]
+More academic and support facilities were added, improving accessibility.
+
+[RATIONALE]
+• Accurate, detailed, well-organised
+• Good use of locations (east/west)
+• Could include more subtle comparisons to reach Band 8

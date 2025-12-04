@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_opinion","sample_id": "task2_opinion_band4_sample2","topics": ["think","children","people","watch","some","they"],"rag_ready": true}
+
+[QUESTION]
+Some people believe that watching TV is bad for children, while others think it is good. Do you agree or disagree?
+
+[SUMMARY]
+I think TV is ok for children. They can watch cartoon and learn something.
+
+[SAMPLE_ANSWER]
+Band 4
+I think TV is ok for children. They can watch cartoon and learn something. Many kids like TV and they happy. Some people say TV is bad but I don’t think so much. Just watch not too much is fine.
+
+[OVERVIEW]
+No structure, unsupported claims.
+
+[RATIONALE]
+• Weak development
+• Casual language
+• Grammar mistakes (missing articles, incorrect verb forms)
+• Very limited vocabulary

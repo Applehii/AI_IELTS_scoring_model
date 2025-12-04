@@ -1,0 +1,20 @@
+{"band": 4,"task": "task2_mixed","sample_id": "task2_mixed_band4_sample1","topics": ["online","shopping","people","many","because","but"],"rag_ready": true}
+
+[QUESTION]
+Many people today prefer shopping online. Why is this the case? Is this a positive or negative development?
+
+[SUMMARY]
+Many people buy online because it easy and they don’t need go outside. Also have many choice.
+
+[SAMPLE_ANSWER]
+Band 4
+Many people buy online because it easy and they don’t need go outside. Also have many choice. But sometimes online shopping bad because people get wrong product. I think online shopping okay but not always good.
+
+[OVERVIEW]
+Gives simple reasons; weak opinion.
+
+[RATIONALE]
+• Major grammar errors
+• Very simple vocabulary
+• Ideas not developed
+• No clear explanation

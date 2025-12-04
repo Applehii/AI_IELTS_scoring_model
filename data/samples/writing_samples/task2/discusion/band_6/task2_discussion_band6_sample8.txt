@@ -1,0 +1,20 @@
+{"band": 6,"task": "task2_discusion","sample_id": "task2_discussion_band6_sample8","topics": ["cities","people","better","who","prefer","rural"],"rag_ready": true}
+
+[QUESTION]
+Some people believe living in big cities is better, while others prefer rural areas. Discuss both views and give your opinion.
+
+[SUMMARY]
+People who prefer big cities say they offer more job opportunities, services, and entertainment. Cities also have better hospitals and schools.
+
+[SAMPLE_ANSWER]
+Band 6
+People who prefer big cities say they offer more job opportunities, services, and entertainment. Cities also have better hospitals and schools. However, people who like the countryside argue it is more peaceful and less polluted. They feel life there is healthier. In my view, cities are good for young workers, but rural areas are better for families who want a quiet life.
+
+[OVERVIEW]
+Clear ideas but not deeply developed.
+
+[RATIONALE]
+• Relies on general statements
+• Some grammar errors
+• Simple vocabulary
+• Needs more specific examples

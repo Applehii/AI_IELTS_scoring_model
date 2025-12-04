@@ -1,0 +1,20 @@
+{"band": 4,"task": "task1_diagrams","sample_id": "task1_diagram_band4_sample7","topics": ["orange","juice","diagram","then","produced","squeeze"],"rag_ready": true}
+
+[QUESTION]
+The diagram shows how orange juice is produced.
+
+[SUMMARY]
+The diagram show orange juice make. Orange pick and wash.
+
+[SAMPLE_ANSWER]
+Band 4
+The diagram show orange juice make. Orange pick and wash. Then squeeze. Juice put into bottle. Then send to store.
+
+[OVERVIEW]
+Orange to juice.
+
+[RATIONALE]
+• Extremely short  
+• Missing filtration, pasteurization  
+• Weak overview  
+• Poor coherence

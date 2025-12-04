@@ -1,0 +1,19 @@
+{"band": 5,"task": "task2_opinion","sample_id": "task2_opinion_band5_sample3","topics": ["free","university","education","people","should","think"],"rag_ready": true}
+
+[QUESTION]
+Many people think university education should be free. Do you agree or disagree?
+
+[SUMMARY]
+I agree because many students cannot afford university fees. If education is free, more people can study and get better jobs.
+
+[SAMPLE_ANSWER]
+Band 5
+I agree because many students cannot afford university fees. If education is free, more people can study and get better jobs. However, making everything free may cost the government too much money. So I think it should be cheaper, not completely free.
+
+[OVERVIEW]
+Two-sided opinion but not deep.
+
+[RATIONALE]
+• Some development but still general
+• Grammar errors (missing articles, wrong tense)
+• Simple vocabulary
