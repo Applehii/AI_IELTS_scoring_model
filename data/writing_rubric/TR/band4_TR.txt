@@ -1,4 +1,0 @@
-Task Response Band 4:
-- Responds to the task only in a minimal way.
-- Ideas are limited and often unclear.
-- Does not address all parts of the task.

@@ -1,0 +1,26 @@
+TASK ACHIVEMENT
+
+Band 9:
+- Overview highlights the most significant trends only.
+- Data is grouped logically (not listed chronologically).
+- Key comparisons are clearly made and fully accurate.
+
+Band 8:
+- Clear and well-developed overview.
+- Mostly logical grouping.
+- Comparisons are clear but not fully extended.
+
+Band 7:
+- Clear overview but may miss subtle trends.
+- Mostly logical grouping of data.
+- Comparisons are present but not always fully developed.
+
+Band 6:
+- Overview is present but generic or unclear.
+- Data is often listed sequentially rather than grouped.
+- Limited or basic comparisons.
+
+Band 5 or below:
+- Missing or unclear overview.
+- Poor or no grouping of data.
+- Very limited or inaccurate comparisons.
