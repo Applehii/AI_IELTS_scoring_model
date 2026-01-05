@@ -1,0 +1,37 @@
+====================
+TASK RESPONSE BAND RUBRIC (TR) – IELTS TASK 2
+(TIER 1 – TASK-AGNOSTIC CORE CONDITIONS)
+====================
+
+Band 9:
+- Fully addresses ALL REQUIRED elements of the task (as defined by the task type).
+- A clear and consistent position is presented throughout, IF the task type requires a position.
+- All main ideas are fully developed with clear explanation and relevant support.
+- No irrelevant or off-task content is present.
+
+Band 8:
+- Addresses ALL REQUIRED elements of the task.
+- A clear position is presented, IF the task type requires a position.
+- Main ideas are well developed, though support may be less extended than Band 9.
+- Minor lapses in focus may occur, but no clearly irrelevant content.
+
+Band 7:
+- Addresses ALL REQUIRED elements of the task, BUT:
+  - A position may be unclear or inconsistently stated, IF required by the task type, OR
+  - Some required ideas are developed only at a basic level.
+- No required element is completely missing.
+- Minor irrelevant content may appear but does not dominate.
+
+Band 6:
+- Partially addresses the task:
+  - At least ONE required element is insufficiently addressed or only mentioned.
+- A position may be unclear, inconsistent, or weak, IF required.
+- Ideas are basic or repetitive, with limited explanation or support.
+- Some irrelevant content may be present.
+
+Band 5 or below:
+- The task is NOT adequately addressed:
+  - One or more REQUIRED elements are completely missing.
+- A required position is missing or contradictory.
+- Ideas are largely undeveloped or irrelevant.
+- Off-task content may dominate the response.

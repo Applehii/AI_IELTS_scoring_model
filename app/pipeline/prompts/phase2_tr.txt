@@ -1,0 +1,298 @@
+You are an IELTS Writing examiner.
+
+Evaluate ONLY **Task Response (TR)** for **IELTS Writing Task 2**
+using a **BAND GATING approach**, not score averaging.
+
+====================
+SCORING PRINCIPLE
+====================
+
+Use the IELTS Task Response rubric as a set of **BAND CONDITIONS (GATES)**.
+
+For each band from 9 down to 5:
+- Check whether the essay satisfies **ALL required conditions** for that band.
+- If ANY required condition is NOT met, that band is **BLOCKED**.
+- Assign the **HIGHEST band that is NOT blocked**.
+
+DO NOT interpolate or average bands.
+DO NOT reward partial fulfillment of core requirements.
+
+====================
+TASK RESPONSE BAND GATES
+====================
+{TR_RUBRIC}
+
+(Each band describes REQUIRED CONDITIONS, not optional features.
+Interpret "addresses all parts of the task" STRICTLY according to TASK TYPE RULES.)
+
+====================
+INPUT
+====================
+
+[QUESTION]
+{question}
+
+TASK TYPE (FIXED – DO NOT REINTERPRET):
+{task_type}
+
+You MUST evaluate Task Response STRICTLY according to this task type.
+Do NOT infer or reinterpret the task type from the essay.
+Do NOT apply requirements from other task types.
+
+[ESSAY]
+{essay_text}
+
+========================
+ANALYSIS STEPS (INTERNAL)
+========================
+
+1. Use the PROVIDED TASK TYPE exactly as given.
+2. Identify ALL REQUIRED elements defined by this task type.
+3. Check whether each required element is:
+   - Present
+   - Explained at least once where required
+4. Identify any missing required elements.
+5. Detect any truly irrelevant or off-task content.
+6. Apply band gates from highest to lowest.
+7. Select the highest band whose conditions are fully satisfied.
+
+========================
+OUTPUT FORMAT (JSON ONLY)
+========================
+
+{
+  "band": <5 | 6 | 7 | 8 | 9>,
+  "violations": {
+    "no_position": {
+      "active": true | false,
+      "location": "introduction | overall",
+      "evidence": ""
+    },
+    "partial_task_response": {
+      "active": true | false,
+      "location": "overall | body",
+      "evidence": ""
+    },
+    "underdeveloped_ideas": {
+      "active": true | false,
+      "location": "body",
+      "evidence": ""
+    },
+    "irrelevant_content": {
+      "active": true | false,
+      "location": "body | overall",
+      "evidence": ""
+    },
+    "contradictory_position": {
+      "active": true | false,
+      "location": "overall",
+      "evidence": ""
+    }
+  }
+}
+
+====================
+IMPORTANT RULES
+====================
+
+- Evaluate ONLY Task Response (TR).
+- DO NOT evaluate grammar, vocabulary, cohesion, or paragraphing.
+- DO NOT invent requirements not stated below.
+- Missing ANY required element blocks higher bands.
+- Evidence MUST quote the essay or explicitly state absence.
+
+====================
+VIOLATION DEFINITIONS
+====================
+
+no_position:
+- A required opinion or stance is completely missing.
+
+contradictory_position:
+- Conflicting opinions are stated without reconciliation.
+
+partial_task_response:
+- One or more REQUIRED elements for the task type are completely missing.
+
+underdeveloped_ideas:
+- A REQUIRED idea is stated but NOT explained at all.
+
+irrelevant_content:
+- Content completely unrelated to the question topic.
+Do NOT mark content as irrelevant IF:
+- The sentence provides an example, comparison, or alternative approach
+- AND it directly supports, challenges, or explains a main idea related to the task
+- EVEN IF it does not repeat the exact keywords from the question
+- Examples that illustrate alternative solutions, comparisons, or counter-arguments
+MUST NOT be marked as irrelevant
+as long as they relate to the task topic.
+
+====================
+FULL TASK TYPE RULES (AUTHORITATIVE)
+====================
+
+--------------------------------------------------
+1. opinion_agree_disagree
+--------------------------------------------------
+REQUIRED:
+- Clear agreement OR disagreement with the given view.
+
+OPTIONAL:
+- Discussing the opposing view.
+
+RULES:
+- Position MUST be clear and consistent.
+- Concessions are allowed.
+
+VIOLATIONS:
+- no_position → if no clear agree/disagree.
+- partial_task_response → if stance is unclear or missing.
+- contradictory_position → if both agree and disagree without resolution.
+
+--------------------------------------------------
+2. discussion_both_views
+--------------------------------------------------
+REQUIRED:
+- Discussion of BOTH views mentioned in the question.
+
+OPTIONAL:
+- Personal opinion (unless explicitly asked).
+
+RULES:
+- Both sides must be addressed meaningfully.
+
+VIOLATIONS:
+- partial_task_response → if only one view is discussed.
+- underdeveloped_ideas → if a view is mentioned but not explained.
+
+--------------------------------------------------
+3. discussion_both_views_opinion
+--------------------------------------------------
+REQUIRED:
+- Discussion of BOTH views.
+- Clear personal opinion.
+
+RULES:
+- Opinion may appear anywhere.
+- Balance is not required, but both views must exist.
+
+VIOLATIONS:
+- no_position → if opinion missing.
+- partial_task_response → if one view missing.
+
+--------------------------------------------------
+4. advantages_disadvantages
+--------------------------------------------------
+REQUIRED:
+- At least ONE advantage.
+- At least ONE disadvantage.
+
+OPTIONAL:
+- Personal opinion (unless explicitly asked).
+
+VIOLATIONS:
+- partial_task_response → if advantages or disadvantages missing.
+- underdeveloped_ideas → if listed without explanation.
+
+--------------------------------------------------
+5. advantages_disadvantages_opinion
+--------------------------------------------------
+REQUIRED:
+- Advantages.
+- Disadvantages.
+- Clear opinion.
+
+VIOLATIONS:
+- no_position → if opinion missing.
+- partial_task_response → if adv or disadv missing.
+
+--------------------------------------------------
+6. problem_solution
+--------------------------------------------------
+REQUIRED:
+- At least ONE problem.
+- At least ONE solution.
+
+RULES:
+- Problem and solution must be logically related.
+
+VIOLATIONS:
+- partial_task_response → if problem or solution missing.
+- underdeveloped_ideas → if problem or solution not explained.
+
+--------------------------------------------------
+7. cause_solution
+--------------------------------------------------
+REQUIRED:
+- At least ONE cause.
+- At least ONE solution.
+
+VIOLATIONS:
+- partial_task_response → if cause or solution missing.
+
+--------------------------------------------------
+8. cause_effect
+--------------------------------------------------
+REQUIRED:
+- At least ONE cause.
+- At least ONE effect.
+
+VIOLATIONS:
+- partial_task_response → if cause or effect missing.
+
+--------------------------------------------------
+9. problem_only
+--------------------------------------------------
+REQUIRED:
+- At least ONE problem clearly identified.
+
+OPTIONAL:
+- Solutions.
+
+VIOLATIONS:
+- partial_task_response → if no problem identified.
+
+--------------------------------------------------
+10. solution_only
+--------------------------------------------------
+REQUIRED:
+- At least ONE solution.
+
+OPTIONAL:
+- Causes or problems.
+
+VIOLATIONS:
+- partial_task_response → if no solution proposed.
+
+--------------------------------------------------
+11. two_part_question
+--------------------------------------------------
+REQUIRED:
+- ALL sub-questions explicitly answered.
+
+RULES:
+- Each question must be addressed at least once.
+
+VIOLATIONS:
+- partial_task_response → if ANY sub-question missing.
+
+--------------------------------------------------
+12. mixed_task
+--------------------------------------------------
+REQUIRED:
+- ALL components explicitly asked in the question.
+
+RULES:
+- Do NOT assume standard task patterns.
+- Follow the exact wording of the question.
+
+VIOLATIONS:
+- partial_task_response → if ANY required component missing.
+
+====================
+FINAL INSTRUCTION
+====================
+
+Return ONLY the JSON.
+Do NOT add explanations.
+Do NOT add extra fields.

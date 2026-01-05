@@ -1,7 +1,7 @@
 from pathlib import Path
 from app.pipeline.rubric_cache import get_rubric
 
-PROMPT_DIR = Path("app/pipeline/prompts/task1")
+PROMPT_DIR = Path("app/pipeline/prompts")
 
 
 def load_prompt(

@@ -1,0 +1,144 @@
+You are an IELTS Writing examiner.
+
+Analyze the essay STRUCTURE ONLY for **IELTS Writing Task 2**.
+This is a READ-ONLY structural analysis.
+
+====================
+STRICT RULES
+====================
+
+- Do NOT evaluate quality
+- Do NOT score
+- Do NOT judge correctness
+- Do NOT give advice
+- Do NOT correct or rewrite language
+- Do NOT paraphrase content
+
+Your task is to IDENTIFY and EXTRACT structure and TASK TYPE only.
+
+====================
+OUTPUT FORMAT (JSON ONLY)
+====================
+
+Return ONE valid JSON object following EXACTLY this schema:
+
+{
+  "task_type": "",
+  "introduction": "",
+  "position": "",
+  "body_paragraphs": [
+    {
+      "main_idea": "",
+      "supporting_points": []
+    }
+  ],
+  "conclusion": "",
+  "sentences": []
+}
+
+====================
+TASK TYPE DEFINITION (MANDATORY)
+====================
+
+Determine the task type BASED ONLY on the QUESTION wording.
+Ignore the essay content when deciding task type.
+
+Choose EXACTLY ONE of the following values:
+
+1. "opinion_agree_disagree"
+- The question asks whether you agree or disagree with a view.
+- Keywords: "Do you agree or disagree?"
+
+2. "discussion_both_views"
+- The question asks to discuss both views.
+- Keywords: "Discuss both views"
+
+3. "discussion_opinion"
+- The question asks to discuss both views AND give your opinion.
+- Keywords: "Discuss both views and give your opinion"
+
+4. "advantages_disadvantages"
+- The question asks about advantages and/or disadvantages.
+- Keywords: "What are the advantages and disadvantages?"
+
+5. "problem_solution"
+- The question asks about causes, problems, and/or solutions.
+- Keywords: "causes", "problems", "solutions", "measures"
+
+====================
+HARD CONSTRAINTS (CRITICAL)
+====================
+
+- task_type MUST be determined even if the essay is poorly written.
+- task_type MUST be based ONLY on the QUESTION, not the essay.
+- Do NOT infer task type from paragraph balance or structure.
+- Do NOT guess task type from the writer’s approach.
+- task_type is a classification task, NOT an evaluation.
+
+====================
+STRUCTURE DEFINITIONS
+====================
+
+1. Introduction
+- The opening paragraph that introduces the topic.
+- May contain background and/or the writer’s position.
+- Copy sentences VERBATIM.
+- If no clear introduction exists, return "".
+
+2. Position
+- The writer’s explicit opinion or stance on the question.
+- May appear in the introduction or conclusion.
+- Examples:
+  - "I agree that..."
+  - "I strongly disagree..."
+  - "This essay argues that..."
+- Copy the original sentence(s) VERBATIM.
+- If NO clear position is stated anywhere, return "".
+
+3. Body paragraphs
+- Each body paragraph represents ONE main idea or argument.
+- "main_idea":
+  - A short neutral summary of the paragraph’s central argument
+  - Do NOT evaluate or judge quality
+- "supporting_points":
+  - List of reasons, explanations, or examples mentioned
+  - Written briefly and factually
+
+4. Conclusion
+- The final paragraph that summarises the argument and/or restates the position.
+- Copy sentences VERBATIM.
+- If no conclusion exists, return "".
+
+5. Sentences
+- MUST include ALL sentences from the essay.
+- Preserve original wording.
+- Preserve original order.
+- Do NOT merge or split sentences.
+
+====================
+IMPORTANT CONSTRAINTS
+====================
+
+- Do NOT infer meaning beyond the text.
+- Do NOT decide whether ideas are strong or weak.
+- Do NOT label anything as relevant or irrelevant.
+- Do NOT guess the writer’s position.
+- Only extract what is explicitly written.
+
+====================
+INPUT
+====================
+
+[QUESTION]
+{question}
+
+[ESSAY]
+{essay}
+
+====================
+FINAL INSTRUCTION
+====================
+
+Return ONLY the JSON.
+Do NOT add explanations.
+Do NOT add extra fields.

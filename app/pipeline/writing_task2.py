@@ -1,84 +1,50 @@
 from app.llm_client import LLMClient
 from app.rag_manager import RAGManager
-from app.pipeline.utils import (
-    extract_json,
-    extract_rubric,
-    extract_summary,
-    trim_context,
-)
 from app.pipeline import phases
+from app.pipeline.rule_exec import (
+    apply_all_rules,
+    finalize_score_task2,
+    apply_gra_ceiling,
+)
 
 
 class WritingTask2Pipeline:
     def __init__(self):
         self.llm = LLMClient("llama3.1")
         self.rag = RAGManager()
-
-    # --------------------------------------------------
-    # BUILD RAG CONTEXT (TASK 2 ONLY)
-    # --------------------------------------------------
-    def build_context(self, question: str) -> str:
-        chunks = []
-
-        # 1️⃣ Rubric (VERY SHORT)
-        rubric = self.rag.retrieve(
-            "IELTS Writing Task 2 band descriptors",
-            top_k=2,
-            where={"type": "writing_rubric_task2"}
-        )
-        for d in rubric["documents"]:
-            chunks.append("RUBRIC:\n" + extract_rubric(d))
-
-        # 2️⃣ Task 2 guide
-        guide = self.rag.retrieve(
-            question,
-            top_k=1,
-            where={"type": "writing_task2_guide"}
-        )
-        for d in guide["documents"]:
-            chunks.append("GUIDE:\n" + extract_rubric(d))
-
-        # 3️⃣ Sample summaries ONLY
-        samples = self.rag.retrieve(
-            question,
-            top_k=2,
-            where={"type": "writing_sample"}
-        )
-        for d in samples["documents"]:
-            summary = extract_summary(d)
-            if summary:
-                chunks.append("SAMPLE SUMMARY:\n" + summary)
-
-        return "\n\n---\n\n".join(trim_context(chunks))
-
-    # --------------------------------------------------
+    # ==================================================
     # MAIN ENTRY
-    # --------------------------------------------------
+    # ==================================================
     def score(
         self,
         question: str,
         answer: str,
         debug: bool = False
     ):
-        # =====================
-        # BUILD CONTEXT
-        # =====================
-        context = self.build_context(question)
 
         # =====================
         # PHASE 1 – PARSE ESSAY
         # =====================
-        parsed_essay = phases.phase1_parse(self.llm, answer)
+        parsed_essay = phases.phase1_parse_task2(self.llm, question,answer)
 
         # =====================
-        # PHASE 2 – TASK RESPONSE
+        # PHASE 2 – TASK RESPONSE (DETECTION ONLY)
         # =====================
-        tr = phases.phase2_tr(
+        tr_output = phases.phase2_tr(
             self.llm,
             question,
             parsed_essay,
-            context
+            task_type=parsed_essay["task_type"]
         )
+
+        tr_band = tr_output["band"]
+
+        tr = {
+            "base_band": tr_band,
+            "final_band": tr_band,
+            "band": tr_band,
+            "violations": tr_output.get("violations", {})
+        }
 
         # =====================
         # PHASE 3 – COHERENCE & COHESION
@@ -88,20 +54,70 @@ class WritingTask2Pipeline:
         # =====================
         # PHASE 4 – LEXICAL RESOURCE
         # =====================
-        lr = phases.phase4_lr(self.llm, answer)
+        lr = phases.phase4_lr(self.llm, parsed_essay)
 
         # =====================
-        # PHASE 5 – GRAMMAR
+        # PHASE 5 – GRAMMATICAL RANGE & ACCURACY
         # =====================
         gra = phases.phase5_gra(self.llm, parsed_essay)
 
         # =====================
-        # PHASE 6 – OVERALL BAND
+        # PHASE 5.5 – RAW BANDS SNAPSHOT
         # =====================
-        overall = phases.phase6_band(tr, cc, lr, gra)
+        raw_bands = {
+            "TR": tr["base_band"],
+            "CC": cc["band"],
+            "LR": lr["band"],
+            "GRA": gra["band"],
+        }
 
         # =====================
-        # PHASE 7 – FEEDBACK
+        # PHASE 6 – RULE ENGINE (HARD + SOFT)
+        # =====================
+        capped_bands, overall_cap, applied_hard, applied_soft = apply_all_rules(
+            raw_bands,
+            tr.get("violations", {})
+        )
+
+        # =====================
+        # PHASE 6.5 – FINAL OVERALL SCORING
+        # =====================
+        final_band, note = finalize_score_task2(
+            bands_after_rules=capped_bands,
+            gra_violations=gra.get("violations", []),
+            overall_cap=overall_cap
+        )
+
+        # =====================
+        # PHASE 7 – ATTACH FINAL BANDS (UNIFIED)
+        # =====================
+        gra_ceiled = apply_gra_ceiling(
+            capped_bands["GRA"],
+            gra.get("violations", [])
+        )
+
+        for criterion, value in zip(
+            [tr, cc, lr, gra],
+            [
+                capped_bands["TR"],
+                capped_bands["CC"],
+                capped_bands["LR"],
+                gra_ceiled,
+            ]
+        ):
+            criterion["final_band"] = value
+            criterion["band"] = value
+
+        tr["applied_soft"] = applied_soft
+
+        overall = {
+            "band": final_band,
+            "note": note,
+            "hard_caps": applied_hard
+        }
+
+        # =====================
+        # PHASE 8 – FEEDBACK
         # =====================
         feedback = phases.phase7_feedback_task2(
             self.llm,
@@ -116,6 +132,9 @@ class WritingTask2Pipeline:
             },
         )
 
+        # =====================
+        # FINAL RESULT
+        # =====================
         result = {
             "task": "IELTS Writing Task 2",
             "overall": overall,
@@ -132,6 +151,10 @@ class WritingTask2Pipeline:
             result["debug"] = {
                 "context": context,
                 "parsed_essay": parsed_essay,
+                "raw_bands": raw_bands,
+                "bands_after_rules": capped_bands,
+                "applied_hard": applied_hard,
+                "applied_soft": applied_soft,
             }
 
         return result
